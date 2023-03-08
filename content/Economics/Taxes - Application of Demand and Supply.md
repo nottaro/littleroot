@@ -52,3 +52,5 @@ Taxes on a demand and supply curve **only affects the supply curve**
 4.  Increases Equilibrium Price
 5.  Decreases Equilibrium Quantity
 6. Affects Consumption
+
+**When graphing Consumer/Producer Surplus: Always use original supply curve to calculate, not the new supply curve (with tax)**
