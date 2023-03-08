@@ -59,3 +59,22 @@ Taxes on a demand and supply curve **only affects the supply curve**
 6. Affects Consumption
 
 **When graphing Consumer/Producer Surplus: Always use original supply curve to calculate, not the new supply curve (with tax)**
+
+## Incidence of Taxation
+
+**Total Tax Revenue:**
+
+$0Q_1*P_1P_2$
+
+**Consumers Pay:**
+
+$P_1P_0*0Q_1$ Producers Pay:
+
+$P_0P_2*0Q_1$
+
+### Who bears a heavier tax burden
+
+-   Depends on the relative price elasticities of demand and supply
+-   The more price inelastic the **demand** is, the greater the burden of tax on **buyers**
+-   The more price inelastic the **supply** is, the greater the burden of tax on **sellers**
+-   In general, the party that is relatively less responsive to price changes will bear a higher burden of the tax
