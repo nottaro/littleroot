@@ -3,6 +3,8 @@ title: Taxes - Application of Demand and Supply
 enableToc: true
 ---
 
+[Go back](Economics/Economics.md)
+
 ## Types of Tax
 
 1.  Direct tax
