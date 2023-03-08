@@ -1,6 +1,6 @@
 ---
 title: Introduction to Economics
-enableToc: false
+enableToc: true
 ---
 
 [Go back](Economics/Economics.md)
