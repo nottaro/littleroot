@@ -40,7 +40,15 @@ Taxes on a demand and supply curve **only affects the supply curve**
     1.  Refers to the eventual distribution of the tax burden (i.e., who ultimately bears the tax)
 
 ****************Example:****************
-
 1.  Government levies tax on producer
 2.  Impact of tax is on producer
 3.  Incidence of tax is shared between producer and consumer
+
+
+**Effects**
+1.  Increases cost of production
+2.  Decreases supply
+3.  Shortage at $P_0$
+4.  Increases Equilibrium Price
+5.  Decreases Equilibrium Quantity
+6. Affects Consumption
