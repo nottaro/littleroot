@@ -1,6 +1,6 @@
 ---
 title: Electronic Configuration
-enableToc: false
+enableToc: true
 ---
 
 -   Electrons are arranged in energy levels or shells

@@ -1,3 +1,8 @@
+---
+title: Atomic Structure
+enableToc: true
+---
+
 [Go Back](Chemistry/Chemistry.md)
 
 # **John Dalton**

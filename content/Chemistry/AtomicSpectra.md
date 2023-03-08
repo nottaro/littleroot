@@ -1,4 +1,12 @@
+
+---
+title: Atomic Spectra
+enableToc: true
+---
+
 [Go Back](Chemistry/Chemistry.md)
+
+
 
 # _**Differences in Discrete Energy Levels**_
 
