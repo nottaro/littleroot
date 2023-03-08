@@ -17,4 +17,5 @@ enableToc: true
 -   Total surplus reflects society’s welfare
 -   One of the key concerns of economics: Maximise **TS**
 -   ************************Allocative efficiency************************ achieved when TS is maximised
-- 
+
+Deadweight loss: Area between consumer and producer surplus, and market equilibrium
