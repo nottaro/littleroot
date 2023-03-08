@@ -10,3 +10,5 @@ Year 11 Notes:
 [Atomic Structure](Chemistry/AtomicStructure.md)
 
 [Electronic Configuration](Chemistry/ElectronicConfig.md)
+
+More to come!
