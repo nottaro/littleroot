@@ -3,7 +3,7 @@ title: Taxes - Application of Demand and Supply
 enableToc: true
 ---
 
-************Types of Taxes************
+## Types of Tax
 
 1.  Direct tax
     1.  Income/wealth tax
