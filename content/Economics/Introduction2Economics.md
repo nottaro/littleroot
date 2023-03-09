@@ -137,7 +137,8 @@ enableToc: true
 ### Normative Concepts
 
 -   Normative statements can only be assessed relative to values, opinions, and judgements
-    -   Cannot be true or false
+-   Cannot be true or false
+-   Describes how things should/ought to work in the economy
 
 ## 4 Factors of Production (FOP)
 
