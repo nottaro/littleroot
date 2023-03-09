@@ -96,6 +96,7 @@ enableToc: true
 # Gothic Ideals
 
 -   Pathetic fallacy
+    -   When a character’s feelings are projected onto the setting around them
 -   Byronic Hero
 -   The pursued protagonist
 -   Haunted settings
@@ -103,3 +104,18 @@ enableToc: true
 -   Doppelgängers and gothic doubling
 -   Supernatural or **********spectral********** motifs
 -   The “virginal maiden”/Gothic heroine
+
+# More Generic Conventions of the Gothic
+
+-   Uncanny atmosphere
+-   Unreliable narrators
+-   “Outsider” characters
+    -   Characters given to violence or irrational actions
+    -   Madness; mad scientist, the psychopath or wildly unpredictable person
+-   Unsettling settings
+    -   Night-time
+    -   Haunted locations
+-   Natural imagery of sublime landscape
+-   Things beyond human comprehension
+    -   The supernatural
+-   Death, decay, disintegration (in both characters and settings)
