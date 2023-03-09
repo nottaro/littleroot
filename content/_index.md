@@ -11,7 +11,7 @@ Subjects:
 1. [Chemistry](Chemistry/Chemistry.md)
 2. Physics
 3. [Economics](Economics/Economics.md)
-4. Literature
+4. [Literature](Literature/Literature.md)
 5. Methods
 6. Specialist 
 
