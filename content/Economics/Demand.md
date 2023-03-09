@@ -69,3 +69,70 @@
 3.  Changes in Consumer’s Money income
 4.  Changes in Price/Demand of related goods
 5.  Changes in consumer tastes and preferences
+
+
+### Changes in Price/Demand of Related Goods
+
+******Substitutes******
+
+-   Alternative product that can replace another because it satisfies the same want
+-   A.k.a. competitive demand
+-   If the price of one good changes, the demand for the substitute good will change in the same direction
+
+**********************Complements**********************
+
+-   Complementary products must be used at the same time with another to satisfy the same human wants
+-   A.k.a. joint demand
+-   Separate products, but are consumed at the same time
+-   If the price of one good changes, the demand for the complementary good will change in the opposite direction
+
+**********************************************Goods in Derived Demand**********************************************
+
+-   When a good is in derived demand, it is demanded for its contribution to the manufacture of another product
+-   Usually raw materials, e.g. wood
+-   For 2 goods in derived demand, a change in demand for the final good causes a similar change in demand for the resource used to produce it
+
+### Changes in Consumer’s Money Income
+
+************************Normal Goods************************
+
+-   A good is a normal good when demand for it increases in response to an increase in consumer income
+-   Demand for the good varies directly with income
+-   Most goods are normal goods
+    -   Luxury goods, necessities
+-   Increase in income leads to a rightward shift in the demand curve, and vice versa
+-   Purchasing power increases with income, therefore demand increases
+
+****************************Inferior goods****************************
+
+-   Goods where the demand falls as consumer income increases and vice versa
+    -   E.g., cheaper alternatives, like flying with JetStar instead of Singapore Airlines
+-   Demand for the good varies inversely with income
+-   As income increases, consumers switch to more expensive alternatives, so the demand for the inferior good falls
+-   Relative to wants
+-   Increase in income leads to a leftward shift in the demand curve, and vice versa
+-   When income changes, demand will change in the opposite direction
+
+### Changes in Consumer Tastes and Preferences
+
+-   The more desirable a good is to consumers, the higher the demand, and vice versa
+-   Tastes and preferences are affected by advertisements, pop star appeal, age, peers, etc
+    -   Advertisement campaigns
+
+### Demographic Changes
+
+-   Changes in size/composition of population
+-   E.g., Age, if you are old, you will buy less athletic goods
+
+### Changes in Expectations about Future Price Changes
+
+-   If the price is expected to increase, demand will increase, so they have more purchasing power before the increase in price
+    -   Demand curve shifts to the right
+-   Vice versa
+
+## Upward-Sloping Demand Curve
+
+-   Ostentatious goods
+    -   E.g., Luxury items, cars, watches
+-   Price is directly related to quantity demanded
+-   Higher price is perceived as higher quality, resulting in more being bought
