@@ -14,6 +14,3 @@ Subjects:
 4. [Literature](Literature/Literature.md)
 5. Methods
 6. Specialist 
-
-
-
