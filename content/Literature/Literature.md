@@ -1,5 +1,5 @@
 ---
-title: Literarture Notes
+title: Literature Notes
 enableToc: false
 ---
 

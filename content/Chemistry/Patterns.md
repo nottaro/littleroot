@@ -48,7 +48,7 @@ ESF: Electrostatic Forces of Attraction
 
 ## Atomic Radius
 
--   *********************Atomic Radius:*************************** Distance from the outermost valence electron to the nucleus
+-   **Atomic Radius:** Distance from the outermost valence electron to the nucleus
 -   Atomic Radius decreases across a period
     -   The outer electrons are in the same shell but the increasing net nuclear attraction pulls the outer electrons closer to the nucleus
 -   Increases down a group
