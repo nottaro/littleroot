@@ -60,10 +60,8 @@
 -   ************************************Individual Demand:************************************ Demand for a good or service by an individual consumer
 -   ****Market Demand:**** Sum of the individual demand for a good or service by all of the consumers in the market
 
-![Factors affect Demand](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ea3ebd2-0a2c-488d-bf05-527d748aa4cd/Screenshot_2023-03-07_at_7.44.40_pm.png)
-
-![Non-Price Factors affecting Ability and Willingness to buy](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8aaccc1f-b828-411b-9754-a81547e6b0f4/Screenshot_2023-03-08_at_8.40.57_am.png)
-
+![](Images/factors.png)
+![](Images/non%20price.png)
 **********Non-Price Factors affecting Ability and Willingness to buy**********
 
 1.  Demographic Changes, e.g. size/composition of population
