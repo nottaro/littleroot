@@ -3,6 +3,8 @@ title: Gothic Literature
 enableToc: true
 ---
 
+[go back](Literature/Literature.md)
+
 # The Dark Ages
 
 -   Alternatively the Middle Ages (approx. 800 AD - 1500)

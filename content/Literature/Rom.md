@@ -3,6 +3,8 @@ title: Romanticism Notes
 enableToc: true
 ---
 
+[go back](Literature/Literature.md)
+
 -   Ego-centric point of view
 
 # Context
