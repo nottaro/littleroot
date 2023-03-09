@@ -33,6 +33,16 @@ ESF: Electrostatic Forces of Attraction
 -   Valency is not the same as the number of valence electrons
     -   e.g., Nitrogen has 5 valence electrons but its valency is 3
 
+
+| **Elements**                          | Na    | Mg    | Al    | Si    | P     | S     | Cl    | Ar    |
+| --------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Protons**                           | 11    | 12    | 13    | 14    | 15    | 16    | 17    | 18    |
+| **Nuclear Charge**                    | +11   | +12   | +13   | +14   | +15   | +16   | +17   | +18   |
+| **Electron Configuration**            | 2,8,1 | 2,8,2 | 2,8,3 | 2,8,4 | 2,8,5 | 2,8,6 | 2,8,7 | 2,8,8 |
+| **Shielding (inner shell electrons)** | 10    | 10    | 10    | 10    | 10    | 10    | 10    | 10    |
+| **Nuclear Attraction**                | +1    | +2    | +3    | +4    | +5    | +6    | +7    | +8    |
+| **Atomic Radius**                     | 0.19  | 0.16  | 0.13  | 0.118 | 0.11  | 0.1   | 0.099 | 0.095 |
+
 ## Atomic Radius
 
 -   *********************Atomic Radius:*************************** Distance from the outermost valence electron to the nucleus
