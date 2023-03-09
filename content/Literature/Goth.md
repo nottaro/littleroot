@@ -119,3 +119,14 @@ enableToc: true
 -   Things beyond human comprehension
     -   The supernatural
 -   Death, decay, disintegration (in both characters and settings)
+-   Religious imagery and settings
+    -   Aesthetically gives an austere, solemn and powerful atmosphere
+    -   Also reminds us of a supernatural realm beyond rational human comprehension
+    -   E.g. Crumbling church, graveyard
+-   Animals
+    -   Bad omens; link to superstition and the supernatural
+    -   Often used for foreshadowing or symbolic purpose
+    -   e.g. Werewolf, black cat, raven
+-   Pathetic fallacy
+    -   Weather reflects emotions of the characters/the action of the plot
+    -   e.g. Storms, rain
