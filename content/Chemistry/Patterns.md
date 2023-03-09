@@ -53,7 +53,7 @@ ESF: Electrostatic Forces of Attraction
     -   The outer electrons are in the same shell but the increasing net nuclear attraction pulls the outer electrons closer to the nucleus
 -   Increases down a group
     -   Number of protons increases, however, number of shielding electrons increases too. Effective nuclear charge therefore remains approx. constant
-    -   Increase in radius is due to ************higher************ principle energy levels being filed, and valency energy level is located **************further************** from the nucleus
+    -   Increase in radius is due to **higher** principle energy levels being filed, and valency energy level is located **************further************** from the nucleus
 -   Largest atomic radius is **************Caesium************** (Cs)
 
 ## Electronegativity
