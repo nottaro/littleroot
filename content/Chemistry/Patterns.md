@@ -2,6 +2,9 @@
 title: Patterns/Trends in the Periodic Table
 enableToc: true
 ---
+
+[Go Back](Chemistry/Chemistry.md)
+
 **Reactivity of Group 1 Metals increases as there are more valence electron shells**
 
 ESF: Electrostatic Forces of Attraction

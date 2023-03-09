@@ -11,4 +11,6 @@ Year 11 Notes:
 
 [Electronic Configuration](Chemistry/ElectronicConfig.md)
 
+[Patterns/Trends in the Periodic Table](Chemistry/Patterns.md)
+
 More to come!
