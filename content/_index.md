@@ -3,7 +3,7 @@ title: Year 11 Atar Notes
 enableToc: false
 ---
 
-Hi! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
+Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
 
 These notes are on Obsidian! You can also ask me on Discord for them!
 
