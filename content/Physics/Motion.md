@@ -1,3 +1,8 @@
+---
+title: Motion Equations
+enableToc: true
+---
+
 ## SUVAT Equations
 
 S: Displacement: m
