@@ -9,10 +9,12 @@ These notes are on Obsidian! You can also ask me on Discord for them!
 
 Subjects:
 1. [Chemistry](Chemistry/Chemistry.md)
-2. Physics
+2. [Physics](Physics/Physics.md)
 3. [Economics](Economics/Economics.md)
 4. [Literature](Literature/Literature.md)
 5. Methods
 6. Specialist 
 
 I'm 6'10", in case you were wondering.
+
+Source: trust me bro
