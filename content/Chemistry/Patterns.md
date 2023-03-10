@@ -97,3 +97,15 @@ $$ M(g) --> M^+(g) + e^- $$
         -   Increase in number of energy levels
     -   Decrease in net ESF between valence electron and nucleus
     -   Energy required to overcome ESF decreases, therefore ionisation energy decreases
+
+# Polar and Non-Polar Covalent Bonds
+
+-   Electrons in a covalent bond are not always shared equally
+-   Therefore, it relies on the electronegativity of the elements involved
+-   Covalent bond that has an **************unequal************** sharing of electrons is called a ********************polar covalent bond********************
+-   Covalent bond that has an **********equal********** sharing of electrons is called a **********************************************non-polar covalent bond**********************************************
+-   Example:
+
+$$ ^{δ-}F-^{δ+}B $$
+
+-   “δ±” is the dipole, so when it says “write a dipole across the polar bonds”, do this

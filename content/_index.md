@@ -15,4 +15,4 @@ Subjects:
 5. Methods
 6. Specialist 
 
-I'm 6'10", in case you were wondering
+I'm 6'10", in case you were wondering.
