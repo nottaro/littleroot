@@ -109,3 +109,4 @@ $$ M(g) --> M^+(g) + e^- $$
 $$ ^{δ-}F-^{δ+}B $$
 
 -   “δ±” is the dipole, so when it says “write a dipole across the polar bonds”, do this
+- Bonds with the greatest permanent dipole will have the greatest difference in their electronegativity(s)
