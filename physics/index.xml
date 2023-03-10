@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Physics on</title><link>https://supaqwerty.github.io/year-11-notes/physics/</link><description>Recent content in Physics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://supaqwerty.github.io/year-11-notes/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Motion Equations</title><link>https://supaqwerty.github.io/year-11-notes/Physics/Motion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://supaqwerty.github.io/year-11-notes/Physics/Motion/</guid><description>SUVAT Equations S: Displacement: m
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Physics on</title><link>https://supaqwerty.github.io/year-11-notes/physics/</link><description>Recent content in Physics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://supaqwerty.github.io/year-11-notes/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Force and Free Body Diagrams</title><link>https://supaqwerty.github.io/year-11-notes/Physics/Force/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://supaqwerty.github.io/year-11-notes/Physics/Force/</guid><description>Force: Mass (kg) x acceleration ($ms^{-2}$), units in Newtons (N)
+Vector Quantity, include direction $$ f=ma $$
+We can use this for free body diagrams If one arrow is bigger, it is accelerating in that direction You can write the force as “$F_x$”, where x is the type, e.</description></item><item><title>Momentum and Impulse</title><link>https://supaqwerty.github.io/year-11-notes/Physics/Momentum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://supaqwerty.github.io/year-11-notes/Physics/Momentum/</guid><description>Momentum Momentum: Mass (kg) x Velocity (m/s) , units are $kg$ $ms^{-1}$
+Vector quantity, include direction $$ p = mv $$</description></item><item><title>Motion Equations</title><link>https://supaqwerty.github.io/year-11-notes/Physics/Motion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://supaqwerty.github.io/year-11-notes/Physics/Motion/</guid><description>SUVAT Equations S: Displacement: m
 U: Initial Velocity: $ms^{-1}$
 V: Final Velocity: $ms^{-1}$
 A: Acceleration: $ms^{-2}$
 T: Time: s
 $$ v_{av}=\frac {s}{t} $$</description></item><item><title>Physics Notes</title><link>https://supaqwerty.github.io/year-11-notes/Physics/Physics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://supaqwerty.github.io/year-11-notes/Physics/Physics/</guid><description>Year 11 Notes:
 Motion Equations
+Force and Free Body Diagrams
+Momentum and Impulse
 More to come!</description></item></channel></rss>
