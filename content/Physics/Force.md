@@ -1,4 +1,8 @@
-## Force
+
+---
+title: Force and Free Body Diagrams
+enableToc: true
+---
 
 Force: Mass (kg) x acceleration ($ms^{-2}$), units in Newtons (N)
 
