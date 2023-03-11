@@ -19,6 +19,7 @@ $$ t=\frac{s}{|v|} $$
 # Vectors
 
 -   Value that require direction and magnitude to be fully described
+-   If they don't give you a direction, say "in the direction the body is travelling"
 -   Displacement (s) in **m**
 -   Velocity (v), in $ms^{-1}$
 -   Acceleration (a), in $ms^{-2}$
