@@ -42,6 +42,7 @@ $$ m_1u_1+m_2u_2=m_1v_1+m_2v_2 $$
     -   Include direction
 -   Product of force and time
 -   $N\times{s}$, or $Ns$
+- Can also be written as $kg$ $ms^{-1}$
 
 $$ j =Ft $$
 
