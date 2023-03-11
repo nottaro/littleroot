@@ -17,6 +17,6 @@ Subjects:
 5. [Methods](Methods/Methods.md)
 6. [Specialist](Specialist/Specialist.md)
 
-I'm 6'10", in case you were wondering. Also I have a 530 000 CPU Intel i9 for a brain.
+I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
 Source: trust me bro
