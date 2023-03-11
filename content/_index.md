@@ -12,8 +12,8 @@ Subjects:
 2. [Physics](Physics/Physics.md)
 3. [Economics](Economics/Economics.md)
 4. [Literature](Literature/Literature.md)
-5. Methods
-6. Specialist 
+5. [Methods](Methods/Methods.md)
+6. [Specialist](Specialist/Specialist.md)
 
 I'm 6'10", in case you were wondering.
 
