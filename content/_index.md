@@ -5,6 +5,8 @@ enableToc: false
 
 Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
 
+Originally my notes were on paper, but I'm working on copying them over!
+
 These notes are on Obsidian! You can also ask me on Discord for them!
 
 Subjects:
@@ -15,6 +17,6 @@ Subjects:
 5. [Methods](Methods/Methods.md)
 6. [Specialist](Specialist/Specialist.md)
 
-I'm 6'10", in case you were wondering.
+I'm 6'10", in case you were wondering. Also I have a 530 000 CPU Intel i9 for a brain.
 
 Source: trust me bro
