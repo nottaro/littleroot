@@ -43,6 +43,6 @@ $$ m_1u_1+m_2u_2=m_1v_1+m_2v_2 $$
 -   Product of force and time
 -   $N\times{s}$, or $Ns$
 
-$$ I =Ft $$
+$$ j =Ft $$
 
-$$ I=\Delta{p} = m(v-u) $$
+$$ j=\Delta{p} = m(v-u) $$
