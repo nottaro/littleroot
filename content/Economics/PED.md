@@ -8,13 +8,9 @@ enableToc: true
 
 - Measures the responsiveness of quantity demanded of a good to a change in its price, ceteris paribus
 
-
-
-
-$$ PED=\frac{\%Δ\space in \space QD \space of \space Good \space A}{\%Δ\ in\ QD\ of\ Good \ A} $$
+$$ PED=\frac{\%Δ\ in \ QD \ of \ Good \ A}{\%Δ\ in\ QD\ of\ Good \ A} $$
 
 $$ \%\Delta=\frac{Final-initial}{initial}\times100\% $$
-
 
 -   Depends on what %Δ you want, use price for price, and QD for QD
 -   Elasticity declines along demand curve as we move towards quantity axis
