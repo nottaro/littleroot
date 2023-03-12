@@ -6,6 +6,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Year 11 Notes:
 
+[Key Definitions](Chemistry/Definitions.md)
+
 [Atomic Structure](Chemistry/AtomicStructure.md)
 
 [Atomic Spectra](Chemistry/AtomicSpectra.md)
