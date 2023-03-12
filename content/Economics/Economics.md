@@ -15,6 +15,8 @@ Year 11 Notes:
 
 [Market Equilibrium and Price Determination](Economics/MarPri.md)
 
+[Price Elasticity of Demand](Economics/PED)
+
 [Market Efficiency](Economics/MarketEfficiency.md)
 
 [Taxes - Application of Demand and Supply](Economics/Tax.md)
