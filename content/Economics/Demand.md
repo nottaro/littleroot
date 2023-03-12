@@ -1,3 +1,9 @@
+---
+title: The Theory of Demand
+enableToc: true
+---
+
+
 [Go back](Economics/Economics.md)
 
 ## Markets

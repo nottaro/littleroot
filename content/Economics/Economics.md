@@ -9,7 +9,9 @@ Year 11 Notes:
 
 [Introduction to Economics](Economics/Introduction2Economics.md)
 
-[Demand](Economics/Demand.md)
+[The Theory of Demand](Economics/Demand.md)
+
+[The Theory of Supply](Economics/Supply.md)
 
 [Market Efficiency](Economics/MarketEfficiency.md)
 
