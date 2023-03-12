@@ -11,7 +11,7 @@ enableToc: true
 
 
 
-$$ PED=\frac{\%Δ\space in \space QD \ of \ Good \ A}{\%Δ\ in\ QD\ of\ Good \ A} $$
+$$ PED=\frac{\%Δ\space in \space QD \space of \space Good \space A}{\%Δ\ in\ QD\ of\ Good \ A} $$
 
 $$ \%\Delta=\frac{Final-initial}{initial}\times100\% $$
 
