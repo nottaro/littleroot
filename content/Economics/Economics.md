@@ -13,6 +13,8 @@ Year 11 Notes:
 
 [The Theory of Supply](Economics/Supply.md)
 
+[Market Equilibrium and Price Determination](Economics/MarPri.md)
+
 [Market Efficiency](Economics/MarketEfficiency.md)
 
 [Taxes - Application of Demand and Supply](Economics/Tax.md)
