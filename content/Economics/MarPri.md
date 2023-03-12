@@ -18,7 +18,7 @@ $$ Surplus: Q_{supplied}>Q_{demanded} $$
 
 $$ Equilibrium_{Market}: Q_{supplied}=Q_{demanded} $$
 
-1.  When ************************************Equilibrium price $≠$ market price**, market is in disequilibrium
+1.  When **Equilibrium price** $≠$ market price**, market is in disequilibrium
 2.  $Quantity_{demanded}≠Quantity_{supplied}$
 3.  Shortae or surplus occurs
 4.  Draws $P_m$ to $P_e$ due to the Demand and Supply forces
