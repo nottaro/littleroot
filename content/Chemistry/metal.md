@@ -20,6 +20,7 @@ enableToc: true
 -   **Malleable:** Can be beaten into sheets without being broken
     -   Cations are in a sea of delocalised electrons
     -   Therefore, they will slide when a force is applied, without breaking
+      
 - Giant metallic lattice structure (Na, Mg, Al)
     -   Always describe metals as “grey solids”, with a few exceptions
         -   Gold is “yellow”
