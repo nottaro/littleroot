@@ -8,7 +8,7 @@ enableToc: true
 
 - Measures the responsiveness of quantity demanded of a good to a change in its price, ceteris paribus
 
-$$ PED=\frac{\%Δ\ in \ QD \ of \ Good \ A}{\%Δ\ in\ QD\ of\ Good \ A} $$
+$$ PED=\frac{\%Δ\ in\ QD\ of\ Good\ A}{\%Δ\ in\ Price\ of\ Good \ A} $$
 
 $$ \%\Delta=\frac{Final-initial}{initial}\times100\% $$
 
