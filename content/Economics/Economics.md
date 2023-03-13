@@ -19,4 +19,4 @@ Year 11 Notes:
 
 [Market Efficiency](Economics/MarketEfficiency.md)
 
-[Taxes - Application of Demand and Supply](Economics/Tax.md)
+[Taxes - Application of Demand and Supply](Economics/appdesu.md)

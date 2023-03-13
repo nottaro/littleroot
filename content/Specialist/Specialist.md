@@ -9,4 +9,6 @@ Year 11 Notes:
 
 [Permutations and Combinations](Specialist/PerCom.md)
 
+[Vectors](Specialist/Vectors.md)
+
 More to come!

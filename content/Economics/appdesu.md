@@ -1,5 +1,5 @@
 ---
-title: Taxes - Application of Demand and Supply
+title: Application of Demand and Supply
 enableToc: true
 ---
 
@@ -80,3 +80,30 @@ $P_0P_2*0Q_1$
 -   The more price inelastic the **demand** is, the greater the burden of tax on **buyers**
 -   The more price inelastic the **supply** is, the greater the burden of tax on **sellers**
 -   In general, the party that is relatively less responsive to price changes will bear a higher burden of the tax
+
+# Subsidies
+
+-   Payment of money to firms by the government for the purpose of reducing cost of production and increasing production
+    
+-   No exchange of goods or services in return
+    
+-   Sometimes known as negative taxes
+    
+-   **Why do governments give subsidies?**
+    
+    -   Microeconomic objectives
+        -   Protect incomes of farmers
+        -   Encourage production or consumption of merit goods
+    -   Macroeconomic objectives
+        -   Encourage research and development
+-   **Justifying Subsidies**
+    
+    -   Form of government intervention
+    -   Introduced for a number of economic, social and political reasons
+
+## Imposition/Effect of Subsidy
+
+-   Supply curve ********************************shifts downwards******************************** by the full amount of the subsidy
+-   Total subsidy: $P_1P_2\times0Q_1$
+-   Consumers get: $P_1P_0\times0Q_1$
+-   Producers get: $P_0P_2*0Q_1$
