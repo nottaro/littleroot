@@ -21,3 +21,4 @@ $$ f=ma $$
 	    - [click here for more info](Physics/Momentum.md)
 
 $$ F_{weight}=mg $$
+$$ F_{weight}=F_{normal} $$
