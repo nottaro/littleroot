@@ -49,7 +49,7 @@ We can also use the ******parallelogram method,****** and use the methods descri
     
 -   ABCD is a parallelogram
     
- ![](para%202.png)
+ ![](Images/para%202.png)
     
 -   $\overline{AD}$ and $\overline{BC}$ are different line segments because, on the cartesian plane, their coordinates are different
     
