@@ -17,6 +17,8 @@ Year 11 Notes:
 
 [Price Elasticity of Demand](Economics/PED)
 
+[Price Elasticity of Supply](Economics/PES)
+
 [Market Efficiency](Economics/MarketEfficiency.md)
 
 [Taxes - Application of Demand and Supply](Economics/appdesu.md)
