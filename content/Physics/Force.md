@@ -19,3 +19,5 @@ $$ f=ma $$
 -   Thus, an object travelling at a constant velocity has no force, and all arrows are equal
     -   It has momentum
 	    - [click here for more info](Physics/Momentum.md)
+
+$$ F_{weight}=mg $$
