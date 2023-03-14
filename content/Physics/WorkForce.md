@@ -2,6 +2,9 @@
 title: Work and Force
 enableToc: true
 ---
+
+[go back](Physics/Physics.md)
+
 - Energy: Ability to do work
     -   Measured in Joules (J)
 -   Work: $Fs$ = $Nm$
