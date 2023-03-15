@@ -10,7 +10,6 @@ enableToc: true
 -   Work: $Fs$ = $Nm$
 
 $$ E_k=\frac{1}{2}mv^2 $$
-
 -   in Joules (J)
 
 $$ E_p=mgh $$

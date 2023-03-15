@@ -6,6 +6,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Year 11 Notes:
 
+[Key Variables](Physics/Variable.md)
+
 [Science Inquiry Skills](Physics/SIS.md)
 
 [Scalars and Vectors](Physics/ScaVec.md)
