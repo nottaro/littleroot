@@ -1,5 +1,5 @@
 ---
-title: Work and Force
+title: Work, Force and Powewr
 enableToc: true
 ---
 
@@ -28,3 +28,10 @@ $$ Work=\Delta Energy=F\ s $$
 -   Force in Newtons, Displacement in Meters
 -   In order for work to be considered to have been done on an object by a force, then the displacement of the object has to be at least, in part, in the direction of the applied force
 -   If the motion is perpendicular to the applied force and remains so, no work is done
+
+### Power
+-   Rate at which work is done
+
+$$ \frac{J}{t}=\frac{\Delta E}{t}=W(watts),\ \ J\ s^{-1} $$
+
+-   Work over time

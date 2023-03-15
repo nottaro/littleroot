@@ -16,6 +16,6 @@ Year 11 Notes:
 
 [Momentum and Impulse](Physics/Momentum.md)
 
-[Work and Force](Physics/WorkForce.md)
+[Work, Force and Power](Physics/WorkForcePower.md)
 
 More to come!
