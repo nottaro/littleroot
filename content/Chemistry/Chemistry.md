@@ -16,7 +16,7 @@ Year 11 Notes:
 
 [Patterns/Trends in the Periodic Table](Chemistry/Patterns.md)
 
-	Chemical Bonding
+**Chemical Bonding**
 1. [Metallic Bonding](Chemistry/metal.md) 
 2. [Ionic Bonding](Chemistry/ion.md)
 
