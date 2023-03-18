@@ -61,9 +61,9 @@ Yes, including Rey.
 
 I actually kinda liked the new trilogy.
 
-*With love(unless you have a Gothic-themed house)
+*With love(unless you have a Gothic-themed house)*
 
-*Jlee, a new settler of the town
+*Jlee, a new settler of the town*
 
 
 
