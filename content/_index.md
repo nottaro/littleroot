@@ -5,9 +5,11 @@ enableToc: false
 
 Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
 
+I'm a proud member of [the town](town.md).
+
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
-These notes are on Obsidian! You can also ask me on Discord for them!
+These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
 Subjects:
 1. [Chemistry](Chemistry/Chemistry.md)
@@ -23,5 +25,4 @@ Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
 
-[town analogy](town.md)
 
