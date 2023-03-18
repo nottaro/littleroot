@@ -108,19 +108,11 @@ $$ \overrightarrow{AB}+\overrightarrow{BC}-\overrightarrow{DC}=\overrightarrow{A
 
 ## Vectors in Component Form
 
--   Any 2D vector can be resolved into a sum of horizontal and verticale components, written as $a$$**\underline{i}$$+b$**$\underline{j}$, where **i** and **j** are unit vectors
+-   Any 2D vector can be resolved into a sum of horizontal and verticale components, written as $$a\underline{i}+b\underline{j}$$ where **i** and **j** are unit vectors
 -   Vectors in component form can be added by adding their components and simplifying
-
-$$ a\underline{i}+b\underline{j}+c\underline{i}+b\underline{j}=(a+c)\underline{i}+(b+d)\underline{j}
-
-$$
-
+![](Images/vector%201.png)
 -   A vector ****v**** can be written in component form as
-
-$$ \underline{v}=|\underline{v}|\ cos\ \theta\ \underline{i}+|\underline{v}|\ sin\ \theta \ \underline{j}
-
-$$
-
+![](Images/vector%202.png)
 -   Given a vector $\underline{v}=a\underline{i}+b\underline{j}$
 
 : - $|\underline{v}|=\sqrt{a^2+b^2}$ - $tan\ \theta=\frac{b}{a}$ - Your calculator will evaluate this with an angle between $-90˚$and $90˚$ - This may not match the quadrant of the vector! If not, add $180˚$ - If the vector is in the 4th quadrant, your calculator will give a negative angle. Add $360˚$to get the equivalent positive angle
