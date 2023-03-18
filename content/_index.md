@@ -23,4 +23,5 @@ Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
 
+[town analogy](town.md)
 

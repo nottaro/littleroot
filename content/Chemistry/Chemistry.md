@@ -4,7 +4,7 @@ enableToc: false
 ---
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-Year 11 Notes:
+### Year 11 Notes:
 
 [Key Definitions](Chemistry/Definitions.md)
 
