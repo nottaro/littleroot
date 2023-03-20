@@ -35,8 +35,8 @@ Cause + Effect enhanced
 
 ## Coal and Crude Oil Formation
 
-![](Crude%20Oil%20Formation.png)
-![](Coal%20Formation.png)
+![](Images/Crude%20Oil%20Formation.png)
+![](Images/Coal%20Formation.png)
 
 ## Fractional Distillation
 - A method of separating fractions of crude oil
@@ -359,9 +359,9 @@ Endothermic reactions have a positive value for △H, meaning enthalpy has incre
 ## **Representing Energy Changes in Chemical Reactions**
 -   Enthalpy change can be shown graphically using an energy profile graph, or it can be written along with the equation 
 -   Sometimes the heat absorbed or released during the reaction is written into the equation, rather than giving the enthalpy change
-![](Exothermic.png)
-![](Activation%20energy.png)
-![](Exothermic%20reaction.png)
+![](Images/Exothermic.png)
+![](Images/Activation%20energy.png)
+![](Images/Exothermic%20reaction.png)
 - When a catalyst is used, less energy is needed for a reaction to occur
 - Activation energy: amount of energy required to start/sustain reaction
 - catalyst: substance that lowers activation energy of the reaction, and is not consumed during the reaction
