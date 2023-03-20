@@ -1,19 +1,18 @@
-# Quartz
+# Notes Dump
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
+Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+I'm a proud member of the town. We should have a town page coming.....Osacr is making it.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Subjects:
+1. Chemistry
+2. Physics
+3. Economics
+4. Literature
+5. Methods
+6. Specialist

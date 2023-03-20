@@ -7,8 +7,6 @@ Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas H
 
 I'm a proud member of [the town](town.md). We should have a town page coming.....Osacr is making it.
 
-why isnt this syncing
-
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
