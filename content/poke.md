@@ -14,7 +14,6 @@ enableToc: true
 
 ![](poke/003_g2.png)
 
-![](poke/3-1.png)
 
 ![](poke/3.png)
 

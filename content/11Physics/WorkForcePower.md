@@ -49,4 +49,4 @@ $$ Work = \frac{1}{2}m(v-u) $$
 
 $$ \frac{J}{t}=\frac{\Delta E}{t}=W(watts),\ \ J\ s^{-1} $$
 
--   Work over time
+-   Work over time$$Power =Fv_{av}$$
