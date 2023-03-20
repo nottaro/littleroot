@@ -3,7 +3,7 @@ title: Gothic Literature
 enableToc: true
 ---
 
-[go back](Literature/Literature.md)
+[go back](Literature/11Literature.md)
 
 # The Dark Ages
 

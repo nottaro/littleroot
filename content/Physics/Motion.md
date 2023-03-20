@@ -3,7 +3,7 @@ title: Motion Equations
 enableToc: true
 ---
 
-[go back](Physics/Physics.md)
+[go back](Physics/11Physics.md)
 
 ## SUVAT Equations
 

@@ -13,11 +13,11 @@ These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)
 
 Subjects:
 1. [Chemistry](Chemistry/Chemistry.md)
-2. [Physics](Physics/Physics.md)
+2. [11Physics](Physics/11Physics.md)
 3. [Economics](Economics/Economics.md)
-4. [Literature](Literature/Literature.md)
-5. [Methods](Methods/Methods.md)
-6. [Specialist](Specialist/Specialist.md)
+4. [11Literature](Literature/11Literature.md)
+5. [11Methods](Methods/11Methods.md)
+6. [11Specialist](Specialist/11Specialist.md)
 
 I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
