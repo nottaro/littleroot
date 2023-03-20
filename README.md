@@ -1,7 +1,7 @@
 # Notes Dump
 
 
-Hi! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
+Hi! I'm Jonathan! This is a website I made as a side project! Thanks to [Thomas Han](https://github.com/nottacoz) and [Edward Huynh](https://github.com/EddieTheEd) for helping! 
 
 I'm a proud member of the town. We should have a town page coming.....Osacr is making it.
 
