@@ -4,7 +4,7 @@ enableToc: false
 ---
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-### Year 11 Notes:
+## Year 11 Notes:
 
 [Key Definitions](11Chemistry/Definitions.md)
 
@@ -20,5 +20,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 1. [Metallic Bonding](11Chemistry/metal.md) 
 2. [Ionic Bonding](11Chemistry/ion.md)
 3. [Covalent Bonding](11Chemistry/Covalent)
+
+## Year 10 Notes
+[Organic Chemistry](11Chemistry/10organic.md)
 
 More to come!
