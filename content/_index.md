@@ -25,3 +25,6 @@ Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
 
+Lucas, if you're reading this, you suck
+"For real, can confirm" - Lucas Quantock
+
