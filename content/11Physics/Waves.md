@@ -1,6 +1,6 @@
 ---
 title: Waves
-enableToc: false
+enableToc: True
 ---
 
 - Waves: The transfer of energy from one place to another without the net displacement of matter
