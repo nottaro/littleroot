@@ -11,3 +11,6 @@ enableToc: false
 - Requirements for medium:
 	1. Mechanical waves must have a medium, e.g. sound
 	2. Non-mechanical waves do not require a medium, e.g. EMR
+- Direction of Displacement of Particles in medium
+	1. Transverse: perpendicular to medium
+	2. Longitudinal: parallel to medium
