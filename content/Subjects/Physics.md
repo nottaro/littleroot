@@ -4,7 +4,9 @@ enableToc: false
 ---
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-Year 11 Notes:
+## Year 11 Notes:
+
+### Linear Motion
 
 [Key Variables](11Physics/Variable.md)
 
@@ -19,5 +21,9 @@ Year 11 Notes:
 [Momentum and Impulse](11Physics/Momentum.md)
 
 [Work, Force and Power](11Physics/WorkForcePower.md)
+
+### Waves
+[Waves](11Physics/Waves.md)
+
 
 More to come!
