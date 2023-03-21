@@ -37,7 +37,7 @@ $$ s=vt+\frac{1}{2}at^2 $$
 
 $$ s=\frac{t}{2}(u+v) $$
 
-$$ s=\frac{u^2+v^2}{2a} $$
+$$ s=\frac{v^2-u^2}{2a} $$
 
 ## Initial Velocity: $ms^{-1}$
 
