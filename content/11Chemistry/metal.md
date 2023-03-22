@@ -27,6 +27,5 @@ enableToc: true
         -   Copper is “salmon-pink”
         -   There is no metal that is white
 
-[Covalent Bonding](11Chemistry/covalent.md)
 
 [Ionic Bonding](11Chemistry/ionic.md)
