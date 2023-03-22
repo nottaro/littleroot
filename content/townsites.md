@@ -1,6 +1,6 @@
 ---
 title: Sister Sites
-enableToc: true
+enableToc: false
 ---
 
 # [Dasindu's Site](https://anonymoof1528.github.io/into-the-shadow-garten)
