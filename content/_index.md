@@ -5,7 +5,7 @@ enableToc: false
 
 Heya! I'm Jonathan! This is a website I made as a side project! Thanks to Thomas Han and Edward Huynh for helping! 
 
-I'm a proud member of [the town](town.md). We should have a town page coming.....Osacr is making it.
+I'm a proud member of [the town](town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md).
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
@@ -25,4 +25,5 @@ Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
 
-Why do these notes take so long to sync.
+~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
+

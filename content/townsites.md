@@ -1,0 +1,8 @@
+---
+title: Sister Sites
+enableToc: true
+---
+
+# [Dasindu's Site](https://anonymoof1528.github.io/into-the-shadow-garten)
+
+# [Edward's Site](https://eddietheed.github.io/obsidiannotes-v.3/)
