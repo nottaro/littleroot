@@ -1,5 +1,5 @@
 ---
-title: Application of Demand and Supply- Taxes and Subsidies
+title: Application of Demand and Supply - Taxes and Subsidies
 enableToc: true
 ---
 

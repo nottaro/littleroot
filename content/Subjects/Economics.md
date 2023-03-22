@@ -21,4 +21,6 @@ Year 11 Notes:
 
 [Market Efficiency](11Economics/MarketEfficiency.md)
 
-[Taxes - Application of Demand and Supply](11Economics/taxesandsubsidies.md)
+[Taxes and Subsidies - Application of Demand and Supply](11Economics/taxesandsubsidies.md)
+
+[Price Controls - Application of Demand and Supply](11Economics/pricecontrols.md)
