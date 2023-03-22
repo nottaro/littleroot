@@ -41,7 +41,7 @@ $$ m_1u_1+m_2u_2=m_1v_1+m_2v_2 $$
 -   Change in momentum
     -   Include direction
 -   Product of force and time
--   $N\times{s}$, or $Ns$
+-   $N\times{s}$, or $Newtons \times seconds$
 - Can also be written as $kg$ $ms^{-1}$
 
 $$ j =Ft $$
