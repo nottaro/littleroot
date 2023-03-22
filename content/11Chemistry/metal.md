@@ -6,10 +6,10 @@ enableToc: true
 -   Electrostatic forces of attraction between cations of metal and a sea of delocalised electrons
 -   Metal atoms are packed together in a giant metallic lattice
 -   Outer electrons are delocalised
--   All metals can conduct electricity with varying results
+**-   All metals can conduct electricity with varying results**
     -   The sea of delocalised electrons can move freely
     -   Therefore, they can move and conduct charge, as they are negatively charged
--   High boiling/melting point
+-   **High boiling/melting point**
     -   Increases with the electrostatic force of attraction between electrons and the nucleus
         -   More delocalised electrons
         -   Higher charge on cation
@@ -26,3 +26,7 @@ enableToc: true
         -   Gold is “yellow”
         -   Copper is “salmon-pink”
         -   There is no metal that is white
+
+[Covalent Bonding](11Chemistry/covalent.md)
+
+[Ionic Bonding](11Chemistry/ionic.md)

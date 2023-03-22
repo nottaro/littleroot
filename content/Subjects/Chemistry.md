@@ -18,8 +18,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 **Chemical Bonding**
 1. [Metallic Bonding](11Chemistry/metal.md) 
-2. [Ionic Bonding](11Chemistry/ion.md)
-3. [Covalent Bonding](11Chemistry/Covalent)
+2. [Ionic Bonding](11Chemistry/ionic.md)
+3. [Covalent Bonding](11Chemistry/covalent.md)
 
 ## Year 10 Notes
 [Organic Chemistry](11Chemistry/10organic.md)

@@ -61,3 +61,8 @@ enableToc: true
    
     ![](Images/mgcl2.png)
     Magnesium Chloride, $MgCl_2$
+
+
+[Covalent Bonding](11Chemistry/covalent.md)
+
+[Metallic Bonding](11Chemistry/metal.md)
