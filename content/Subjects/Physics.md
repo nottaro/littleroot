@@ -20,6 +20,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Momentum and Impulse](11Physics/Momentum.md)
 
+[Physics as a Human Endeavour](11Physics/humanstuff.md)
+
 [Work, Force and Power](11Physics/WorkForcePower.md)
 
 ### Waves
