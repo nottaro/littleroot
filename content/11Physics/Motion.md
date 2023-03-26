@@ -73,8 +73,8 @@ $$ a=\frac{v^2-u^2}{2s} $$
 
 $$ t=\frac{v-u}{a} $$
 
-$$ t=\frac{v-\sqrt{v^2-2as}}{a} $$
+$$ t=\frac{v- \sqrt{v^2-2as}}{a} $$
 
-$$ t=\frac{\sqrt{2as+u^2}-u}{a} $$
+$$ t=\frac{ \sqrt{2as+u^2} -u}{a} $$
 
 $$ t=\frac{2s}{u+v} $$
