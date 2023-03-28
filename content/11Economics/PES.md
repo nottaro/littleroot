@@ -7,19 +7,19 @@ enableToc: true
 
 - Measures responsiveness of quantity supplied of a good to a change in its price, ceteris paribus
 
-$$ PES=\frac{\%\Delta\ in\ QS\ of\ Good\ A}{\%\Delta\ in\ Price\ of\ Good\ A} $$
+$$PES=\frac{\% \Delta\ in\ QS\ of\ Good\ A}{\% \Delta \ in\ Price\ of\ Good\ A}$$
 
 -   When a price change results in a more than proportionate change in quantity supplied, SS is **************************price elastic**************************
     
--   When a price change results in a less than proportionate change in quantity supplied, SS is ******************************price inelastic******************************
+-   When a price change results in a less than proportionate change in quantity supplied, SS is **price inelastic**
     
--   When a price change results in a proportionate change in quantity supplied, SS is ************************************unit price elastic************************************
+-   When a price change results in a proportionate change in quantity supplied, SS is **unit price elastic**
     
--   ****************Price elastic: $1<PES<∞$**
+-   ***************Price elastic: $1<PES<∞$**
     
 -   **Price inelastic: $0<PES<1$**
     
--   ******************************Unit Price Elastic:****************************** $PES=1$
+-   ***************************Unit Price Elastic:*************************** $PES=1$
     
     -   Any straight line starting from the origin is **unit price elastic**
 
