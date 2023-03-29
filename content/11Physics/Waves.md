@@ -14,3 +14,8 @@ enableToc: true
 - Direction of Displacement of Particles in medium
 	1. Transverse: perpendicular to medium
 	2. Longitudinal: parallel to medium
+
+
+### Law of Reflection
+- The angle of reflection is equal to the angle of incidence
+- Angle of incidence: angle between the incident ray and the normal
