@@ -95,7 +95,7 @@ enableToc: true
 
 $$ Profit = Total \ Revenue - Total\ Loss $$
 
-$$ Total\ Revenue=Price\times Quantity\ Traded $$
+$$ Total\ Revenue=Price\times Quantity_{traded} $$
 
 -   When the demand for a good is price elastic, an increase in price results in a decrease in total revenue for the firm/producer
     
