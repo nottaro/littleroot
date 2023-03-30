@@ -1,6 +1,6 @@
 
 ---
-title: Price Elasticity of Demand
+title: Price Elasticity of Demand (PED)
 enableToc: true
 ---
 

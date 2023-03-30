@@ -47,7 +47,7 @@ enableToc: true
 -   With improved production methods, factors of production would be more productive
 -   The production of goods would increase, thus supply increases
 
-### Effects affection Availability of Resources and the Supply Chain
+### Effects Affecting Availability of Resources and the Supply Chain
 
 -   Changes in weather conditions
 -   Natural disasters
