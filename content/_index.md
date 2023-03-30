@@ -7,6 +7,8 @@ Heya! I'm [supaqwerty](https://github.com/supaqwerty)! This is a website I made 
 
 I'm a proud member of [the town](Info/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](Info/townsites.md).
 
+These are my thoughts on [stuff](Subjects/Thoughts.md)
+
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
@@ -26,5 +28,4 @@ Source: trust me bro
 [Bunch of Random Pokemon Sprites](poke)
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
-
 
