@@ -3,6 +3,8 @@ title: Probability
 enableToc: true
 ---
 
+[go back](Subjects/Methods.md)
+
 - A measure of the likelihood of an event occurring
 - $P(A)$ is the probability of A occurring
 
@@ -24,4 +26,3 @@ enableToc: true
 $$P(B|A)=\frac{P(B \cap A)}{P(A)}$$
 - Relative frequency of A:
 $$\frac{number\ of\ trials\ A\ occurs}{number\ of\ trials\ conducted} \approx P(A)$$
-- **Multiplication Rule**
