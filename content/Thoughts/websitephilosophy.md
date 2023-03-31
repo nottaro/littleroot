@@ -17,3 +17,7 @@ As I said, please don't mooch over this. People who take and don't give are equa
 
 With love,
 supaqwerty
+
+why are these notes repeating
+please stop
+
