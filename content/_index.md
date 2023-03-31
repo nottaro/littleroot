@@ -21,6 +21,8 @@ Subjects:
 
 I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
+> For man is not truly one but truly two - Edward Huynh
+
 Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
