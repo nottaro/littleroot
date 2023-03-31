@@ -7,6 +7,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Year 11 Notes:
 
+[Probability](11Methods/Probability.md)
+
 [Permutations and Combinations](11Methods/PerCom.md)
 
 More to come!
