@@ -42,13 +42,13 @@ enableToc: true
 -   Unable to respond to $P_x$ changes
 -   Almost perfectly $P_x$ inelastic supply
 
-******************Short Run******************
+***Short Run***
 
 -   Able to adjust some variable FOP
 -   Able to respond to $P_x$ changes by increasing its variable FOP
 -   $P_x$ inelastic supply
 
-****************Long Run****************
+**************Long Run***************
 
 -   Able to adjust all FOP
 -   Able to respond to respond to $P_x$ changes
