@@ -3,6 +3,8 @@ title: Waves
 enableToc: true
 ---
 
+[go back](Subjects/Physics.md)
+
 - Waves: The transfer of energy from one place to another without the net displacement of matter
 	- I.e. after energy is transferred, there is no displacement of matter
 - Mechanical waves: transfer energy from one place to another without the net place of another, but requires a medium to propagate

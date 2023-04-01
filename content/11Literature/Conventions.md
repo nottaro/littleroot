@@ -2,6 +2,9 @@
 title: Narrative Conventions and Language Devices
 enableToc: true
 ---
+
+[go back](Subjects/Literature.md)
+
 ## **Narrative conventions:**
 Characterisation (SAAO)  
 
