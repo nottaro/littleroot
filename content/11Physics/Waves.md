@@ -34,6 +34,7 @@ enableToc: true
 - Phase: State of vibration that a particle has reached in its cycle of motion. Waves are in phase when particles of the wave move in the exact same way at the same time
 - Speed = distance/time
 - Distance = speed $\times$ time
+- Time = distance/speed
 $$v=f{\lambda}=\frac{\lambda}{T}$$
 
 ### Law of Reflection

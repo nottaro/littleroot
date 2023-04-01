@@ -126,5 +126,11 @@ When words or ideas are repeated in a text, it usually means that the author is 
 **Oxymoron**
 Figure of speech that has 2 contradicting terms, e.g., terribly good
 
+**Irony**
+A technique of indicating, as through character or plot development, an intention or attitude opposite to that which is actually or ostensibly stated.
+
 **Dramatic Irony**
 Irony that is inherent in speeches or a situation of a drama and is understood by the audience but not grasped by the characters in the play.
+
+**Foreshadowing**
+An indication of something that will happen in the future, often used as a literary device to hint at or allude to future plot developments:
