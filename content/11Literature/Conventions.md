@@ -125,3 +125,6 @@ When words or ideas are repeated in a text, it usually means that the author is 
 
 **Oxymoron**
 Figure of speech that has 2 contradicting terms, e.g., terribly good
+
+**Dramatic Irony**
+Irony that is inherent in speeches or a situation of a drama and is understood by the audience but not grasped by the characters in the play.
