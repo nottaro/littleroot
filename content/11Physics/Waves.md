@@ -39,4 +39,4 @@ $$v=f{\lambda}=\frac{\lambda}{T}$$
 
 ### Law of Reflection
 - The angle of reflection is equal to the angle of incidence
-- Angle of incidence: angle between the incident ray and the normal
+- Angle of incidence: angle between the incident ray and the normal 
