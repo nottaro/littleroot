@@ -5,13 +5,13 @@ enableToc: true
 
 - Waves: The transfer of energy from one place to another without the net displacement of matter
 	- I.e. after energy is transferred, there is no displacement of matter
-- Mechanical waves: transfer energy from one place to another without the net place of another, but requires a medium to propogate
-	- The particles in the medium vibrate back and forth about fixed positions (equilibriium position)
-- Transverse waves: particles vibrate perpendicular to the direction od energy flow, e.g. water, electromagnetic waves
-- Longitudinal waves: particles vibrate along straight lines parallel to the direciton of the energy flow
+- Mechanical waves: transfer energy from one place to another without the net place of another, but requires a medium to propagate
+	- The particles in the medium vibrate back and forth about fixed positions (equilibrium position)
+- Transverse waves: particles vibrate perpendicular to the direction of energy flow, e.g. water, electromagnetic waves
+- Longitudinal waves: particles vibrate along straight lines parallel to the direction of the energy flow
 
 - However:
-	1. Assumes no other disturrbances in the motion
+	1. Assumes no other disturbances in the motion
 	2. Ignores situations where there is no medium
 - Requirements for medium:
 	1. Mechanical waves must have a medium, e.g. sound
