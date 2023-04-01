@@ -27,5 +27,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 ### Waves
 [Waves](11Physics/Waves.md)
 
+## Year 10 Notes
+
+[Nuclear Physics](11Physics/NuclearPhysics.md)
 
 More to come!
