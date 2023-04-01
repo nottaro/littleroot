@@ -29,7 +29,7 @@ enableToc: true
 	- From one crest to another crest
 	- From one trough to another trough
 	- Distance it takes for the wave to repeat
-- Frequency (f): The number of complete oscillations persecond. Unit of frequency is the Hz(Hertz)
+- Frequency (f): The number of complete oscillations per second. Unit of frequency is the Hz(Hertz)
 - Period (T): Time take for one wavelength to complete (seconds)
 - Phase: State of vibration that a particle has reached in its cycle of motion. Waves are in phase when particles of the wave move in the exact same way at the same time
 - Speed = distance/time
