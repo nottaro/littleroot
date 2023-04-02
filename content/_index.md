@@ -30,7 +30,7 @@ Source: trust me bro
 > It's time for the pleasures of life - Edward Huynh
 
 
-```
+```yaml
 The year is 1997. Little Timmy loves playing the new Pocket Monsters game his mommy got him for Christmas. It hasn’t been two weeks, but little Timmy’s already beaten the game using the totally awesome Charizard he got from Professor Oak. Little Timmy thinks he’s hot shit. Little Timmy is a spoiled brat because his pushover parents let him play video games for ten hours a day. And little Timmy is brimming with the naive confidence of an infant sloshing around in a loaded diaper.  
   
 Smug little Timmy invites his only friend, Next Door Kyle, over to battle. His sweaty hands can barely plug in his link cable, he’s so eager to show off his Charizard. It knows Fire Spin, Flamethrower, AND Fire Blast.  
