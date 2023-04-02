@@ -25,11 +25,15 @@ I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
 > It's time for the pleasures of life - Edward Huynh
 
+
+```yaml
+blue text
+testing if this works in obsidian
+```
+
 Source: trust me bro
 
 [Bunch of Random Pokemon Sprites](poke)
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
-
-
 
