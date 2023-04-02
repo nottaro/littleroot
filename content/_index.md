@@ -26,9 +26,9 @@ I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 > It's time for the pleasures of life - Edward Huynh
 
 
-```yaml
-blue text
-testing if this works in obsidian
+```py
+x = input("What's your name?")
+print("Hi", x, "I'm supaqwerty!")
 ```
 
 Source: trust me bro
