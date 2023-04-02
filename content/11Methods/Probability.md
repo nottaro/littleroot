@@ -26,3 +26,5 @@ enableToc: true
 $$P(B|A)=\frac{P(B \cap A)}{P(A)}$$
 - Relative frequency of A:
 $$\frac{number\ of\ trials\ A\ occurs}{number\ of\ trials\ conducted} \approx P(A)$$
+- Independence Test; An event is independent if: $$P(A\cap B)=P(A)\times P(B)$$
+- Mutually Exclusive Events: 2 events are mutually exclusive (can't occur at the same time) if: $$P(A\cup B)=P(A)+P(B)$$$$P(A \cap B)=0$$ 
