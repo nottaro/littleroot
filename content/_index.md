@@ -43,7 +43,6 @@ And Next Door Kyle bellows a response that would echo through time.
 ```
 
 
-
 [Bunch of Random Pokemon Sprites](poke)
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
