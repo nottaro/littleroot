@@ -21,17 +21,28 @@ Subjects:
 
 I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
+Source: trust me bro
+
+# Funny Stuff
+
 > For man is not truly one but truly two - Edward Huynh
 
 > It's time for the pleasures of life - Edward Huynh
 
 
-```py
-x = input("What's your name?")
-print("Hi", x, "I'm supaqwerty!")
+```
+The year is 1997. Little Timmy loves playing the new Pocket Monsters game his mommy got him for Christmas. It hasn’t been two weeks, but little Timmy’s already beaten the game using the totally awesome Charizard he got from Professor Oak. Little Timmy thinks he’s hot shit. Little Timmy is a spoiled brat because his pushover parents let him play video games for ten hours a day. And little Timmy is brimming with the naive confidence of an infant sloshing around in a loaded diaper.  
+  
+Smug little Timmy invites his only friend, Next Door Kyle, over to battle. His sweaty hands can barely plug in his link cable, he’s so eager to show off his Charizard. It knows Fire Spin, Flamethrower, AND Fire Blast.  
+  
+“Daaaamn, Timwad,” says Kyle moments later through a mouthful of Gushers and Pepsi Blue, having 6-0’ed Timmy’s entire team with a single Golduck. “You’re so bad at this game. I bet you don’t even know what Rhyhorn evolves into.”  
+  
+“Of course I do!” little Timmy whines. “It’s Rhydon—”  
+  
+And Next Door Kyle bellows a response that would echo through time.
 ```
 
-Source: trust me bro
+
 
 [Bunch of Random Pokemon Sprites](poke)
 
