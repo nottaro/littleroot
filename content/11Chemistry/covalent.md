@@ -28,3 +28,7 @@ enableToc: true
 	- These increase with molecular size, which increases the strength of the bonds
 
 Note: These are for Covalent Molecular Structures, not Covalent Network Structures, which you do not need to know
+
+[Metallic Bonding](11Chemistry/metal.md)
+
+[Ionic Bonding](11Chemistry/ionic.md)

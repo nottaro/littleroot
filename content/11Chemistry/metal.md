@@ -29,3 +29,5 @@ enableToc: true
 
 
 [Ionic Bonding](11Chemistry/ionic.md)
+
+[Covalent Bonding](11Chemistry/covalent.md)

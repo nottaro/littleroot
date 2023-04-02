@@ -64,3 +64,5 @@ enableToc: true
 
 
 [Metallic Bonding](11Chemistry/metal.md)
+
+[Covalent Bonding](11Chemistry/covalent.md)
