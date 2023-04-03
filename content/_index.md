@@ -23,6 +23,8 @@ I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
 Source: trust me bro
 
+~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
+
 # Funny Stuff
 
 > For man is not truly one but truly two - Edward Huynh
@@ -45,5 +47,5 @@ And Next Door Kyle bellows a response that would echo through time.
 
 [Bunch of Random Pokemon Sprites](poke)
 
-~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
+
 
