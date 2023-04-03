@@ -22,10 +22,19 @@ enableToc: true
 - These are temporary, as electrons move randomly, therefore the dipoles form, break apart, and reform randomly
 
 ## Permanent Dipole-Dipole
-- Forces present betwween 2 polar molecules
+- Forces present between 2 polar molecules
 - Formed from the electrostatic force of attraction between 2 net dipoles; i.e. partially positive end of one dipole, and partially negative end of another, and vice versa
 - Stronger than dispersion forces
 	- They are permanent
 	- There is a greater separation of charge, and therefore a greater ESF of attraction between the 2 dipoles
 - Stronger than intramolecular forces
 - Relatively weak compared to metallic, ionic, and covalent bonds
+
+## Hydrogen Bonding
+- Strong dipole-dipole attraction between an electron deficient hydrogen atom attached to an electronegative atom (N, O, F), and the lone pair of electrons on a highly electronegative atom on a different molecule $$H^{\delta+}-F^{\delta- }|||||||||H^{\delta+}-F^{\delta- }$$
+	- Hydrogen is electron deficient, Fluorine is electronegative
+	- Strong dipole-dipole forces
+	- Hydrogen bonding represented as |||||||
+- The bonds as stronger than dipole-dipole forces and dispersion forces
+	- They are permanent
+	- There is a greater separation of charge, and therefore a greater ESF of attraction between the 2 dipoles

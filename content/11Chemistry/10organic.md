@@ -30,7 +30,9 @@ Cause + Effect enhanced
 3.  Average global temperatures rise
 4.  Ice melting and sea level rises
 
-![](Images/The%20Greenhouse%20Effect.png)![](Images/Earth's%20surface.png)
+![](Images/The%20Greenhouse%20Effect.png)
+
+![](Images/Earth's%20surface.png)
 - Some sunlight is absorbed by greenhouse gases. However, the kinetic energy formed by the greenhouse gasses moving and the absorbed sunlight, heats up the earth
 
 ## Coal and Crude Oil Formation

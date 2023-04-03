@@ -11,4 +11,6 @@ Year 11 Notes:
 
 [Permutations and Combinations](11Methods/PerCom.md)
 
+[Linear Equations](11Methods/Lines)
+
 More to come!
