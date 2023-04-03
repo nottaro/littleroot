@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 > [!important]- And Next Door Kyle bellows a response that would echo through time.
+> 
 > The year is 1997. 
 > 
 > Little Timmy loves playing the new Pocket Monsters game his mommy got him for Christmas. It hasn’t been two weeks, but little Timmy’s already beaten the game using the totally awesome Charizard he got from Professor Oak. Little Timmy thinks he’s hot shit. Little Timmy is a spoiled brat because his pushover parents let him play video games for ten hours a day. 
