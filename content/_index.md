@@ -44,8 +44,6 @@ Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
-# Funny Stuff
-
 > [!quote]- Edward Hunyh Quotes
 > 
 > For man is not truly one but truly two - Edward Huynh
