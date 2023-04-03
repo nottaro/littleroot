@@ -24,3 +24,5 @@ Year 11 Notes:
 [Taxes and Subsidies - Application of Demand and Supply](11Economics/taxesandsubsidies.md)
 
 [Price Controls - Application of Demand and Supply](11Economics/pricecontrols.md)
+
+[Market Failure](11Economics/marketfailure.md)

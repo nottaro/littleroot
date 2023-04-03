@@ -11,7 +11,7 @@
 
 ### Adding Vectors
 
-******************************************For 2 Vectors A and B******************************************
+**For 2 Vectors A and B**
 
 ![](Images/vec.png)
 
@@ -90,7 +90,7 @@ $$ \overrightarrow{AB}+\overrightarrow{BC}+\overrightarrow{CD}+\overrightarrow{D
 
 $$ -\overrightarrow{AB}=\overrightarrow{BA} $$
 
-******************************************Scalar Multiplication******************************************
+**Scalar Multiplication**
 
 -   Given a vector $a$, $2a=a+a$
 -   For a vector **a**, and positive scalar $k$(i.e., a positive real number), the vector k**a** is the vector with the same direction as **a** and magnitude k|**a**|
@@ -113,6 +113,42 @@ $$ \overrightarrow{AB}+\overrightarrow{BC}-\overrightarrow{DC}=\overrightarrow{A
 ![](Images/vector%201.png)
 -   A vector ****v**** can be written in component form as
 ![](Images/vector%202.png)
--   Given a vector $\underline{v}=a\underline{i}+b\underline{j}$
+-   Given a vector $\underline{v}=a\underline{i}+b\underline{j}$:
+- $|\underline{v}|=\sqrt{a^2+b^2}$ -
+- $tan\ \theta=\frac{b}{a}$ 
+- Your calculator will evaluate this with an angle between $-90˚$and $90˚$
+-  This may not match the quadrant of the vector! If not, add $180˚$ 
+-  If the vector is in the 4th quadrant, your calculator will give a negative angle. Add $360˚$to get the equivalent positive angle
 
-: - $|\underline{v}|=\sqrt{a^2+b^2}$ - $tan\ \theta=\frac{b}{a}$ - Your calculator will evaluate this with an angle between $-90˚$and $90˚$ - This may not match the quadrant of the vector! If not, add $180˚$ - If the vector is in the 4th quadrant, your calculator will give a negative angle. Add $360˚$to get the equivalent positive angle
+## Unit Vectors
+-   Vector that is the same as another with a magnitude of 1
+-   $\frac{1}{|\underline{v}|}\underline{v}$
+
+## Vector Equations
+- Vector questions can involve setting up equations and solving them
+- Remember, 2 vectors are only equal if their magnitude and direction are equal
+- Equivalently, 2 vectors in component form are equal if and only if their components are equal
+- $ai+bj=ci+dj$ if and only if $a=c$ and $b=d$
+- This means that solving equations with vectors in component form usually incolve equating components
+
+## Position Vectors
+-   Vector used to represent the position of a point relative to the origin (in the Cartesian plane when working in a 2D space)
+
+$$ \overrightarrow{AB}=-\overrightarrow{OA}+\overrightarrow{OB} $$
+
+## Multiplication of Vectors
+
+-   There are various different ways you could define the product of 2 vectors
+-   The scalar/dot product of 2 vectors ***a** and **b** is
+$$ a\times b=b\times a=|a||b| cos(\theta) $$
+-   $\theta$ is the angle between vectors arranged tail to tail or nose to nose
+
+$$ a \times a=|a|^2 $$
+$$ a\times (\lambda b)=\lambda a \times b $$
+$$ a \times (b+c)=a \times b+a\times c $$
+-   $a \perp b$ if and only if $a \times b = 0$
+
+## Geometric Proofs using Vectors
+- Facts of vector algebra you can use:
+	- **a** = **b** if and only if **a** and **b** have the same magnitude and direction
+	- -**a** has the same magnitude as **a** but the opposite direction

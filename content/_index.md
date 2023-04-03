@@ -3,7 +3,7 @@ title: Notes Dump
 enableToc: false
 ---
 
-Heya! I'm [supaqwerty](https://github.com/supaqwerty)! This is a website I made as a side project! Thanks to [tacoz](https://github.com/nottacoz) and [EddieTheEd](https://github.com/eddietheed) for helping! 
+Heya! I'm [supaqwerty](Info/AboutMe.md)! This is a website I made as a side project! Thanks to [tacoz](https://github.com/nottacoz) and [EddieTheEd](https://github.com/eddietheed) for helping! 
 
 I'm a proud member of [the town](Info/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](Info/townsites.md).
 
