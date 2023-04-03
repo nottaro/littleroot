@@ -35,6 +35,9 @@ enableToc: true
 	- Hydrogen is electron deficient, Fluorine is electronegative
 	- Strong dipole-dipole forces
 	- Hydrogen bonding represented as |||||||
-- The bonds as stronger than dipole-dipole forces and dispersion forces
+- The bonds are stronger than dipole-dipole forces and dispersion forces
+- Strongest of all intermolecular forces
 	- They are permanent
 	- There is a greater separation of charge, and therefore a greater ESF of attraction between the 2 dipoles
+- Responsible for unique properties of water
+	- Water has an interesting boiling point; $100˚C$, low boiling point, but relatively high for its size
