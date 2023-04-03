@@ -1,8 +1,6 @@
 
 ![](Images/ptable.jpg)
 
-![Chemistry Data Booklet](PDFs/2023-CHE-Data-Book.pdf)
-
 **Orbitals**: Area of space that is likely to contain electrons
 
 **Cathode Ray Tube**: A high vacuum tube in which **cathode rays** produce luminous images on a fluorescent screen
