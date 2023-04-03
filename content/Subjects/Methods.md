@@ -13,4 +13,6 @@ Year 11 Notes:
 
 [Linear Equations](11Methods/Lines)
 
+[Quadratic Equations](11Methods/Quadratics.md)
+
 More to come!

@@ -8,5 +8,7 @@ enableToc: false
 
 # [Christian's Site](https://spicata.github.io/mint-fresh-notes/)
 
+# [Shan-Mei's Site](https://shan-mei.github.io/shanmeis-notes/)
+
 
 
