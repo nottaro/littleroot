@@ -7,7 +7,7 @@ Heya! I'm [supaqwerty](Info/AboutMe.md)! This is a website I made as a side proj
 
 I'm a proud member of [the town](Info/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](Info/townsites.md).
 
-[!important] Test
+>[!important] Test
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods and Specialist notes aren't complete...
 
