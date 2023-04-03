@@ -47,7 +47,9 @@ Source: trust me bro
 # Funny Stuff
 
 > [!quote]- Edward Hunyh Quotes
+> 
 > For man is not truly one but truly two - Edward Huynh
+> 
 > It's time for the pleasures of life - Edward Huynh
 
 
