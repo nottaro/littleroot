@@ -41,3 +41,9 @@ enableToc: true
 	- There is a greater separation of charge, and therefore a greater ESF of attraction between the 2 dipoles
 - Responsible for unique properties of water
 	- Water has an interesting boiling point; $100˚C$, low boiling point, but relatively high for its size
+	- Universal solvent; polar compound; dissolves ionic compounds easily
+	- Very high surface tension
+	- Relationship between ice and water; ice floats in water, even though it shouldn't, as a solid
+		- Ice is less dense than water
+		- Hydrogen bonds become permanent when water freezes
+		- Water molecules are held together in a unique 3D structure
