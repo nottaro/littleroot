@@ -56,10 +56,10 @@ enableToc: true
 -   Lewis Diagrams are known as **dot-dot** or **dot-cross**
     
    
-    ![](Info%20Images/nacl.png)
+    ![](11SubjectImages/nacl.png)
     Sodium Chloride, $NaCl$
    
-    ![](Info%20Images/mgcl2.png)
+    ![](11SubjectImages/mgcl2.png)
     Magnesium Chloride, $MgCl_2$
 
 

@@ -142,7 +142,7 @@ A common example of a gamma ray emitter is iodine-131. Iodine-131 decays by beta
 -   Shorter the wavelength, higher the frequency
 -   This energy is mainly expressed as light, but can be expressed as heat or electricity
 -   Radiation can be emitted in the form of electromagnetic waves (gamma rays)
-![](Info%20Images/Increasing%20Frequency%20(v).webp.png)
+![](11SubjectImages/Increasing%20Frequency%20(v).webp.png)
 
 ## **Half Life**
 -   When a radioactive element decays, the number of radioactive nuclei decreases with time
@@ -166,7 +166,7 @@ $$^1_0n+ ^{235}_{92}U->^{141}_{56}Ba+^{92}_{36}Kr+3 ^1_0 n$$
 -   Therefore, happens in very, very hot conditions
 -   Cold fusion is a concept that entails nuclear fusion happening at room temperature
 -   Hydrogen bomb is based on concept of nuclear fusion
--   Usually releases neutrons or protons as well as new nucleus![](Info%20Images/Screen%20Shot%202022-10-08%20at%203.46.43%20pm.png)![](Info%20Images/Fission%20&%20Fusion.png)
+-   Usually releases neutrons or protons as well as new nucleus![](11SubjectImages/Screen%20Shot%202022-10-08%20at%203.46.43%20pm.png)![](11SubjectImages/Fission%20&%20Fusion.png)
 - Strong magnetic field is required for magnetic confinement
 - Ensures plasma doesn’t escape
 - Confinement ensures that fusion occurs, and makes it safe
@@ -230,7 +230,7 @@ $$^1_0n+ ^{235}_{92}U->^{141}_{56}Ba+^{92}_{36}Kr+3 ^1_0 n$$
 -   Ensures energy release is controlled and stable, due to them controlling the amount of neutrons for fission
 -   Coolant: liquid to absorb heat energy that has been produced by nuclear fission, goes to cooling tower to cool down
 	-   e.g. water
--   Radiation shield: thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor![](Info%20Images/Screen%20Shot%202022-09-27%20at%208.00.46%20pm.png)
+-   Radiation shield: thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor![](11SubjectImages/Screen%20Shot%202022-09-27%20at%208.00.46%20pm.png)
 
 ## **Uses of Radiation**
 ### **Medical Tracers**
@@ -258,7 +258,7 @@ $$^1_0n+ ^{235}_{92}U->^{141}_{56}Ba+^{92}_{36}Kr+3 ^1_0 n$$
 -   Carbon has a half life of 5730 years
 -   Since it’s only good for 40-50000 years, it’s good for measuring the age of human artefacts and similar things, but useless for determining things in the millions, e.g. dinosaur fossils, ancient rock formations
 -   For this, we use the decay of uranium into lead, which takes around 4.5 billion years
--   By measuring how much lead is present, we can also determine the age of this specimen![](Info%20Images/Contamination.png)
+-   By measuring how much lead is present, we can also determine the age of this specimen![](11SubjectImages/Contamination.png)
 
 ## **Definitions**
 **Decay:** occurs when unstable nuclei breakdown into smaller parts, sitting small particles with high energy

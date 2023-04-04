@@ -40,7 +40,7 @@ $$ 1s^2,2s^2,2p^6,3s^2,3p^6,4s^2,3d^{10},4p^6,5s^2,4d^{10},5p^6,4f^{14},6s^2... 
 | S         | Sphere          |
 | P         | Infinity Symbol |
 
-![](Info%20Images/Sub-shell%20shapes.png)
+![](11SubjectImages/Sub-shell%20shapes.png)
 
 -   Each orbital holds up to 2 electrons regardless of whether it is an “s”, a “p” or a “d” orbital
 -   Electrons have **************************opposite spin************************** to prevent repulsion

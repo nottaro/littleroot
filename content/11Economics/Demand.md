@@ -66,8 +66,8 @@ enableToc: true
 -   ************************************Individual Demand:************************************ Demand for a good or service by an individual consumer
 -   ****Market Demand:**** Sum of the individual demand for a good or service by all of the consumers in the market
 
-![](Info%20Images/factors.png)
-![](Info%20Images/non%20price.png)
+![](11SubjectImages/factors.png)
+![](11SubjectImages/non%20price.png)
 **********Non-Price Factors affecting Ability and Willingness to buy**********
 
 1.  Demographic Changes, e.g. size/composition of population

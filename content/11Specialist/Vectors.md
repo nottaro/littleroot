@@ -13,10 +13,10 @@
 
 **For 2 Vectors A and B**
 
-![](Info%20Images/vec.png)
+![](11SubjectImages/vec.png)
 
 We can use the triangle method:
-![](Info%20Images/tri.png)
+![](11SubjectImages/tri.png)
 
 
 and use the Cosine Rule to find the magnitude of side c:
@@ -34,7 +34,7 @@ This also works for the reciprocals of this equation.
 
 We can also use the ******parallelogram method,****** and use the methods described above
 
-![](Info%20Images/para.png)
+![](11SubjectImages/para.png)
 There's also adding Vector Components, but I'll cover that later
 
 ## Vectors in Euclidean Geometry
@@ -49,7 +49,7 @@ There's also adding Vector Components, but I'll cover that later
     
 -   ABCD is a parallelogram
     
- ![](Info%20Images/para%202.png)
+ ![](11SubjectImages/para%202.png)
     
 -   $\overline{AD}$ and $\overline{BC}$ are different line segments because, on the cartesian plane, their coordinates are different
     
@@ -110,9 +110,9 @@ $$ \overrightarrow{AB}+\overrightarrow{BC}-\overrightarrow{DC}=\overrightarrow{A
 
 -   Any 2D vector can be resolved into a sum of horizontal and verticale components, written as $$a\underline{i}+b\underline{j}$$ where **i** and **j** are unit vectors
 -   Vectors in component form can be added by adding their components and simplifying
-![](Info%20Images/vector%201.png)
+![](11SubjectImages/vector%201.png)
 -   A vector ****v**** can be written in component form as
-![](Info%20Images/vector%202.png)
+![](11SubjectImages/vector%202.png)
 -   Given a vector $\underline{v}=a\underline{i}+b\underline{j}$:
 - $|\underline{v}|=\sqrt{a^2+b^2}$ -
 - $tan\ \theta=\frac{b}{a}$ 

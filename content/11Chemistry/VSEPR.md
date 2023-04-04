@@ -14,7 +14,7 @@ enableToc: true
 1. The 4 pairs of electrons around a central atom repel each other
 2. Pairs of electrons arrange themselves so they are as far apart as possible
 3. The repulsion between lone pairs is greater than the repulsion between bonding
-![](Info%20Images/vsepr.png)
+![](11SubjectImages/vsepr.png)
 
 - Bent's angle is 104.5˚
 - **This table will not be given in your exams, you must memorise this**

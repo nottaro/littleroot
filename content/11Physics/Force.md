@@ -13,7 +13,7 @@ Force: Mass (kg) x acceleration ($ms^{-2}$), units in Newtons (N)
 $$ f=ma $$
 
 -   We can use this for free body diagrams
-![](Info%20Images/free%20body.png)
+![](11SubjectImages/free%20body.png)
 -   If one arrow is bigger, it is accelerating in that direction
 -   You can write the force as “$F_x$”, where x is the type, e.g. gravity
 -   Thus, an object travelling at a constant velocity has no force, and all arrows are equal
