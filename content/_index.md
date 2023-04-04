@@ -22,7 +22,7 @@ Heya! I'm [supaqwerty](Info/AboutMe.md)! This is a website I made as a side proj
 
 I'm a proud member of [the town](Info/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](Info/townsites.md).
 
-> [!quote]- About weaklings
+> [!info]- About weaklings
 > 
 > Incapable midgets have no right to exist
 
@@ -45,14 +45,17 @@ Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
-> [!quote]- Edward Hunyh Quotes
+> [!quote]- Edward Lee Hunyh Quotes
 > 
-> For man is not truly one but truly two - Edward Huynh
+> For man is not truly one but truly two
 > 
-> It's time for the pleasures of life - Edward Huynh
-
+> It's time for the pleasures of life
 
 [Bunch of Random Pokemon Sprites](poke)
+
+# Writings
+
+[Perth Pokémon Oceania Regionals 2023](Writings/perth2023.md)
 
 
 

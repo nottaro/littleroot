@@ -36,6 +36,9 @@ enableToc: true
 - Distance = speed $\times$ time
 - Time = distance/speed
 $$v=f{\lambda}=\frac{\lambda}{T}$$
+- Speed of sound at $25˚ C$ is $346$ $ms^{-1}$
+## Reflection
+### Reflection
 
 ### Law of Reflection
 - The angle of reflection is equal to the angle of incidence
