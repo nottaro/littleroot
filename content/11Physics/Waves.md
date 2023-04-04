@@ -37,9 +37,26 @@ enableToc: true
 - Time = distance/speed
 $$v=f{\lambda}=\frac{\lambda}{T}$$
 - Speed of sound at $25˚ C$ is $346$ $ms^{-1}$
+
+## Wave Behaviours
+- Energy incident upon a surface is
+	- Reflected
+	- Absorbed
+	- Transmitted (goes through the object)
+	- Usually a combination of these 3
+
 ## Reflection
 ### Reflection
-
+- When energy is incident upon a surface (e.g. boundary between 2 different mediums), then some/all of the energy "bounces" back into the original medium
 ### Law of Reflection
 - The angle of reflection is equal to the angle of incidence
-- Angle of incidence: angle between the incident ray and the normal 
+- Angle of incidence: angle between the incident ray and the normal
+
+## Refraction
+- Occurs when a wave passes from the medium to another, at an angle other than 90˚ and changes direction
+- Changes speed, and therefore wavelength, but not frequency
+- NB: The media may simply be referred to as slow(er) or fast(er)
+- We all know that in order of density, solid > liquid > air > vacuum
+	- Sound: speed of sound increases with density of medium
+	- Light: speed of light decreases with density of medium
+		- If a ray goes into a slower medium it bends towards from the normal

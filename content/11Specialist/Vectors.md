@@ -42,7 +42,7 @@ There's also adding Vector Components, but I'll cover that later
 -   Line segments are geometrical objects
     
 -   $AB$ is the magnitude
-    
+   
 -   $\overrightarrow{AB}$ is a vector
     
 -   $\overline{AB}$ is a line segment

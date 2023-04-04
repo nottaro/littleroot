@@ -27,17 +27,20 @@ What is a Public Good?
 ### Private Goods
 - Has 2 characteristics
 - Rivalrous, excludable
+
 ### Public Goods
 - Goods that are non-rival and non-excludable are also known as pure public goods
 - Non-rival 
 - Non-excludable
 - E.g., lighthouse
+
 ### Public Goods and the Free Rider Problem
+
 **Excludable Goods**
 - It is possible to prevent people from buying and using a good simply by charging a price for it; those who do not pay the price do not buy it and do not get to use it
 - Therefore., private firms have an incentive to provide excludable goods because they can charge a price for them, and therefore can cover their costs
 **Non-Excludable Goods**
-- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even thou
+- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even though
 **The Free Rider Problem**
 - Arises from non-excludability, people cannot be excluded from using to good
 - Public goods are a type of market failure, because due to the free rider problem, private firms do not produce these goods
