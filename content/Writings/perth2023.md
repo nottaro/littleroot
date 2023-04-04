@@ -34,7 +34,7 @@ There were 131 people registered for the tournament, but only 113 participants f
 
 There were some people wearing awesome merch. There was a Greninja cosplayer, a person with a Tera-Ghost Garganacl shirt with the phrase, "It gets worse", a guy with a Palafin t-shirt (that alone terrified me...) and a Mimikyu cosplayer.
 
-## The Matches
+## The Playoffs
 
 ### Round 1
 
@@ -81,6 +81,6 @@ It's the Palafin guy. Oh my days, his team was so good. His team was another hyp
 
 ## Conclusion
 
-Overall, considering that I was against adults that flew in from all over the country, I think I did rather well. I placed 55th out of 113 participants, and had a Round win to loss ratio of 4:3, and a Set win to loss ratio of 9:7. I finished with 12 points, and got a participation price of a "Boss's Orders" Pokémon Regionals Card, and a Regidrago playmat. 
+Overall, considering that I was against adults that flew in from all over the country, I think I did rather well. I placed 55th out of 113 participants, and had a Round win to loss ratio of 4:3, and a Set win to loss ratio of 9:7. I finished with 12 points, and got a participation price of a "Boss's Orders" Pokémon Regionals Card, and a Regidrago playmat. I didn't manage to get into Day 2, but I still had a ton of fun.
 
 I had a great time there. I met some new people and made some new friends, and everyone there was so nice. Never once did I encounter a bad sport. I would 100% do this again, and would recommend anyone who is able to, to do so as well.
