@@ -17,11 +17,11 @@ enableToc: true
     -   No matter the price, the same quantity is supplied
     -   E.g., rare antiques
 
-![](Images/supply%20factor.png)
+![](Info%20Images/supply%20factor.png)
 
 ## Non-Price Supply Factors
 
-![](Images/nonprice%20supply.png)
+![](Info%20Images/nonprice%20supply.png)
 
 ### Change in Price of Factor Inputs
 

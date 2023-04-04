@@ -30,15 +30,15 @@ Cause + Effect enhanced
 3.  Average global temperatures rise
 4.  Ice melting and sea level rises
 
-![](Images/The%20Greenhouse%20Effect.png)
+![](Info%20Images/The%20Greenhouse%20Effect.png)
 
-![](Images/Earth's%20surface.png)
+![](Info%20Images/Earth's%20surface.png)
 - Some sunlight is absorbed by greenhouse gases. However, the kinetic energy formed by the greenhouse gasses moving and the absorbed sunlight, heats up the earth
 
 ## Coal and Crude Oil Formation
 
-![](Images/Crude%20Oil%20Formation.png)
-![](Images/Coal%20Formation.png)
+![](Info%20Images/Crude%20Oil%20Formation.png)
+![](Info%20Images/Coal%20Formation.png)
 
 ## Fractional Distillation
 - A method of separating fractions of crude oil
@@ -361,9 +361,9 @@ Endothermic reactions have a positive value for △H, meaning enthalpy has incre
 ## **Representing Energy Changes in Chemical Reactions**
 -   Enthalpy change can be shown graphically using an energy profile graph, or it can be written along with the equation 
 -   Sometimes the heat absorbed or released during the reaction is written into the equation, rather than giving the enthalpy change
-![](Images/Exothermic.png)
-![](Images/Activation%20energy.png)
-![](Images/Exothermic%20reaction.png)
+![](Info%20Images/Exothermic.png)
+![](Info%20Images/Activation%20energy.png)
+![](Info%20Images/Exothermic%20reaction.png)
 - When a catalyst is used, less energy is needed for a reaction to occur
 - Activation energy: amount of energy required to start/sustain reaction
 - catalyst: substance that lowers activation energy of the reaction, and is not consumed during the reaction

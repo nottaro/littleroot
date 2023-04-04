@@ -1,5 +1,5 @@
 
-![](Images/ptable.jpg)
+![](Info%20Images/ptable.jpg)
 
 **Orbitals**: Area of space that is likely to contain electrons
 

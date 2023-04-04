@@ -11,12 +11,12 @@ enableToc: true
 - Over-provision (over-provided) of a good means too many/much resources are allocated to its production (over-allocation)
 - Under-provision means that too few resources are allocated to its production (under-allocation)
 
-## Market Failure: 3 Main Sources
+# Market Failure: 3 Main Sources
 1. Public Goods and Common Resources
 2. Externalities
 3. Market Power
 
-### Public Goods and Common Resources
+## Public Goods and Common Resources
 What is a Public Good?
 - A useful way to classify different goods in the economy is to use 2 criteria (from a viewpoint of allocative efficiency):
 	1. Rivalry(rival in consumption)
@@ -52,3 +52,19 @@ What is a Public Good?
 **The Free Rider Problem**
 - Arises from non-excludability, people cannot be excluded from using the good
 - Public goods are a type of market failure, because due to the free rider problem, private firms do not produce these goods
+
+### Common Access Resources
+- A category of market failure is Common Access Resources (CARs)
+- Not owned by any private individual or firm, so do not have a price, but are available for anyone to use without direct payment
+- Hence, without government intervention, these resources are vulnerable to overuse and abuse
+- E.g., fisheries, irrigations, rivers, forests, atmosphere
+- Even for renewable resources, such as fish stocks, the overuse of these resources can lead to a long-term decline beyond the sustainable level in the stock of natural capital
+- **Non-excludable**
+	- As they are freely available, there tends to be over-consumption of such resources
+	- Hence, common access resources are difficult to sustain, which is why governments intervene to prevent the depletion or destruction of such goods
+- **Rivalrous**
+	- Consumption of these resources diminishes the quantity and possibly quality of remaining resources for the current and future generations to use
+	- In the case of over-consumption of CARs, sustainability becomes a real issue so generations to come may be deprived of any access to these resources
+- **Tragedy of the commons**
+	- CARs create a situation known as the "Tragedy of the Commons"
+	- This means: Degradation, depletion or destruction of a CAR caused by the problems of overuse or abuse

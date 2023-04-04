@@ -20,7 +20,7 @@ enableToc: true
 	2. Non-mechanical waves do not require a medium, e.g. EMR
 
 ## Anatomy of a Wave
-![](Images/236375072-3709402252.png)
+![](Info%20Images/236375072-3709402252.png)
 - Crest: Highest displacement of a particle in the positive direction
 	- Highest point in the graph
 - Trough: Lowest displacement of a particle in the negative direction
