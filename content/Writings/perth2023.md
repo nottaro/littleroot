@@ -2,7 +2,7 @@
 title: Perth Pokémon Oceania Regionals 2023
 ---
 
-So...as a hobby, I play a funny little game called Pokémon. Not just the story mode, but also the competitive mode, also known as VGC, or Video Game Competition formats. I played on [Pokémon Showdown](https://play.pokemonshowdown.com), but recently this year, I had the chance to attend a physical, official event known as the Perth Regionals.
+So...as a hobby, I play a funny little game called Pokémon. Not just the story mode, but also the competitive mode, also known as VGC, or Video Game Competition formats. I played on [Pokémon Showdown](https://play.pokemonshowdown.com), but this year, I had the chance to attend a physical, official event known as the Perth Regionals.
 
 This event was spread out over 2 days, the 3rd and 4th of March. Players would compete in 7 rounds, and the top 8 would move onto the 2nd day. 3 points were allocated for a win, and 0 points were added for a loss, with 1 point being added for draws. The 8 players with the highest amount of points would move on to the next day. Your ranking was also determined by the opponents you faced. For example, someone who beat the top player but only had 1 win would be ranked higher than someone who beat the bottom player with 1 win.
 
