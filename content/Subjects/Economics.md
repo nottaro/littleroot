@@ -7,6 +7,10 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Year 11 Notes:
 
+> [!summary] Year 11 Content
+> 
+> In Year 11, you'll focus mainly on Microeconomics, and you'll do Macroeconomics in Year 12
+
 [Introduction to Economics](11Economics/Introduction2Economics.md)
 
 [The Theory of Demand](11Economics/Demand.md)

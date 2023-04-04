@@ -21,8 +21,10 @@ What is a Public Good?
 - A useful way to classify different goods in the economy is to use 2 criteria (from a viewpoint of allocative efficiency):
 	1. Rivalry(rival in consumption)
 		- Does consumption by one person reduce supply available to other users?
-	2. Excludability
+		- Increase in consumption by one consumer leads to a fall in total supply of the good
+	1. Excludability
 		- Whether a good is excludable - is it possible to exclude a non-payer from consuming to good to service?
+		- Exclusion of consumers is made possible, or is not costly
 
 ### Private Goods
 - Has 2 characteristics
@@ -33,6 +35,7 @@ What is a Public Good?
 - Non-rival 
 - Non-excludable
 - E.g., lighthouse
+- Provide significant social benefit
 
 ### Public Goods and the Free Rider Problem
 
@@ -40,7 +43,7 @@ What is a Public Good?
 - It is possible to prevent people from buying and using a good simply by charging a price for it; those who do not pay the price do not buy it and do not get to use it
 - Therefore., private firms have an incentive to provide excludable goods because they can charge a price for them, and therefore can cover their costs
 **Non-Excludable Goods**
-- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even though
+- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even though it was produced by private firms
 **The Free Rider Problem**
-- Arises from non-excludability, people cannot be excluded from using to good
+- Arises from non-excludability, people cannot be excluded from using the good
 - Public goods are a type of market failure, because due to the free rider problem, private firms do not produce these goods
