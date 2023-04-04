@@ -27,15 +27,20 @@ What is a Public Good?
 		- Exclusion of consumers is made possible, or is not costly
 
 ### Private Goods
-- Has 2 characteristics
-- Rivalrous, excludable
+- Rivalrous in consumption
+- Excludable in consumption
 
 ### Public Goods
 - Goods that are non-rival and non-excludable are also known as pure public goods
-- Non-rival 
-- Non-excludable
+- Non-rival in consumption
+- Non-excludable in consumption
+	- Free rider problem
+- No demand (price signals)
+- No supply
+- Hence no market arises (via price mechanism)
+- Provide significant social benefits
 - E.g., lighthouse
-- Provide significant social benefit
+- Socially desirable
 
 ### Public Goods and the Free Rider Problem
 
