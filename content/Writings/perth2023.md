@@ -4,7 +4,7 @@ enableToc: true
 ---
 [go back](Writings/Writings.md)
 
-Written in April 2023.
+Written on 3rd-4th April 2023.
 
 ## Introduction
 
@@ -80,7 +80,7 @@ I was pretty used to offensive teams, so I didn't have too much trouble. I will 
 
 By now, I'm feeling pretty good. I've evened out my losses and wins, and am now at 3 wins, 3 losses. My last match will decide my ranking. Determined to win, I go into the 7th round.
 
-It's the Palafin guy. Oh my days, his team was so good. His team was another hyper-offensive team that I didn't match up well against. I won the first set by manoeuvring well. He took the 2nd set by taking advantage of my Pokémon choices. In the third set, I was feeling pretty nervous. I didn't want to have a bad win:lose ratio, but it was my last match, so I wanted to have some fun. In the past, I always lead with Iron Moth and Flutter Mane, and Terastallised my Flutter Mane, and it worked pretty well. The thing is, he lead with Iron Bundle. I knew that he was going to Hydro Pump into the Iron Bundle like he did in Game 2, and this would OHKO it. I could've protected Iron Bundle and attacked with Flutter Mane, and in retrospect, this was the safest thing to do. But I didn't want to do that. I thought, "What if Hydro Pump missed?". I took a 20% chance that it would miss, and based my whole strategy off that. The first turn comes. His Iron Bundle uses Hydro Pump. The seconds tick by....and he misses Hydro Pump. My Iron Bundle uses Acid Spray on his Palafin, and I Terastallise my Flutter Mane, use Dazzling Gleam, and OHKO both his Iron Bundle and Palafin. He brings out Flutter Mane and Arcanine, but the sheer force of my hyper-offensive team overwhelm him. I win the set and the round, 2-1.
+It's the Palafin guy. Oh my days, his team was so good. His team was another hyper-offensive team that I didn't match up well against. I won the first set by manoeuvring well. He took the 2nd set by taking advantage of my Pokémon choices. In the third set, I was feeling pretty nervous. I didn't want to have a bad win:lose ratio, but it was my last match, so I wanted to have some fun. In the past, I always lead with Iron Moth and Flutter Mane, and Terastallised my Flutter Mane, and it worked pretty well. The thing is, he always lead with Iron Bundle. I knew that he was going to Hydro Pump into the Iron Bundle like he did in Game 2, and this would OHKO it. I could've protected Iron Bundle and attacked with Flutter Mane, and in retrospect, this was the safest thing to do. But I didn't want to do that. I thought, "What if Hydro Pump missed?". I took a 20% chance that it would miss, and based my whole strategy off that. The first turn comes. His Iron Bundle uses Hydro Pump. The seconds tick by....and he misses Hydro Pump. My Iron Bundle uses Acid Spray on his Flutter Mane, and I Terastallise my Flutter Mane, use Dazzling Gleam, and OHKO both his Iron Bundle and Flutter Mane. He brings out Tyranitar and Arcanine, but the sheer force of my hyper-offensive team overwhelm him. I win the set and the round, 2-1.
 ![](writings%20images/DimitriKoziaris.png)
 
 ## Conclusion

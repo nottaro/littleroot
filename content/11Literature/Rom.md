@@ -103,3 +103,51 @@ As an aesthetic philosophy, Romanticism engages with these key concepts:
 -   Poetry suited to self-expression
 -   Linked with magic in earlier civilisations, connection to the primitive
 -   Poet as prophet, seer, outcast, visionary
+
+# **Romantic Poets**
+
+## **1st Generation**
+
+### **William Blake**
+-   1757 to 1827
+-   Son of hosier, engraver (artisan class)
+-   Largely unrecognised for the most part of his life
+-   Student at the Royal Academy
+-   Unhinged, deranged
+-   Activist
+### **William Woodsworth**
+-   1770 to 1850
+-   Son of attorney
+-   Cambridge education
+-   Lived (modestly) on family money
+-   Poetry is “the spontaneous overflow of powerful feelings; it takes its origin from emotion recollected in tranquility” 
+-   E.g., I Wandered Lonely as a Cloud
+### **Samuel Taylor Coleridge**
+-   1772 to 1834
+-   Son of vicar
+-   Cambridge education
+-   Theological writing
+
+## **2nd Generation**
+### **Lord George Byron**
+-   1788 to 1824
+-   Son of captain
+-   Cambridge education
+-   Inherited title 1798
+-   “Mad, bad and dangerous to know”
+-   Had to leave England after his half-sister had his child
+-   Killed in Greek war of independence
+### **Percy Bysse Shelly**
+-   1792 to 1822
+-   Son of Mp (later Baronet)
+-   Expelled from Oxford for atheism
+-   Eloped with Mary when she was 16
+-   Lived in Europe 
+-   Hung around with Byron
+-   Died in a boating accident
+### **John Keats**
+-   1795 to 1821
+-   Son of stables manager (barely middle class)
+-   Apothecary/surgeon
+-   Died of consumption
+-   “With a great poet the sense of beauty overcomes every other consideration”
