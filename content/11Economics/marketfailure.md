@@ -75,4 +75,4 @@ What is a Public Good?
 - **Tragedy of the commons**
 	- CARs create a situation known as the "Tragedy of the Commons"
 	- This means: Degradation, depletion or destruction of a CAR caused by the problems of overuse (or abuse) and over-consumption
-	- ![](11SubjectImages/tragedyofthecommons.png)
+	![](11SubjectImages/tragedyofthecommons.png)
