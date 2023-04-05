@@ -23,6 +23,6 @@ enableToc: true
 	- Mobile delocalised electrons that are free to move within layers
 	- Dispersion forces between layers
 	- Conductive of electricity
-- Buckyball
+- Buckyball - (Buckminster fulleren z )
 	- Not conductive of electricity
 	- Used as a dry lubricant

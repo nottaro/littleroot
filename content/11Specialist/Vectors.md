@@ -1,4 +1,11 @@
-# Vectors
+---
+title: Vectors
+enableToc: true
+---
+
+> [!info] Dr Pearce
+> 
+> Some of the images were from my teacher, Dr Pearce.
 
 -   Value with Direction and Magnitude
 
@@ -140,15 +147,41 @@ $$ \overrightarrow{AB}=-\overrightarrow{OA}+\overrightarrow{OB} $$
 
 -   There are various different ways you could define the product of 2 vectors
 -   The scalar/dot product of 2 vectors ***a** and **b** is
-$$ a\times b=b\times a=|a||b| cos(\theta) $$
+$$ a\cdot b=b\cdot a=|a||b| cos(\theta) $$
 -   $\theta$ is the angle between vectors arranged tail to tail or nose to nose
 
-$$ a \times a=|a|^2 $$
-$$ a\times (\lambda b)=\lambda a \times b $$
-$$ a \times (b+c)=a \times b+a\times c $$
+$$ a \cdot a=|a|^2 $$
+$$ a\cdot (\lambda b)=\lambda a \cdot b $$
+$$ a \cdot (b+c)=a \cdot b+a\cdot c $$
+$$(^a_b) \cdot (^c_d)=(^{ac}_{bd})$$
 -   $a \perp b$ if and only if $a \times b = 0$
+
+## Scalar Projections
+
+![](11SubjectImages/scalarprojection.png)
+![](11SubjectImages/scalarprojection2.png)
+![](11SubjectImages/scalarprojection3.png)
+![](11SubjectImages/scalarprojection4.png)
+![](11SubjectImages/scalarprojection5.png)
+![](11SubjectImages/scalarprojection6.png)
+
+## Vector Projections
+![](11SubjectImages/vectorprojections.png)
+![](11SubjectImages/vectorprojection2.png)
 
 ## Geometric Proofs using Vectors
 - Facts of vector algebra you can use:
 	- **a** = **b** if and only if **a** and **b** have the same magnitude and direction
 	- -**a** has the same magnitude as **a** but the opposite direction
+	- For a scalar $\lambda >0$, $\lambda \overrightarrow{a}$ has magnitude $\lambda |a|$ and the same direction as a
+	- If $a=\lambda b$, then if $\lambda >0$ , **a** and **b** are like parallel vectors; otherwise, if $\lambda < 0$, **a** and **b** are unlike vectors
+	- Vectors can be added with a triangle of vectors
+	- $a-b=a+(-b)$ 
+	- If $\lambda$ is a scalar, then $\lambda(a+b)=\lambda{a}+\lambda{b}$
+	- $a \perp b$ if and only if $a \times b = 0$
+ 
+## Relative Vectors
+- For this, we use the concept of position vectors
+- The position of Vector A relative to Vector B = $\overrightarrow{A}-\overrightarrow{B}$
+
+
