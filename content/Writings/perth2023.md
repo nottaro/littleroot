@@ -69,7 +69,7 @@ The next match was against Jackson Lee Kong, another Perth local about my age. H
 1. Using Scope Lens and Focus Energy to hit Critical hits, and ignore stat drops
 2. Use Iron Bundle and Weavile in tandem with each other, as Assurance has 120 base power when the target is hit. He could use Icy Wind and Assurance to sweep teams
 3. Just using all of his mons to provide offensive pressure
-I was pretty used to offensive teams, so I didn't have too much trouble. I will say this though: He included Weavile because it was his favourite Pokémon, so I don't carre what anyone says, that man is **BASED**.
+I was pretty used to offensive teams, so I didn't have too much trouble. I will say this though: He included Weavile because it was his favourite Pokémon, so I don't care what anyone says, that man is **BASED**.
 ![](writings%20images/JacksonLeeKong.png)
 
 ### Round 7
