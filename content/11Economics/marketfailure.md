@@ -28,7 +28,12 @@ What is a Public Good?
 
 ### Private Goods
 - Rivalrous in consumption
+	- Consumption by one person reduces its availability for someone else
 - Excludable in consumption
+	- It is possible to exclude people from using the good
+	- Usually achieved by charging a price
+	- People who refuse to or cannot pay the price are excluded
+- Since most goods are rivalrous, and excludable, most goods are private goodds
 
 ### Public Goods
 - Goods that are non-rival and non-excludable are also known as pure public goods
@@ -48,10 +53,12 @@ What is a Public Good?
 - It is possible to prevent people from buying and using a good simply by charging a price for it; those who do not pay the price do not buy it and do not get to use it
 - Therefore., private firms have an incentive to provide excludable goods because they can charge a price for them, and therefore can cover their costs
 **Non-Excludable Goods**
-- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even though it was produced by private firms
+- If a non-excludable good were to be produced by a private firm, people could not be prevented from using it even though they would not pay for it
+- Yet no profit-maximising firm would be willing to produce a good it cannot sell at some price
+- As a result, the market fails to produce goods that are non-excludable, giving rise to resource misallocation, as no resources are allocated to the production of public goods
 **The Free Rider Problem**
 - Arises from non-excludability, people cannot be excluded from using the good
-- Public goods are a type of market failure, because due to the free rider problem, private firms do not produce these goods
+- Public goods are a type of market failure, because due to the free rider problem, private firms do not produce these goods: the market fails to allocate resources to their production
 
 ### Common Access Resources
 - A category of market failure is Common Access Resources (CARs)
@@ -67,4 +74,5 @@ What is a Public Good?
 	- In the case of over-consumption of CARs, sustainability becomes a real issue so generations to come may be deprived of any access to these resources
 - **Tragedy of the commons**
 	- CARs create a situation known as the "Tragedy of the Commons"
-	- This means: Degradation, depletion or destruction of a CAR caused by the problems of overuse or abuse
+	- This means: Degradation, depletion or destruction of a CAR caused by the problems of overuse (or abuse) and over-consumption
+	- ![](11SubjectImages/tragedyofthecommons.png)
