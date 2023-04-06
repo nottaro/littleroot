@@ -28,6 +28,7 @@ I'm a proud member of [the town](Info/town.md). We should have a town page comin
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
 - Update 5/4/2023: I've finished my Spec notes
+I don't claim to have every single bit of information on these subjects, but I hope that it's enough :)
 
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
@@ -52,6 +53,5 @@ Source: trust me bro
 > It's time for the pleasures of life
 
 [Bunch of Random Pokemon Sprites](poke)
-
 
 
