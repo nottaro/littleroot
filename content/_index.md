@@ -48,9 +48,13 @@ Source: trust me bro
 
 > [!quote]- Edward Lee Hunyh Quotes
 > 
-> For man is not truly one but truly two
+> "For man is not truly one but truly two"
 > 
-> It's time for the pleasures of life
+> "It's time for the pleasures of life"
+> 
+> "Say mums that was platonic"(me) "...I can't"
+> 
+> "Ok bozo" - in response to ChatGPT's code not working and correcting it
 
 [Bunch of Random Pokemon Sprites](poke)
 

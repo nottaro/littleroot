@@ -20,6 +20,6 @@ I have a few hobbies, including, but not limited to:
 - Reading in general
 - Competitive Pokémon
 - Gaming in general
-- Playing gui
+- Playing guitar
 
 Hope you enjoy the site!
