@@ -28,7 +28,31 @@ enableToc: true
 	- Small amount of energy is need to overcome these bonds, and there is a low melting/boiling point
 	- These increase with molecular size, which increases the strength of the bonds
 
-Note: These are for Covalent Molecular Structures, not Covalent Network Structures, which you do not need to know
+Note: These are for Covalent Molecular Structures, not Covalent Network Structures, ~~which you do not need to know .~~
+Ok Ms Pilling is talking about Silicon Dioxide, Graphite, and Diamond, so here you go, I guess.
+
+## Covalent Networks (Elements)
+
+### Silicon
+- Each silicon atom is bonded to 4 other silicon atoms in a tetrahedral 3D shape
+- Weaker than Diamond
+
+### Graphite
+- An allotrope of carbon
+- Where each carbon atom is bonded to 3 other carbon atoms via **single bonds only** in a hexagonal arrangement, in **multiple 2D layers**
+- There exists a layer of delocalised electrons between each 2D layer of carbons
+- The layers are attracted to each other due to electrostatic attraction between the delocalised electrons that exist in each layer
+
+### Diamond
+- Another allotrope of carbon where each carbon atom is bonded to 4 other carbon atoms in a tetrahedral 3D shape
+- Has the standard properties of a covalent network solid
+- Stronger than Silicon, as there is a greater ESF in between the carbons, due to a decrease in atomic radius
+
+## Covalent Networks (Compounds)
+### Silicon Dioxide
+- In silicon dioxide, each silicon atom is bonded to 4 other oxygen atoms which in turn are bonded to 2 silicon atoms
+- Silicon dioxide is also known as quartz, and has the same properties as a general covalent network substances
+
 
 [Metallic Bonding](11Chemistry/metal.md)
 
