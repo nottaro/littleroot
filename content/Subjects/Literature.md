@@ -7,6 +7,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Year 11 Notes:
 
+[How to Study for Literature](11Literature/Study.md)
+
 [Narrative Features and Language Conventions](11Literature/Conventions.md)
 
 [Close Reading](11Literature/CloseReading.md)
