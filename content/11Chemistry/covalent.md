@@ -34,7 +34,7 @@ Ok Ms Pilling is talking about Silicon Dioxide, Graphite, and Diamond, so here y
 ## Covalent Networks (Elements)
 
 ### Silicon
-- Each silicon atom is bonded to 4 other silicon atoms in a tetrahedral 3D shape
+- Each silicon atom is covalently bonded to 4 other silicon atoms in a tetrahedral 3D shape
 - Weaker than Diamond
 
 ### Graphite
@@ -44,14 +44,14 @@ Ok Ms Pilling is talking about Silicon Dioxide, Graphite, and Diamond, so here y
 - The layers are attracted to each other due to electrostatic attraction between the delocalised electrons that exist in each layer
 
 ### Diamond
-- Another allotrope of carbon where each carbon atom is bonded to 4 other carbon atoms in a tetrahedral 3D shape
+- Another allotrope of carbon where each carbon atom is covalently bonded to 4 other carbon atoms in a tetrahedral 3D shape
 - Has the standard properties of a covalent network solid
 - Stronger than Silicon, as there is a greater ESF in between the carbons, due to a decrease in atomic radius
 
 ## Covalent Networks (Compounds)
 
 ### Silicon Dioxide
-- In silicon dioxide, each silicon atom is bonded to 4 other oxygen atoms which in turn are bonded to 2 silicon atoms
+- In silicon dioxide, each silicon atom is covalently bonded to 4 other oxygen atoms which in turn are bonded to 2 silicon atoms
 - Silicon dioxide is also known as quartz, and has the same properties as a general covalent network substances
 
 
