@@ -49,6 +49,7 @@ Ok Ms Pilling is talking about Silicon Dioxide, Graphite, and Diamond, so here y
 - Stronger than Silicon, as there is a greater ESF in between the carbons, due to a decrease in atomic radius
 
 ## Covalent Networks (Compounds)
+
 ### Silicon Dioxide
 - In silicon dioxide, each silicon atom is bonded to 4 other oxygen atoms which in turn are bonded to 2 silicon atoms
 - Silicon dioxide is also known as quartz, and has the same properties as a general covalent network substances
