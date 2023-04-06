@@ -17,7 +17,9 @@ If you want to contact me, just comment on my Github page.
 
 I have a few hobbies, including, but not limited to:
 - Playing volleyball
-- Reading
+- Reading in general
 - Competitive Pokémon
+- Gaming in general
+- Playing gui
 
 Hope you enjoy the site!
