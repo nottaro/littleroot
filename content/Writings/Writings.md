@@ -9,8 +9,6 @@ Philosophical writings and recounts of things in my life
 
 [Perth Pokémon Regional Championships 2023](Writings/perth2023.md)
 
-[My Time at St Hilda's](Writings/StHildas.md)
-
 # Stories and Such
 
 [Town Analogy](Writings/town.md)
