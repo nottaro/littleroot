@@ -30,6 +30,7 @@ enableToc: true
 	- From one trough to another trough
 	- Distance it takes for the wave to repeat
 - Frequency (f): The number of complete oscillations per second. Unit of frequency is the Hz(Hertz)
+	- Remains constant, even if reflected/refracted
 - Period (T): Time take for one wavelength to complete (seconds)
 - Phase: State of vibration that a particle has reached in its cycle of motion. Waves are in phase when particles of the wave move in the exact same way at the same time
 - Speed = distance/time
@@ -37,7 +38,7 @@ enableToc: true
 - Time = distance/speed
 $$v=f{\lambda}=\frac{\lambda}{T}$$
 - Speed of sound at $25˚ C$ is $346$ $ms^{-1}$
-
+- $f$ remains constant, thus if $v$ increases, $\lambda$ increases
 ## Wave Behaviours
 - Energy incident upon a surface is
 	- Reflected
