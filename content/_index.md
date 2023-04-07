@@ -18,7 +18,7 @@ enableToc: false
 > And Next Door Kyle bellows a response that would echo through time.
   
 
-Heya! I'm [supaqwerty](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [tacoz](https://github.com/nottacoz) and [EddieTheEd](https://github.com/eddietheed) for helping! 
+Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [Thomas/nottacoz](https://github.com/nottacoz) and [Edward/EddieTheEd](https://github.com/eddietheed) for helping! 
 
 I'm a proud member of [the town](Writings/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md).
 
@@ -48,13 +48,15 @@ Source: trust me bro
 
 > [!quote]- Edward Lee Hunyh Quotes
 > 
-> "For man is not truly one but truly two"
+> "For man is not truly one but truly two" - writing his essay on Jekyll and Hyde
 > 
-> "It's time for the pleasures of life"
+> "It's time for the pleasures of life" - about eating a nut bar ~~(apparently)~~
 > 
 > "Say mums that was platonic"(me) "...I can't"
 > 
 > "Ok bozo" - in response to ChatGPT's code not working and correcting it
+> 
+> "Nah but I've been thinking about you" - Edward to ~~Shan-Mei~~ Dasindu
 
 [Bunch of Random Pokemon Sprites](poke)
 

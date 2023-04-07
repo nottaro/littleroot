@@ -3,7 +3,7 @@ title: About Me
 enableToc: false
 ---
 
-Hi! I'm supaqwerty. I made this website as a side project.
+Hi! I'm Jonathan. I made this website as a side project.
 
 Right now, as of 2023, I'm in year 11, doing ATAR. My subjects are listed on my home page.
 
