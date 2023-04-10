@@ -39,3 +39,6 @@ These are just some websites that I found useful for revision, practice tests, a
 
 [LibreTexts - Math](https://math.libretexts.org/)
 
+## Economics
+[LibreTexts - Social Sciences - Economics](https://socialsci.libretexts.org/Bookshelves/Economics)
+
