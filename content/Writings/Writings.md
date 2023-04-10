@@ -25,3 +25,4 @@ Philosophical writings and recounts of things in my life
 
 [10-04-2023 - Stasis](Writings/10-04-2023_Stasis.md)
 
+[Funniest return ever](Writings/Return.md)

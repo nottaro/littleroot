@@ -20,7 +20,7 @@ enableToc: false
 
 Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [Thomas/nottacoz](https://github.com/nottacoz) and [Edward/EddieTheEd](https://github.com/eddietheed) for helping! 
 
-I'm a proud member of [the town](Writings/town.md). We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md).
+~~I'm a proud member of [the town](Writings/town.md).~~ I have broken away from the town, along with Edward. ~~We should have a town page coming.....Osacr is making it.~~ These are my [sister sites](townsites.md).
 
 > [!info] Some other stuff
 > 
