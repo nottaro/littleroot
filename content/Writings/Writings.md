@@ -19,9 +19,8 @@ Philosophical writings and recounts of things in my life
 
 [Some Helpful Websites](Writings/SomeHelpfulWebsites&Resources.md)
 
-# Edward's Stuff
+# Edward's Stuff, o7
 
 [09-04-2023 - A change in course](Writings/09-04-2023_A_change_in_course.md)
 
 [10-04-2023 - Stasis](Writings/10-04-2023_Stasis.md)
-
