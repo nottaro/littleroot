@@ -3,7 +3,7 @@ title: Some Helpful Websites/Resources
 enableToc: false
 ---
 
-These are just some websites that I found useful for studying, practice tests, and just for general information. Hope they help.
+These are just some websites that I found useful for revision, practice tests, and just for general study. Hope they help.
 
 ## General
 
@@ -38,3 +38,4 @@ These are just some websites that I found useful for studying, practice tests, a
 ## Methods
 
 [LibreTexts - Math](https://math.libretexts.org/)
+
