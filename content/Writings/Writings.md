@@ -18,3 +18,8 @@ Philosophical writings and recounts of things in my life
 [About me](Writings/AboutMe.md)
 
 [Some Helpful Websites](Writings/SomeHelpfulWebsites&Resources.md)
+
+# Edward's Stuff
+
+[09-04-2023 - A change in course](Writings/09-04-2023_A_change_in_course.md)
+
