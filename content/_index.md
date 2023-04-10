@@ -53,7 +53,7 @@ Source: trust me bro
 > 
 > "It's time for the pleasures of life" - about eating a nut bar ~~(apparently)~~
 > 
-> "Say mums that was platonic"(me) "...I can't"
+>"...I can't" - in response to "Say mums that was platonic"
 > 
 > "Ok bozo" - in response to ChatGPT's code not working and correcting it
 > 

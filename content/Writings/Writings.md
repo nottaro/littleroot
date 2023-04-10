@@ -16,3 +16,5 @@ Philosophical writings and recounts of things in my life
 # Actual Info
 
 [About me](Writings/AboutMe.md)
+
+[Some Helpful Websites](Writings/SomeHelpfulWebsites&Resources.md)
