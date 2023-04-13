@@ -78,19 +78,19 @@ ESF: Electrostatic Forces of Attraction
 # Ionisation Energy
 
 -   Energy required to remove an electron from a given atom
--   **********************************First Ionisation Energy [of an element]:********************************** Energy required to remove 1 mole of electrons from 1 mole of gaseous atoms
+-   **First Ionisation Energy (of an element)**: Energy required to remove 1 mole of electrons from 1 mole of gaseous atoms
 
-$$ M(g) --> M^+(g) + e^- $$
+$$ M(g) \longrightarrow M^+(g) + e^- $$
 
 -   Can use ionisation energy to find reactivity of metals
-    -   When metals react, they lose electrons [ionisation energy]
-    -   Group 1 only has ************************************first ionisation energy************************************, as it only has 1 valence electron
--   **********************Increases across a period**********************
+    -   When metals react, they lose electrons (ionisation energy)
+    -   Group 1 only has first ionisation energy, as it only has 1 valence electron
+-   ********************Increases across a period*********************
     -   Stronger ESF between nucleus and valence electrons due to smaller atomic radius
     -   Greater number of protons results in greater force of attraction between nucleus and valence electrons
         -   Shielding remains the same, proton number increases, nuclear charge increases
     -   Energy required to overcome this ESF increases, therefore ionisation energy increases
--   ************Decreases down a period************
+-   **Decreases down a period**
     -   Increasing atomic radius
     -   ESF between valence electron and nucleus is weaker
     -   Increase in shielding effect

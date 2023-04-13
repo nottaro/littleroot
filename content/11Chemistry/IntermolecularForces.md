@@ -21,6 +21,12 @@ enableToc: true
 - This ESF of attraction between the temporary and induced dipoles are known as dispersion forces
 - These are temporary, as electrons move randomly, therefore the dipoles form, break apart, and reform randomly
 
+## Ion-dipole Forces
+- Forces existing between an ion and a polar molecule
+- Formed from the electrostatic force of attraction between an ion and a dipole
+- Note: "Intermolecular force" is a misnomer, as this is in ionic substances, not covalent substances
+- Stronger than permanent dipole-dipole and dispersion forces
+
 ## Permanent Dipole-Dipole
 - Forces present between 2 polar molecules
 - Formed from the electrostatic force of attraction between 2 net dipoles; i.e. partially positive end of one dipole, and partially negative end of another, and vice versa
