@@ -22,9 +22,9 @@ enableToc: false
 
 **Christian is a catalyst for other objects of matter and accelerates their approach to either.**
 
-## # Evidence
+## Evidence
 
-Jonathan - likes anime, but plays instrument and volleyball...he is a part of both worlds
+Jonathan - ~~bunny girl~~ likes anime, but plays instrument and volleyball...he is a part of both worlds
 
 Edward - suicidal
 
