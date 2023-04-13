@@ -13,10 +13,10 @@ Philosophical writings and recounts of things in my life
 
 [Town Analogy](Writings/town.md)
 
+[The Fred Tendency Hypothesis](Writings/FTH.md)
+
 # Actual Info
 
 [About me](Writings/AboutMe.md)
 
 [Some Helpful Websites](Writings/SomeHelpfulWebsites&Resources.md)
-
-Return.md)
