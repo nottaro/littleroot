@@ -13,7 +13,7 @@ Philosophical writings and recounts of things in my life
 
 [Town Analogy](Writings/town.md)
 
-[The Fred Tendency Hypothesis](Writings/FTH.md)
+[The Fred Tendency Hypothesis (FTH)](Writings/FTH.md)
 
 # Actual Info
 
