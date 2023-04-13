@@ -5,20 +5,18 @@ enableToc: true
 
 [go back](Subjects/Chemistry.md)
 
-## Electronegative and Trends
+- Electronegativity is the ability of an atom in gaseous phase to attract electrons to itself
 
-- Electronegativity is the ability of an atom in gaseous phase to attract electrons to itself; measured by the Pauling scale which is 0-4 where 4 is very electronegative
-
-### Bond Polarity
+## Bond Polarity
 
 - The property of shared pairs of electrons being closer to one atom than the other in a covalent bond results in an uneven distribution of electrical charge along the bond. This uneven distribution of charge is called bond polarity
 
-**Polar Covalent Bonds**
+### **Polar Covalent Bonds**
 - Occur when 2 atoms of different EN share electrons
 - The difference in EN leads to an **uneven sharing of electrons**, thus an uneven distribution of charge, as the electrons spend more time towards the highly EN atom and so the more EN atom becomes partially negative and the less EN atom becomes partially positive
 - The uneven distribution of charge caused by the difference in EN of the atoms involved in the covalent bond is known as a bond dipole as one side of the bond is partially positive, and the other side is partially negative
 
-**Pure Covalent Bonds**
+### **Pure Covalent Bonds**
 
 - Pure covalent bonds form when atoms of equal EN form covalent bonds leading to an equal sharing of electrons and an even distribution of charge between the 2 atoms; leading to no net dipole
 
