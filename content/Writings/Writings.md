@@ -7,7 +7,7 @@ Philosophical writings and recounts of things in my life
 
 # Recounts
 
-[Perth Pokémon Regional Championships 2023](Writings/perth2023.md)
+[04-04-2023 Perth Pokémon Regional Championships 2023](Writings/perth2023.md)
 
 # Stories and Such
 
