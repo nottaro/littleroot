@@ -3,6 +3,8 @@ title: Polarity
 enableToc: true
 ---
 
+[go back](Subjects/Chemistry.md)
+
 ## Electronegative and Trends
 
 - Electronegativity is the ability of an atom in gaseous phase to attract electrons to itself; measured by the Pauling scale which is 0-4 where 4 is very electronegative

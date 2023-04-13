@@ -23,7 +23,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [VSEPR - Valence Shell Electron Repulsion Theory](11Chemistry/VSEPR.md)
 
-[Polarity](Chemistry/Polarity.md)
+[Polarity](11Chemistry/Polarity.md)
 
 [Intermolecular Forces](11Chemistry/IntermolecularForces.md)
 
