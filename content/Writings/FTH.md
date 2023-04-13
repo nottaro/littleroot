@@ -1,5 +1,5 @@
 ---
-title: The Fred Tendency Hypothesis (FTH)
+title: 31-03-2023 The Fred Tendency Hypothesis (FTH)
 enableToc: false
 ---
 
