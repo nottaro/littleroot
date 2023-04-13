@@ -3,7 +3,6 @@ title: The Fred Tendency Hypothesis (FTH)
 enableToc: false
 ---
 
-
 ## Authors
 
 -   _Christian_
