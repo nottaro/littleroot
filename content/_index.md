@@ -25,11 +25,13 @@ I'm a proud member of [the town](Writings/town.md). ~~I have broken away from th
 > [!info] Some other stuff
 > 
 > [Writings](Writings/Writings.md)
+> 
+>[Bunch of Random Pokemon Sprites](poke)
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
 - Update 5/4/2023: I've finished my Spec notes
 
-I don't claim to have every single bit of information on these subjects, but I hope that it's enough :)
+I don't claim to have every single bit of information on these subjects, but I hope it's enough :)
 
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
@@ -58,7 +60,8 @@ Source: trust me bro
 > "Ok bozo" - in response to ChatGPT's code not working and correcting it
 > 
 > "Nah but I've been thinking about you" - Edward to ~~Shan-Mei~~ Dasindu
+> 
+> "I'm working right now" - like, 15 times at the last count
 
-[Bunch of Random Pokemon Sprites](poke)
 
 
