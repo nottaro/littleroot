@@ -5,7 +5,7 @@ enableToc: true
 
 [go back](Subjects/Physics.md)
 
-# Reflection and Refraction with Reference to Huygen’s Principle
+## Reflection and Refraction with Reference to Huygen’s Principle
 
 Huygen’s principle states that each point on a wavefront (imaginary plane that represents the points of a wave that vibrate in unison) is a source of spherical wavelets that spread out int the forwards direction at a constant speed as the wavefront progresses.
 
@@ -23,9 +23,9 @@ In the diagram, the incident wavefront intersects at angle $\theta$ from the nor
 
 ![Screenshot 2023-04-14 at 9.14.54 pm.png](11SubjectImages/Screenshot_2023-04-14_at_9.14.54_pm.png)
 
-# Snell’s Law of Refraction and Critical Angle
+## Snell’s Law of Refraction and Critical Angle
 
-## Snell’s Law
+### Snell’s Law
 
 Refraction occurs when a wave passes from the medium to another, at an angle other than 90˚ and changes direction. Its speed changes, and therefore its wavelength, but not its frequency.
 
@@ -43,7 +43,7 @@ Where $\theta_1$ is the angle of incidence and $\theta_2$ is the angle of refrac
 
 Note: the medium refraction for air is considered to be 1.000
 
-## Critical Angle
+### Critical Angle
 
 The critical angle can be defined as the angle of incidence where the angle of refraction is 90˚. In other words, the wave does not pass through the boundary of the 2 mediums, and is instead refracted along the boundary, i.e. parallel to it. If the wave travels from a rarer medium to a denser medium, it will refract towards the normal, and therefore the critical angle is not observed. Thus, the critical angle only occurs when the wave travels from a denser to a rarer medium.
 
@@ -61,7 +61,7 @@ Such that $n_2 > n_1$
 
 Here, we would say that the critical angle is angle $\theta$ from the normal
 
-# Ultrasound Imaging
+## Ultrasound Imaging
 
 Ultrasound waves are longitudinal mechanical waves, with a frequency of between 1000 to 20000 Hz. This is above the human hearing. 
 
@@ -83,7 +83,7 @@ The process of ultrasound imaging can be described as such:
     1. Greater intensity of reflected light means a whiter image, thus denser objects appear brighter than rarer objects
 6. An image that shows the boundaries of various structures and their density is created, and is known as a sonogram
 
-# Sources
+## Sources
 
 [1.7: Huygens’s Principle](https://phys.libretexts.org/Bookshelves/University_Physics/Book:_University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/01:_The_Nature_of_Light/1.07:_Huygenss_Principle)
 
