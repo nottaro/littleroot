@@ -61,7 +61,9 @@ Source: trust me bro
 > 
 > "Nah but I've been thinking about you" - Edward to ~~Shan-Mei~~ Dasindu
 > 
-> "I'm working right now" - like, 15 times at the last count
+> "I'm working right now" - like, ~~15~~ 18 times at the last count
+> 
+> ~~"I love men"~~
 
 
 
