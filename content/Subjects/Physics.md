@@ -25,6 +25,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Work, Force and Power](11Physics/WorkForcePower.md)
 
 ### Waves
+
 [Waves](11Physics/Waves.md)
 
 [The Physics CAT](11Physics/ThePhysicsCAT.md) 
