@@ -8,9 +8,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Key Definitions](11Chemistry/Definitions.md)
 
-[Mass Spectrometry](11Chemistry/MassSpectrometry.md)
-
 [Atomic Structure](11Chemistry/AtomicStructure.md)
+
+[Mass Spectrometry](11Chemistry/MassSpectrometry.md)
 
 [Atomic Spectra](11Chemistry/AtomicSpectra.md)
 
