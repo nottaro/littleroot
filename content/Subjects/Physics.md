@@ -28,7 +28,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Waves](11Physics/Waves.md)
 
-[The Physics CAT](11Physics/ThePhysicsCAT.md) 
+[The Physics CAT](11Physics/The%20Physics%20CAT.md) 
 - Huygen's Principle with respect to Reflection and Refraction
 - Snell's Law and Critical Angle
 - Ultrasound imaging
