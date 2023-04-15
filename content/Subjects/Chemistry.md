@@ -8,6 +8,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Key Definitions](11Chemistry/Definitions.md)
 
+[Mass Spectrometry](11Chemistry/MassSpectrometry.md)
+
 [Atomic Structure](11Chemistry/AtomicStructure.md)
 
 [Atomic Spectra](11Chemistry/AtomicSpectra.md)
@@ -28,7 +30,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Intermolecular Forces](11Chemistry/IntermolecularForces.md)
 
 [Periodicity](11Chemistry/Periodicity.md)
-
 
 ## Year 10 Notes
 [Organic Chemistry](11Chemistry/10organic.md)
