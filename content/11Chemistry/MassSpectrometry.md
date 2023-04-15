@@ -6,7 +6,7 @@ enableToc: true
 [go back](Subjects/Chemistry.md)
 
 ## Relative Atomic Mass
-- Weighted average of all isotopes occurring naturally of an element, relative to $\frac{1}{12}$ of the mass of a Carbon-12 atom in its ground state
+- **In this context:** weighted average of all isotopes occurring naturally of an element, relative to $\frac{1}{12}$ of the mass of a Carbon-12 atom in its ground state
 - We use this when determining composition of elements from mass spectrometry 
 - Determined from mass spectrums
 - Calculated as $$Ar(X)=\frac{(\%a \times m(A))+(\%b \times m(B))...(\%z \times m(Z))}{100}$$
