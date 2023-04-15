@@ -29,8 +29,8 @@ In the diagram, the incident wavefront intersects at angle $\theta$ from the nor
 
 Refraction occurs when a wave passes from the medium to another, at an angle other than 90˚ and changes direction. Its speed changes, and therefore its wavelength, but not its frequency.
 
-Snell’s Law of Refraction is a law stating the relation between the angles of refraction and incidence with respect to light passing through mediums, and states that the incident ray, normal, and refracted ray are co-planar. A refractive index is a property of a medium that determines how much the ray is refracted. It is equal to: $$r=\frac{c}{v}$$
-where R is the refractive index, C is the speed of light in a vacuum and v is the velocity of the wave in the refracting medium
+Snell’s Law of Refraction is a law stating the relation between the angles of refraction and incidence with respect to light passing through mediums, and states that the incident ray, normal, and refracted ray are co-planar. A refractive index is a property of a medium that determines how much the ray is refracted. It is equal to: $$n=\frac{c}{v}$$
+where **n** is the refractive index, **c** is the speed of light in a vacuum and **v** is the velocity of the wave in the refracting medium
 
 The law also states that the ratio of the sine of angle of incidence and the sine of angle of refraction is always constant for a given pair of media. 
 
