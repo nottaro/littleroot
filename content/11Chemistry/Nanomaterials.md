@@ -3,6 +3,8 @@ title: Nano-materials
 enableToc: true
 ---
 
+Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm not gonna tell you, you can guess.
+
 - 1 nanometer (nm) is equal to $1 \times 10^{-9}$ meters
 - **Nanotechnology**: study of how to produce and control very small structures, i.e. in the nano-scale
 	- The nanoscale is anything between the size of 1 to 100 nano-metres
