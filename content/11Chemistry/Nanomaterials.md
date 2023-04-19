@@ -3,6 +3,8 @@ title: Nano-materials
 enableToc: true
 ---
 
+[go back](Subjects/Chemistry.md)
+
 Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm not gonna tell you, you can guess.
 
 - 1 nanometer (nm) is equal to $1 \times 10^{-9}$ meters
@@ -44,7 +46,7 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 - Hollow
 - Resistant to corrosion
 - Chemically stable
-- Less than 100 nm in diamater
+- Less than 100 nm in diameter
 	- Can have a diameter of 1-2 nm
 
 ### CNT Computers
