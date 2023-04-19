@@ -13,6 +13,8 @@ Philosophical writings and recounts of things in my life
 
 [Town Analogy](Writings/town.md)
 
+[Random Quotes from Edward](Writings/EdwardQuote.md)
+
 [31-03-2023 The Fred Tendency Hypothesis (FTH)](Writings/FTH.md)
 
 # Actual Info
