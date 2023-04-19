@@ -13,6 +13,11 @@ enableToc: true
 -  Nanoparticles have different chemical and physical properties to their bulk counterparts due to the massive surface area to volume ratio
 -   E.g. gold is red as a nanoparticle
 
+### Manufacturing Nano-particles
+- Nanoparticles are manufactured either from top down or bottom up:
+- Top down is where larger particles are broken down into nanoparticles
+- Bottom up is where single atoms and molecules are assembled into larger nano-structures
+
 ### Quantum Dots
 - Nanoparticles of dimension 2-10 nm made from compounds
 - Bulk material is white, and visible while protecting from ultraviolet radiation (UVR)
@@ -37,13 +42,23 @@ enableToc: true
 - Hollow
 - Resistant to corrosion
 - Chemically stable
-- Diameter of 1-2 nm
+- Less than 100 nm in diamater
+	- Can have a diameter of 1-2 nm
 
 ### CNT Computers
 - Carbon nanotubes are electrically conductive
 - Stronger signals can be sent using far smaller transistors(semi-conductors) than is possible with silicon.
 - CNT computers use about a tenth as much power as comparable silicon systems
 - More sustainable
+
+### Silver Nano-particles
+- Nano-particles composed of silver
+- 1 - 100 nm
+- High conductivity, 
+- Powerful signal capacity
+- Biocompatibility
+- Anti-bacterial properties
+	- Also effective against various fungi, viruses, and algae
 
 ### Nano-composites
 - Nano-particles made of 2 or more different types of mater with significantly different properties
