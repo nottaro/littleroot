@@ -11,7 +11,7 @@ Huygen’s principle states that each point on a wavefront (imaginary plane that
 
 ### Reflection
 
-We can see that in the diagram, the wave strikes the surface and reflects. However, the incident wavefront hits at different points in time, and thus the wavefront must be deflected at different times as well. Here, we can see that it abides by the law of reflection, that the angle of reflection is equal to the angle of incidence. The wave therefore retains all properties and returns to its original medium, such that the angle of reflection equals the angle of incidence, and $\theta = \alpha$
+We can see that in the diagram, the wave strikes the surface and reflects. However, the incident wavefront hits at different points in time, and thus the wavefront must be deflected at different times as well. The wavefront hits at different intervals, and thus moves away at an angle of reflection that is equal to the angle of incidence. The wave therefore retains all properties and returns to its original medium, such that the angle of reflection equals the angle of incidence, and $\theta = \alpha$
 
 ![Screenshot 2023-04-14 at 9.12.52 pm.png](11SubjectImages/Screenshot_2023-04-14_at_9.12.52_pm.png)
 
@@ -86,16 +86,18 @@ The process of ultrasound imaging can be described as such:
 
 ## Sources
 
+### Huygen's Principle
+
 [1.7: Huygens’s Principle](https://phys.libretexts.org/Bookshelves/University_Physics/Book:_University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/01:_The_Nature_of_Light/1.07:_Huygenss_Principle)
 
 [25.3: The Law of Refraction](https://phys.libretexts.org/Bookshelves/College_Physics/Book:_College_Physics_1e_(OpenStax)/25:_Geometric_Optics/25.03:_The_Law_of_Refraction)
+
+### Snell's Law
 
 [Snell's Law | Brilliant Math & Science Wiki](https://brilliant.org/wiki/snells-law/)
 
 [1.5: Total Internal Reflection](https://phys.libretexts.org/Bookshelves/University_Physics/Book:_University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/01:_The_Nature_of_Light/1.05:_Total_Internal_Reflection)
 
+### Ultrasound
+
 [17.7: Ultrasound](https://phys.libretexts.org/Bookshelves/College_Physics/Book:_College_Physics_1e_(OpenStax)/17:_Physics_of_Hearing/17.07:_Ultrasound)
-
-[Waves](https://supaqwerty.github.io/notes-dump/11Physics/Waves/)
-
-- This is my own website
