@@ -49,5 +49,5 @@ Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
-
+Good music yesyes
 ![And this is one of my favourite pieces](L's%20Theme.mp3)
