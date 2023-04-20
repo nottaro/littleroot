@@ -67,6 +67,8 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 ### Nano-composites
 - Nano-particles made of 2 or more different types of mater with significantly different properties
 - Final nano-material has properties different(or sometimes a combination) to the individual components of the composite
+- They are unique, as they exhibit properties that are different to (or sometimes a combination of) the individual components - they develop these due to quantum effects
+- For a composite to be considered a nano-composite, at least 1 composite must be nano-scaled
 
 ### Dendrimers:
 -   Nano-sized, radially symmetrical molecules
