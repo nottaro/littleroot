@@ -92,7 +92,7 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 
 ### AFM - Atomic-force Microscopy
 -   3D characterisation of nanoparticles with sub-nanometre resolution
--   Can directly create images of nanoparticles with dimensions between 0.5 to 50+ nanometres
+-   Can directly create images of nanoparticles with dimensions between 0.5 to 50+ nano-metres
 
 
 ## Safety of Nanoparticles:

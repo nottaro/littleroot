@@ -48,3 +48,6 @@ I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
+
+
+![And this is one of my favourite pieces](L's%20Theme.mp3)
