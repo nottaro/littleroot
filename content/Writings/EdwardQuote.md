@@ -18,3 +18,14 @@ enableToc: false
 "I'm working right now" - like, ~~15~~ 18 times at the last count
 
 ~~"I love men"~~
+
+~~*makes bj actions* - to jonathan~~
+
+~~"I love balls"~~
+
+"Oh look. Look, he's so hot" - in reference to Ding Liren
+
+"Our dads are next to each other"
+
+"Hot man. Well, he is hot. Look at his chest."
+

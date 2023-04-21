@@ -31,7 +31,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Intermolecular Forces](11Chemistry/IntermolecularForces.md)
 
-[Periodicity](11Chemistry/Periodicity.md)
+[Periodicity - REDUNDANT APART FROM ALLOTROPES](11Chemistry/Periodicity.md)
 
 ## Year 10 Notes
 [Organic Chemistry](11Chemistry/10organic.md)
