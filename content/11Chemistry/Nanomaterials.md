@@ -75,7 +75,6 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 -   Good materials for the development of nanotechnologies because of their well-defined structure and properties
 
 ## Imaging Nanoparticles:
-
 - Electron is aimed and fired at a surface, and rebounds back to a sensor 
 - Time is calculated, and thus distance, as we know the velocity
 
