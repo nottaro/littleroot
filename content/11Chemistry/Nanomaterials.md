@@ -76,6 +76,9 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 
 ## Imaging Nanoparticles:
 
+- Electron is aimed and fired at a surface, and rebounds back to a sensor 
+- Time is calculated, and thus distance, as we know the velocity
+
 ### TEM - Transmission Electron Microscopy
 -   Uses an electron beam to image a nanoparticle sample using transmitted electrons
 -   TEM can reveal details at the atomic scale by magnifying nanometre structures up to 50 million times
