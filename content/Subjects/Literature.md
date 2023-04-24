@@ -17,6 +17,8 @@ Year 11 Notes:
 
 [Gothic Literature](11Literature/Goth.md)
 
+[Some Australian Gothic Composing Prompts](11Literature/AusGothicPrompts.md)
+
 Year 10 Notes:
 
 [Metaphysical Poetry](11Literature/10MetaphysicalPoetry.md)
