@@ -26,7 +26,7 @@ enableToc: true
 > [!example] Swooping season 
 > You are swooped by a magpie in the same place, at the same time, every single day. 
 > "It's swooping season!" Says your neighbour. 
-> It has always been swooping season
+> It has always been swooping season.
 
 > [!example] Whisked away by submarines
 > The Prime Minister walks into the ocean and is never seen again. They say he was a traitor, defecting to the enemy, whisked away by submarines. You build a swimming pool in his honour.
