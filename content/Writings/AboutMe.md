@@ -22,4 +22,6 @@ I have a few hobbies, including, but not limited to:
 - Gaming in general
 - Playing guitar
 
+This is what I look like:
+![](cupsmile.png)
 Hope you enjoy the site!
