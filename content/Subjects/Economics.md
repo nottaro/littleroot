@@ -29,4 +29,9 @@ Year 11 Notes:
 
 [Price Controls - Application of Demand and Supply](11Economics/pricecontrols.md)
 
-[Market Failure](11Economics/marketfailure.md)
+[Market Failure - Free and Public Goods](11Economics/freeandpublicgoods.md)
+
+[Market Failure - Externalities](11Economics/externalities.md)
+- Not finished
+
+[Market Failure - Policies](11Economics/policies.md)

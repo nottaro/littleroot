@@ -183,5 +183,6 @@ $$(^a_b) \cdot (^c_d)=(^{ac}_{bd})$$
 ## Relative Vectors
 - For this, we use the concept of position vectors
 - The position of Vector A relative to Vector B = $\overrightarrow{A}-\overrightarrow{B}$
+- The velocity of Vector A relative to Vector B = $-\overrightarrow{A}+\overrightarrow{B}$
 
 

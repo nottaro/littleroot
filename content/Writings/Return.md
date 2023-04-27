@@ -1,1 +1,0 @@
-![](writings%20images/return.png)
