@@ -6,6 +6,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Year 11 Notes:
 
+### Term 1: Atomic Structure, Periodic Table, Bonding, Polarity, Intermolecular Forces
 [Key Definitions](11Chemistry/Definitions.md)
 
 [Atomic Structure](11Chemistry/AtomicStructure.md)
@@ -32,6 +33,10 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Intermolecular Forces](11Chemistry/IntermolecularForces.md)
 
 [Periodicity - REDUNDANT APART FROM ALLOTROPES](11Chemistry/Periodicity.md)
+
+### Term 2: Matter
+
+[Properties of Matter](11Chemistry/PropertiesofMatter.md)
 
 ## Year 10 Notes
 [Organic Chemistry](11Chemistry/10organic.md)
