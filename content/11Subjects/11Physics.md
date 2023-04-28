@@ -1,10 +1,11 @@
 ---
-title: Physics Notes
+title: Year 11 Physics Notes
 enableToc: false
 ---
-THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-## Year 11 Notes:
+[Year 10 Notes](10Subjects/10Physics.md)
+
+THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
 ### Linear Motion
 
@@ -32,8 +33,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Diffraction](11Physics/Diffraction.md)
 
-## Year 10 Notes
 
-[Nuclear Physics](11Physics/NuclearPhysics.md)
 
 More to come!

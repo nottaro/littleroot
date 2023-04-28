@@ -3,7 +3,7 @@ title: VSEPR - Valence Shell Electron Repulsion Theory
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 - VSEPR model can predict the structure of most molecules and polyatomic ions in which the central atom is a non-metal
 - Also works for some structures in which the central atom is a metal

@@ -2,7 +2,7 @@
 title: Properties of Matter
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 ## Mixtures
 - Homogenous mixtures

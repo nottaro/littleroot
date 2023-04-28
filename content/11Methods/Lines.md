@@ -3,7 +3,7 @@ title: Linear Equations
 enableToc: true
 ---
 
-[go back](Subjects/Methods.md)
+[go back](11Subjects/11Methods.md)
 
 - The equation for a straight line is $$y=mx+c$$
 - y and x are values on the graph

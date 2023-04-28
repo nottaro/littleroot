@@ -3,7 +3,7 @@ title: Atomic Structure
 enableToc: true
 ---
 
-[Go Back](Subjects/Chemistry.md)
+[Go Back](11Subjects/11Chemistry.md)
 
 # **John Dalton**
 

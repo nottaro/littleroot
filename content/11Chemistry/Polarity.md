@@ -3,7 +3,7 @@ title: Polarity
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 - Electronegativity is the ability of an atom in gaseous phase to attract electrons to itself
 

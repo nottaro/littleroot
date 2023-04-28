@@ -3,7 +3,7 @@ title: Market Equilibrium and Price Determination
 enableToc: true
 ---
 
-[go back](Subjects/Economics.md)
+[go back](11Subjects/11Economics.md)
 
 -   ********Market Equilibrium:******** State of a market that has no tendency to change
 -   ******Equilibrium Price:****** Price a which $Q_{supplied}=Q_{demanded}$

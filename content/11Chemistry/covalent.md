@@ -3,7 +3,7 @@ title: Covalent Bonding
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 - **Electrostatic force of attraction between shared pair of electrons and the nuclei on either side**
 - Non-metal atoms involved

@@ -3,7 +3,7 @@ title: Market Failure - Free and Public Goods
 enableToc: true
 ---
 
-[go back](Subjects/Economics.md)
+[go back](11Subjects/11Economics.md)
 
 - We learned that in a free competitive market, when the price of a good adjusts to make quantity demanded equal to quantity supplied, the equilibrium quantity reflects the 'best' or optimal allocation of resources to the production of that good
 - This condition is known as allocative efficiency, achieved when marginal benefit equals marginal cost (MB=MC), or when social surplus is maximum

@@ -3,7 +3,7 @@ title: Probability
 enableToc: true
 ---
 
-[go back](Subjects/Methods.md)
+[go back](11Subjects/11Methods.md)
 
 - A measure of the likelihood of an event occurring
 - $P(A)$ is the probability of A occurring

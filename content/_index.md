@@ -22,7 +22,9 @@ Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side pr
 
 I'm a proud member of [the town](Writings/town.md). ~~I have broken away from the town, along with Edward.~~ I have come back to my senses. We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md).
 
-> [!info] Some other stuff
+> [!info] Key Links
+> 
+> [Subjects](Subjects.md)
 > 
 > [Writings](Writings/Writings.md)
 > 
@@ -35,13 +37,6 @@ I don't claim to have every single bit of information on these subjects, but I h
 
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
-Subjects:
-1. [Chemistry](Subjects/Chemistry.md)
-2. [Physics](Subjects/Physics.md)
-3. [Economics](Subjects/Economics.md)
-4. [Literature](Subjects/Literature.md)
-5. [Methods](Subjects/Methods.md)
-6. [Specialist](Subjects/Specialist.md)
 
 > [!quote] Yellowstone National Park
 > 

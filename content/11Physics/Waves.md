@@ -3,7 +3,7 @@ title: Waves
 enableToc: true
 ---
 
-[go back](Subjects/Physics.md)
+[go back](11Subjects/11Physics.md)
 
 - Waves: The transfer of energy from one place to another without the net displacement of matter
 	- I.e. after energy is transferred, there is no displacement of matter

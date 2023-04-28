@@ -3,7 +3,7 @@ title: Price Elasticity of Supply (PES)
 enableToc: true
 ---
 
-[go back](Subjects/Economics.md)
+[go back](11Subjects/11Economics.md)
 
 - Measures responsiveness of quantity supplied of a good to a change in its price, ceteris paribus
 

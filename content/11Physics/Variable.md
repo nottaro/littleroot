@@ -3,7 +3,7 @@ title: Important Variables to Know
 enableToc: true
 ---
 
-[go back](Subjects/Physics.md)
+[go back](11Subjects/11Physics.md)
 
 ## Vectors (require direction and magnitude)
 s: Displacement

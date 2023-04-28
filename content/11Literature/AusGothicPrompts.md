@@ -3,7 +3,7 @@ title: Some Australian Gothic Composing Prompts
 enableToc: true
 ---
 
-[go back](Subjects/Literature.md)
+[go back](11Subjects/11Literature.md)
 
 > [!example]- Replaced by another
 > 

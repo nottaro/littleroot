@@ -3,7 +3,7 @@ title: Close Reading Structure
 enableToc: true
 ---
 
-[go back](Subjects/Literature.md)
+[go back](11Subjects/11Literature.md)
 
 - A way of interpreting a text's main meaning/message
 - You do not need a conclusion for this, but can include one if you wish

@@ -3,7 +3,7 @@ title: Ionic Bonding
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 -   Electrostatic force of attraction between oppositely charged(cations and anions) ions in a network
     

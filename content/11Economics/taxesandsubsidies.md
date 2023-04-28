@@ -3,7 +3,7 @@ title: Application of Demand and Supply - Taxes and Subsidies
 enableToc: true
 ---
 
-[Go back](Subjects/Economics.md)
+[Go back](11Subjects/11Economics.md)
 
 ## Types of Tax
 

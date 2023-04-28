@@ -4,7 +4,7 @@ title: Price Elasticity of Demand (PED)
 enableToc: true
 ---
 
-[go back](Subjects/Economics.md)
+[go back](11Subjects/11Economics.md)
 
 - Measures the responsiveness of quantity demanded of a good to a change in its price, ceteris paribus
 

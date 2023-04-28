@@ -3,7 +3,7 @@ title: Mass Spectrometry
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 ## Relative Atomic Mass
 - **In this context:** weighted average of all isotopes occurring naturally of an element, relative to $\frac{1}{12}$ of the mass of a Carbon-12 atom in its ground state

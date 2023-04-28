@@ -3,7 +3,7 @@ title: Intermolecular Forces
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 -   Forces between molecules
 -   Allotropes: Different physical forms of the same element

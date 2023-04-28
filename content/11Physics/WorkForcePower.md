@@ -3,7 +3,7 @@ title: Work, Force and Powewr
 enableToc: true
 ---
 
-[go back](Subjects/Physics.md)
+[go back](11Subjects/11Physics.md)
 
 - -   -   Energy: Ability to do work
     -   Measured in Joules (J)

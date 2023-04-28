@@ -1,12 +1,14 @@
 ---
-title: Chemistry Notes
+title: Year 11 Chemistry Notes
 enableToc: false
 ---
+
+[Year 10 Notes](10Subjects/10Chemistry.md)
+
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-## Year 11 Notes:
-
 ### Term 1: Atomic Structure, Periodic Table, Bonding, Polarity, Intermolecular Forces
+
 [Key Definitions](11Chemistry/Definitions.md)
 
 [Atomic Structure](11Chemistry/AtomicStructure.md)
@@ -41,6 +43,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Solubility and Precipitation](11Chemistry/SolubilityPrecipitation.md)
 
 ## Year 10 Notes
-[Organic Chemistry](11Chemistry/10organic.md)
+[Organic Chemistry](10Chemistry/OrganicChem.md)
 
 More to come!

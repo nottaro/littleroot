@@ -3,7 +3,7 @@ title: Solubility and Precipitation
 enableToc: true
 ---
 
-[go back](Subjects/Chemistry.md)
+[go back](11Subjects/11Chemistry.md)
 
 - Solute: Substance can be dissolved
 - Residue: Substance that cannot be dissolved

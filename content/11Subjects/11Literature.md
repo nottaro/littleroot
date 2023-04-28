@@ -1,11 +1,9 @@
 ---
-title: Literature Notes
+title: Year 11 Literature Notes
 enableToc: false
 ---
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
-
-## Year 11 Notes:
 
 [How to Study for Literature](11Literature/Study.md)
 
@@ -21,8 +19,5 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Ibsen and Hedda Gabler](11Literature/HeddaGabler.md)
 
-## Year 10 Notes:
-
-[Metaphysical Poetry](11Literature/10MetaphysicalPoetry.md)
 
 More to come!

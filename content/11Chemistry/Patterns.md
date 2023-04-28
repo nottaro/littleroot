@@ -3,7 +3,7 @@ title: Patterns/Trends in the Periodic Table
 enableToc: true
 ---
 
-[Go Back](Subjects/Chemistry.md)
+[Go Back](11Subjects/11Chemistry.md)
 
 **Reactivity of Group 1 Metals increases as there are more valence electron shells**
 

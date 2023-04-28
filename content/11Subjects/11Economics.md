@@ -1,11 +1,10 @@
 ---
-title: Economics Notes
+title: Year 11 Economics Notes
 enableToc: false
 ---
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-Year 11 Notes:
 
 > [!summary] Year 11 Content
 > 

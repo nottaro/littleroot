@@ -3,7 +3,7 @@ title: Science Inquiry Skills
 enableToc: true
 ---
 
-[go back](Subjects/Physics.md)
+[go back](11Subjects/11Physics.md)
 
 ******************Accuracy:****************** How close your experimentally derived number is to the “true” or “real” quantity being measured
 
