@@ -1,5 +1,6 @@
 ---
 title: School Subjects
+enableToc: false
 ---
 
 ## Year 11
