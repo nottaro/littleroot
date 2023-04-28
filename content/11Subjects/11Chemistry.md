@@ -3,7 +3,9 @@ title: Year 11 Chemistry Notes
 enableToc: false
 ---
 
-[Year 10 Notes](10Subjects/10Chemistry.md)
+[go back](Subjects.md)
+
+[Year 10 Chemistry](10Subjects/10Chemistry.md)
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 

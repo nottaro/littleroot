@@ -1,6 +1,9 @@
 ---
 title: Nuclear Physics
 ---
+
+[go back](10Subjects/10Physics.md)
+
 ## **Atoms**
 -   Central part of an atom is the nucleus
 -   Consists of:

@@ -3,6 +3,10 @@ title: Year 11 Literature Notes
 enableToc: false
 ---
 
+[go back](Subjects.md)
+
+[Year 10 Literature](10Subjects/10Literature.md)
+
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
 [How to Study for Literature](11Literature/Study.md)
