@@ -28,7 +28,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Waves](11Physics/Waves.md)
 
+[Huygen's Principle with reference to Reflection and Refraction](11Physics/HuygensPrinciple.mdd)
 
+[Diffraction](11Physics/Diffraction.md)
 
 ## Year 10 Notes
 

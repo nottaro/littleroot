@@ -5,7 +5,7 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-Year 11 Notes:
+## Year 11 Notes:
 
 [How to Study for Literature](11Literature/Study.md)
 
@@ -19,7 +19,9 @@ Year 11 Notes:
 
 [Some Australian Gothic Composing Prompts](11Literature/AusGothicPrompts.md)
 
-Year 10 Notes:
+[Ibsen and Hedda Gabler](11Literature/HeddaGabler.md)
+
+## Year 10 Notes:
 
 [Metaphysical Poetry](11Literature/10MetaphysicalPoetry.md)
 

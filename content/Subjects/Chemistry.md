@@ -34,9 +34,11 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Periodicity - REDUNDANT APART FROM ALLOTROPES](11Chemistry/Periodicity.md)
 
-### Term 2: Matter
+### Term 2: Properties of Matter, Solubility, Chromatography
 
 [Properties of Matter](11Chemistry/PropertiesofMatter.md)
+
+[Solubility and Precipitation](11Chemistry/SolubilityPrecipitation.md)
 
 ## Year 10 Notes
 [Organic Chemistry](11Chemistry/10organic.md)

@@ -9,7 +9,7 @@ enableToc: true
 - **In this context:** weighted average of all isotopes occurring naturally of an element, relative to $\frac{1}{12}$ of the mass of a Carbon-12 atom in its ground state
 - We use this when determining composition of elements from mass spectrometry 
 - Determined from mass spectrums
-- Calculated as $$Ar(X)=\frac{(\%a \times m(A))+(\%b \times m(B))...(\%z \times m(Z))}{100}$$
+- Calculated as $$Ar(X)=\frac{(\% a \times m(A))+(\% b \times m(B))...(\% z \times m(Z))}{100}$$
 - Where $\%a$ is percentage abundance of isotope A. Represented as whole numbers, e.g. 9% would be shown as 9.00
 
 ## Mass Spectrometry

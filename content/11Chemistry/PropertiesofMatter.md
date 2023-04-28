@@ -1,6 +1,10 @@
+---
+title: Properties of Matter
+---
+
+[go back](Subjects/Chemistry.md)
 
 ## Mixtures
-
 - Homogenous mixtures
 	-   2 or more particles are mixed together so well that you only see one thing
 	-   Composition is uniform throughout
