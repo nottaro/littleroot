@@ -16,7 +16,6 @@ enableToc: false
 > “Of course I do!” little Timmy whines. “It’s Rhydon—”  
 > 
 > And Next Door Kyle bellows a response that would echo through time.
-  
 
 Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [Thomas/nottacoz](https://github.com/nottacoz) and [Edward/EddieTheEd](https://github.com/eddietheed) for helping! 
 
@@ -40,12 +39,15 @@ These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)
 
 > [!quote] Yellowstone National Park
 > 
-> The entirety of Yellowstone National Park is under the legal jurisdiction of the United States District Court for the District of Wyoming, including a small part of the park that is actually in Idaho. According to US law, the jury for a trial has to come from the state and district in which the crime took place. However, since this small bit of Idaho has no people living in it, and is also part of a separate court district from the rest of the state, hypothetically the court would be unable to assemble a jury and thus unable to convict you.
+> The entirety of Yellowstone National Park is under the legal jurisdiction of the United States District Court for the District of Wyoming, including a small part of the park that is actually in Idaho. According to US law, the jury for a trial has to come from the state and district in which the crime took place. However, since this small bit of Idaho has no people living in it, and is also part of a separate court district from the rest of the state, hypothetically the court would be unable to assemble a jury and thus unable to convict you. 
+> 
+> Disclaimer: This is a technicality, so don't try this.
 
 I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
 Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
+
 
 
