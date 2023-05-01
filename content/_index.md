@@ -45,6 +45,9 @@ These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)
 
 I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
+Inumaki just like me fr
+
+
 Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.

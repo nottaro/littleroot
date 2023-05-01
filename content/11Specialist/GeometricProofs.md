@@ -22,3 +22,6 @@ enableToc: true
 
 ## Important Circle Theorems
 1. The angle at the centre is twice the angle at the circumference
+2. Angles in a semicircle are right angles
+3. Angles in the same segment are equal
+4. Opposite angles in a cyclic quadrilateral are supplementary
