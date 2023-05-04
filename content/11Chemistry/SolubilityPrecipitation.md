@@ -33,3 +33,35 @@ enableToc: true
 	- Dipole-dipole forces with polar molecules
 	- Hydrogen bonds with hydrogen bonding polar molecules
 	- Ion-dipole forces with ions from ionic compounds
+
+
+## Identifying negative ions: Halides
+- Formed from group 17 elements, the halogens
+- Detected using silver nitrate solutions
+- Colourless ions in a solution
+- $I^-,Cl^-,Br^-$ 
+- The different silver halide precipitates can be distinguished by their differing colours
+	- Chloride: white AgCl precipitate
+	- Bromide: cream AgBr precipitate
+	- Iodide: yellow AgI precipitate
+
+## Isolating the Precipitate
+- Precipitate from a precipitation reaction can be separated from the reaction mixture by filtration
+
+
+## Solubility
+- Concentration of a saturated solution
+- **Saturated**: Solution where no more solution will dissolve at the given temperature
+- **Unsaturated**: Less solute than needed to make a saturated solution. Most solutions we use will be unsaturated
+- **Supersaturated**: Unstable solution, usually formed as a saturated solution curves down. If it is disturbed, it will crystallise, forming crystals of solute, and leave a saturated solution
+- **Solubility**: Mass of a substance that will dissolve in 100 g of water at 25˚ C
+- The solubility of a substance depends on the temperature of the solvent
+
+### Solubility Curves
+- Solubility curves show the solubility of substances as temperature changes
+- Generally, the solubility of ionic solids increases with temperature
+	- There is more energy to overcome bonding in the solid
+
+### Saturation and crystallisation
+- Solutions become supersaturated when they contain more solute than they would normally be able to dissolve
+- this can happen when a saturated solution is cooled, or another change in conditions occurs that causes solubility to decrease

@@ -44,3 +44,4 @@ title: Ibsen and Hedda Gabler
 	- Lovgrad's alcoholism
 - Male characters play active role - Hedda challenges this
 - Female protagonist instigates change - challenges conventions
+

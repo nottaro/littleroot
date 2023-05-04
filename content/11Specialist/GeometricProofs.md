@@ -25,3 +25,6 @@ enableToc: true
 2. Angles in a semicircle are right angles
 3. Angles in the same segment are equal
 4. Opposite angles in a cyclic quadrilateral are supplementary
+5. Angle between a tangent and the radius drawn at the point of contact is a right angle 
+6. Angle between a tangent and chord equal the angle in the alternate segment
+7. The 2 tangents drawn from a point to a circle are of equal length

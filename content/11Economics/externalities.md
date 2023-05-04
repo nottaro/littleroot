@@ -40,7 +40,7 @@ enableToc: true
 - When there is a consumption externality, the marginal private benefit (demand) curve does not reflect social benefits
 
 ### Positive Production Externalities
-- Positive externalities of consumption refer to external benefits created by producers
+- Positive externalities of production refer to external benefits created by producers
 - If, for example, a firm engages in research and development, and succeeds in developing a new technology that spreads throughout the economy, there are external benefits because not only the firm, but also society, benefits from widespread adoption of the new technology
 - Therefore, the social costs of research and development are lower than the private costs.
 
