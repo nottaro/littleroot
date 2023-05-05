@@ -62,6 +62,6 @@ enableToc: true
 - Generally, the solubility of ionic solids increases with temperature
 	- There is more energy to overcome bonding in the solid
 
-### Saturation and crystallisation
+### Saturation and Crystallisation
 - Solutions become supersaturated when they contain more solute than they would normally be able to dissolve
 - this can happen when a saturated solution is cooled, or another change in conditions occurs that causes solubility to decrease

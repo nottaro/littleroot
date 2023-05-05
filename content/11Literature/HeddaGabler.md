@@ -45,3 +45,6 @@ title: Ibsen and Hedda Gabler
 - Male characters play active role - Hedda challenges this
 - Female protagonist instigates change - challenges conventions
 
+## The Function of Realist Genre
+- Comment on bourgeois society - bourgeois values, attitudes, expectations
+- Representation of suppressed emotions - plot conflicts, distrust

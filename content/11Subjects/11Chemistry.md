@@ -44,6 +44,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Solubility and Precipitation](11Chemistry/SolubilityPrecipitation.md)
 
+[Concentration](11Chemistry/Concentration.md)
+
 ## Year 10 Notes
 [Organic Chemistry](10Chemistry/OrganicChem.md)
 
