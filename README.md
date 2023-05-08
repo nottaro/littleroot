@@ -16,3 +16,5 @@ Subjects:
 4. Literature
 5. Methods
 6. Specialist
+
+Netlify: https://nottaros-notes-dump.netlify.app/
