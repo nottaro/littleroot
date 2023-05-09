@@ -15,9 +15,15 @@
 
 **Flame Test**: Qualitative analytical technique used to detect elements (primary metal ions) by observing their unique emission spectra
 
+**Molecule**: group of atoms bonded together covalently
+
+**Compound**: Substance made of atoms of different elements bonded together 
+
+**Atom**: Smallest unit of matter that cannot be chemically divided
+
 **Element**: Substance that cannot be decomposed further by a chemical reaction. All of its atoms have the same number of protons.
 
-**Compound**: A substance made form 2 or more different elements chemically combined together
+**Compound**: Substance made of atoms of different elements bonded together chemically
 
 **Atom**: Smallest particle of an element that can exist on its own. Atoms of the same element have the same number of protons
 
@@ -27,7 +33,9 @@
 
 **Ion**: An atom or group of atoms that has been **positively** or **negatively charged** by **losing** or **gaining electrons**, respectfully
 
-**Elemental Ions**: Ions that are elements**Molecular Ions**: Covalently bonded ions
+**Elemental Ions**: Ions that are elements
+
+**Molecular Ions**: Covalently bonded ions
 
 **Chemical Symbol**: Abbreviation (i.e., letter or **pair** of letters) used to represent an element
 

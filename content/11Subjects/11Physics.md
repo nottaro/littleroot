@@ -31,6 +31,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Waves](11Physics/Waves.md)
 
+[Seismic Phenomena](11Physics/SeismicPhenomena.md)
+
 [Superposition](11Physics/Superposition.md)
 
 [Closed and Open Pipes](11Physics/ClosedAndOpenPipes.md)

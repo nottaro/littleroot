@@ -2,11 +2,13 @@
 title: Closed and Open Pipes
 ---
 
+[go back](11Subjects/11Physics.md)
+
 ## Vibrations
 - Vibration: Mechanical phenomenon where oscillation occurs around an equilibrium point
 - Free Vibration: When a force is applied to any object, then that object is allowed to vibrate at its natural frequency
 - Forced Vibration: When a force is applied to an object and it is forced to vibrate at a particular frequency
-- Natural frequency: rate at which an object vibrates when it is not disturbed by an outside force
+- Natural frequency: frequency at which an object vibrates when it is not disturbed by an outside force
 
 ## Resonance
 - Resonance: Phenomenon that occurs where an object is forced to vibrate at its natural frequency

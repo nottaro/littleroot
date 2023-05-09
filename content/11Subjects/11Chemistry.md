@@ -48,6 +48,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Mixtures](11Chemistry/Mixtures.md)
 
+[Methods of Separation](11Chemistry/MethodsOfSeparation.md)
+
 ## Year 10 Notes
 [Organic Chemistry](10Chemistry/OrganicChem.md)
 

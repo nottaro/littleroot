@@ -2,6 +2,8 @@
 title: Superposition
 ---
 
+[go back](11Subjects/11Physics.md)
+
 - Superposition occurs when 2 waves travelling in the same medium meet
 - Their amplitudes combine algebraically to produce a resultant wave **at that particular instant**
 - When the 2 waves superimpose, the resultant displacement of the particles is equal to the algebraic sum of the individual displacements of the original waves
