@@ -3,4 +3,5 @@ title: Concentration
 enableToc: true
 ---
 
-i
+$$C=\frac{n}{V}$$
+- V is in Litres

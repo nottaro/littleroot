@@ -33,6 +33,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Superposition](11Physics/Superposition.md)
 
+[Closed and Open Pipes](11Physics/ClosedAndOpenPipes.md)
 
 
 More to come!

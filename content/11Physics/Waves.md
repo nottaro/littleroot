@@ -31,6 +31,7 @@ enableToc: true
 	- Distance it takes for the wave to repeat
 - Frequency (f): The number of complete oscillations per second. Unit of frequency is the Hz(Hertz)
 	- Remains constant, even if reflected/refracted
+	- Frequency and wavelength are inversely proportional to one another
 - Period (T): Time take for one wavelength to complete (seconds), equal to $$\frac{1}{f}$$
 - Phase: State of vibration that a particle has reached in its cycle of motion. Waves are in phase when particles of the wave move in the exact same way at the same time
 - Speed = distance/time
