@@ -1,6 +1,9 @@
 ---
 title: Market Failure in Gas and Oil Market
 ---
+
+[go back](11Subjects/11Economics.md)
+
 ![](11SubjectImages/Yr%2011%20%20Econs%20Assessment%203%202023_Investigation.docx_1.png)
 ## Australia’s Oil Industry
 
