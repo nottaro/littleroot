@@ -37,3 +37,5 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Market Failure - Policies](11Economics/policies.md)
 - Not finished
+
+[Year 11 Economics Investigation 1](11Economics/Investigation.md)
