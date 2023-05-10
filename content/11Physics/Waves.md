@@ -7,7 +7,7 @@ enableToc: true
 
 - Waves: The transfer of energy from one place to another without the net displacement of matter
 	- I.e. after energy is transferred, there is no displacement of matter
-- Mechanical waves: transfer energy from one place to another without the net place of another, but requires a medium to propagate
+- Mechanical waves: transfer energy from one place to another without the net displacement of matter, but requires a medium to propagate
 	- The particles in the medium vibrate back and forth about fixed positions (equilibrium position)
 - Transverse waves: particles vibrate perpendicular to the direction of energy flow, e.g. water, electromagnetic waves
 - Longitudinal waves: particles vibrate along straight lines parallel to the direction of the energy flow
@@ -61,4 +61,4 @@ $$v=f{\lambda}=\frac{\lambda}{T}$$
 - We all know that in order of density, solid > liquid > air > vacuum
 	- Sound: speed of sound increases with density of medium
 	- Light: speed of light decreases with density of medium
-		- If a ray goes into a slower medium it bends towards from the normal
+		- If a ray goes into a slower medium it bends towards the normal
