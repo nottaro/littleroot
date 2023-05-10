@@ -50,18 +50,10 @@ I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
 
 Inumaki just like me fr
 
-
 Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
-{^| |^}
-(   o.o) - you want taco?
-/ > 🌮
-
-{^| |^}
-(   o-o) - no taco
-🌮 <  \
 
 
 
