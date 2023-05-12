@@ -8,11 +8,16 @@ enableToc: true
 - Solute: Substance can be dissolved
 - Residue: Substance that cannot be dissolved
 
-### Ion-dipole forces 
+## Ion-dipole forces 
 - Electrostatic force of attraction between an ion and a polar molecule
 - Formed from the electrostatic force of attraction between an ion and a dipole
 - Note: "Intermolecular force" is a misnomer, as this is in ionic substances, not covalent substances
 - Stronger than permanent dipole-dipole and dispersion forces
+- Ion – dipole forces form between ions of an ionic compound and molecules of water. We say the ions are hydrated.
+- If the ion – dipole forces formed between ions and water are strong enough, they can pull ions off the surface of an ionic lattice, and the ionic substance is soluble.
+- Not all ionic substances dissolve. In insoluble substances, the ionic bonding is too strong, and the ion – dipole bonds formed are not strong enough to break up the ionic lattice.
+
+# Solubility
 
 ## Soluble or Insoluble?
 - Solutions form when solvent and solute mix
@@ -35,10 +40,46 @@ enableToc: true
 	- Ion-dipole forces with ions from ionic compounds
 
 
-## Aqueous Solutions of Covalent Compounds
+### Aqueous Solutions of Covalent Compounds
 - Many polar molecules are soluble in water due to the strong dipole-dipole forces or hydrogen bonds formed
+- Organic compounds are usually non-polar, but if they have –OH (alcohol) or –NH (amine) groups, they can hydrogen bond, so this will increase their solubility in water
+- Acids are molecular substances that ionise in water to form ions. This means they can form ion – dipole forces with water, and so are usually very soluble
 
-## Identifying negative ions: Halides
+## Solubility of ionic substances
+- All ionic substances are soluble to some extent, so we categorise substances by the concentration of a saturated solution at 25˚ C. 
+- A substance is described as soluble if a saturated solution is 0.1 mol L-1 or higher.
+- A substance is described as slightly soluble if a saturated solution is 0.01 mol $L^{-1}$ to 0.1 mol $L^{-1}$. 
+- A substance is described as insoluble if a saturated solution is below 0.01 mol L-1.
+
+![](11SubjectImages/SolubilityDependency.png)
+
+# Precipitation
+
+## Precipitation Reactions
+- An insoluble solid that forms during an aqueous reaction is called a precipitate. 
+- A reaction which forms a precipitate is called a precipitation reaction
+- The limewater test for carbon dioxide is a precipitation reaction
+	- Limewater is actually a dilute solution of calcium hydroxide
+	- The calcium hydroxide reacts with carbon dioxide to form calcium carbonate, which is insoluble in water
+
+### Uses of Precipitation Reactions
+- Most precipitation reactions are very fast reactions that occur between ions.
+- This makes them very useful for identifying specific ions based on the type of precipitate formed.
+- Precipitation reactions have a number of other uses:
+	- Production of coloured pigments for paints and dyes
+	- Removal of toxic chemicals from water
+	- Separation of reaction products.
+
+### Spectator Ions
+- In ionic precipitation reactions there are often ions that are not involved in the reaction. These are known as spectator ions.
+- The spectator ions are easily identified using the ionic equation, where they are the ions that don't change their state of matter, or don't participate in the reaction
+- You should always write net ionic equations, omitting spectator ions, in this course.
+
+### Identifying Positive Ions
+- Many metal ions can be identified by flame tests
+- However, precipitation reactions can also be used to identify positive ions, as many metals form hydroxide precipitates with characteristic colours
+
+### Identifying negative ions: Halides
 - Formed from group 17 elements, the halogens
 - Detected using silver nitrate solutions
 - Colourless ions in a solution
@@ -48,9 +89,14 @@ enableToc: true
 	- Bromide: cream AgBr precipitate
 	- Iodide: yellow AgI precipitate
 
-## Isolating the Precipitate
-- Precipitate from a precipitation reaction can be separated from the reaction mixture by filtration
 
+### Isolating the Precipitate
+- Precipitate from a precipitation reaction can be separated from the reaction mixture by filtration
+- A Buchner funnel and flask can be used to accelerate the process
+	- This apparatus uses a vacuum pump to draw the mixture through the filter
+	- The filtrate is finally washed and dried
+
+# More Solubility (Woo-hoo)
 
 ## Solubility
 - Concentration of a saturated solution
@@ -67,4 +113,4 @@ enableToc: true
 
 ### Saturation and Crystallisation
 - Solutions become supersaturated when they contain more solute than they would normally be able to dissolve
-- this can happen when a saturated solution is cooled, or another change in conditions occurs that causes solubility to decrease
+- This can happen when a saturated solution is cooled, or another change in conditions occurs that causes solubility to decrease
