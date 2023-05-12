@@ -1,5 +1,5 @@
 ---
-title: A Dialogue of Epic Proportions
+title: 12-05-2023 A Dialogue of Epic Proportions
 ---
 
 [go back](Articles/Articles.md)
