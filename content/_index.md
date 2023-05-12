@@ -28,7 +28,7 @@ I'm a proud member of [the town](Writings/town.md). ~~I have broken away from th
 > 
 > [Writings](Writings/Writings.md)
 > 
-> [Daily Notes](DailyNotes/DailyNotes.md)
+> [Articles](Articles/Articles.md)
 > 
 >[Bunch of Random Pokemon Sprites](poke)
 

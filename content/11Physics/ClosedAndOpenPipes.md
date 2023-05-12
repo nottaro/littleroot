@@ -23,3 +23,7 @@ title: Closed and Open Pipes
 - **Overtones**: allowed resonant modes of vibration above the fundamental mode of vibration
 - **Nodes**: In a standing wave, there are moments when the 2 identical waves travelling in opposite directions are 180˚ out of phase; here a complete destructive interference occurs, and there is no particle displacement
 - **Anti-nodes**: There are also moments when 2 identical waves are in phase and so complete constructive interference occurs and there is maximum particle displacement; here the particles vibrate about the equilibrium position but do not propagate in any direction
+
+## Closed Pipes
+- One end is open and one end is closed
+- Funad

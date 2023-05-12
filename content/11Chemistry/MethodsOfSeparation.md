@@ -33,4 +33,12 @@ enableToc: true
 
 ### Distillation
 - Used to separate homogenous mixtures
-- Based on difference in boiling points of substances involved2
+- Based on difference in boiling points of substances involved
+
+### Evaporation
+- Solution is heated, and becomes more concentrated
+- Eventually, all of the solvent will disappear
+- The solute will crystallise at the bottom
+
+### Crystallisation
+- The solvent is dissolved in
