@@ -35,6 +35,9 @@ enableToc: true
 	- Ion-dipole forces with ions from ionic compounds
 
 
+## Aqueous Solutions of Covalent Compounds
+- Many polar molecules are soluble in water due to the strong dipole-dipole forces or hydrogen bonds formed
+
 ## Identifying negative ions: Halides
 - Formed from group 17 elements, the halogens
 - Detected using silver nitrate solutions
