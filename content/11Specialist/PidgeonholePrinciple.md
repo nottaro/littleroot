@@ -1,5 +1,0 @@
----
-title: The Pidgeonhole Principle
----
-
-

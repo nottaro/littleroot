@@ -14,7 +14,7 @@ Note: These are notes for a subject that requires you to do practice questions t
 
 [Permutations and Combinations](11Specialist/PerCom.md)
 
-[Pidgeonhole Principle](11Specialist/PidgeonholePrinciple.md)
+[Pigeonhole Principle](11Specialist/PigeonholePrinciple.md)
 
 [Vectors](11Specialist/Vectors.md)
 
