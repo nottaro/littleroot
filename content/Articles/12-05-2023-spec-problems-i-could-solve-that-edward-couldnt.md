@@ -13,13 +13,13 @@ $$n=14\therefore 2n^2-4n+31 = 2(14)^2-4(14)+31=2(196)-42+31=381$$
 
 ## Geometry Proofs
 
-![[Articles images/GeometricProof]]
+![](Articles%20images/GeometricProof1.png)
 
 **Two circles of radius 12.6 cm, with centres *A* and *B* are shown above, have a common chord *CD*. Determine, with justification, the length CD.**
 
 So, we know what the radius is (12.6 cm). However, what does this actually tell us? From this, we can deduce that length *AB, AD, AC, BD, and BC* are all equal to 12.6 cm, as they are all radii. Furthermore, by drawing the line *AB* into the diagram, we now have a right angled triangle, like so.
 
-![[Articles images/GeometricProofs2]]
+![](Articles%20images/GeometricProof2.png)
 
 In addition, we can see that the chord *CD* bisects AB, so now we know that one side of the triangle is 12.6 cm, and the other is 6.3 cm (12.6 cm divided by 2).
 
