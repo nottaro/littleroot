@@ -4,7 +4,7 @@ title: 12-05-2023 A Dialogue of Epic Proportions
 
 [go back](Articles/Articles.md)
 
-yes, all (mis)spellings are intentional
+yes, all (mis)spellings are intentional.
 
 _a dialogue between me and ed about intelligence_
 

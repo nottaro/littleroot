@@ -5,6 +5,10 @@ enableToc: true
 
 [go back](11Subjects/11Chemistry.md)
 
+## Separating Mixtures
+- Mixtures can be separated by any means that makes use of the different physical properties of its constituents.  
+- The properties of the components of a mixture determine the best separation method.
+
 1. Sieving
 2. Filtration (diagram)
 3. Decanting
@@ -29,16 +33,22 @@ enableToc: true
 ### Filtration
 - Used to separate heterogenous mixtures composed of solids and liquids
 - Uses a porous barrier to separate the solid from the liquid
-- Smaller particles of liquid passes through, leaving the solid in the filter paper
+- Liquid passes through, leaving the solid in the filter paper
+- Filtration can be used to separate an insoluble substance from a soluble substance
 
 ### Distillation
 - Used to separate homogenous mixtures
 - Based on difference in boiling points of substances involved
+![](11SubjectImages/Distillation.png)
 
 ### Evaporation
 - Solution is heated, and becomes more concentrated
 - Eventually, all of the solvent will disappear
 - The solute will crystallise at the bottom
+- Evaporation can be used to separate a solute from the solvent in a solution
 
 ### Crystallisation
-- The solvent is dissolved in
+- Separation technique that results in the formation of pure solid particles from a solution containing the dissolved substance
+- As one substance evaporates, the dissolved substance comes out of solution and collects as crystals
+- Produces highly pure solids
+- Rocky candy is an example of this

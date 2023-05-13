@@ -17,5 +17,8 @@ $$m=\frac{rise}{run}=\frac{y_2-y_1}{x_2-x_1}$$
 - For **parallel** lines, the gradients are identical to each other
 
 - To find where 2 lines intersect, equate the equations, i.e.: $$m_1x+c_1=m_2x+c_2$$
+- The midpoint of 2 points is calculated as such $$\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}$$
+- The distance between 2 points is calculated as such $$\sqrt{(x_2-x_1)+(y_2-y_1))}$$
+
 
 - That's all I had to know for Year 11, your curriculum may be different

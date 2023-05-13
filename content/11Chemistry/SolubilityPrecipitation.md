@@ -32,6 +32,13 @@ enableToc: true
 	- Non-polar substances cannot form dipole-dipole interactions or h-bonds, so won' mix with polar substances
 	- Non-polar solutes dissolve well in non-polar solvents. All substances form only dispersion forces, meaning no strong bonds are broken
 
+| Soluble                                                                                                                                                                                                                                     | Insoluble                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| When a solute is soluble in a specific solvent                                                                                                                                                                                              | When a solute is insoluble in a specific solvent                                                                                                                                                                                           |
+| The intermolecular forces between the solvent and solute are stronger than the intermolecular forces present between the solvent's atoms, and the solute's atoms                                                                            | The intermolecular forces between the solvent & solute are weaker than the intermolecular forces present between the solvent & solvent and between the solutes                                                                             |
+| This means the difference between the energy released in the formation of the intermolecular forces between the solvent & solute and the energy required to break the solute – solute and solvent – solvent intermolecular forces decreases | This means the difference between the energy released in the formation of the intermolecular forces between the solvent & solute and the energy required to break the solute – solute and solvent – solvent intermolecular forces is large |
+| Thus the solvent – solvent and solute – solute IMF are able to be disrupted and the solute – solvent IMF are able to be established as this process is energetically favorable                                                              | Thus the solvent – solvent and solute – solute IMF are not able to be disrupted as this process is energetically unfavorable and so the solute does not dissolve.                                                                                                                                                                                                                                           |
+
 ## Water - The Universal Solvent
 - As a highly polar molecule, water is great at dissolving polar molecule substances and many ionic substances
 - Water can form a range of intermolecular forces to stabilise a solution
@@ -114,3 +121,13 @@ enableToc: true
 ### Saturation and Crystallisation
 - Solutions become supersaturated when they contain more solute than they would normally be able to dissolve
 - This can happen when a saturated solution is cooled, or another change in conditions occurs that causes solubility to decrease
+- The solute will stay in solution until a ‘seed’ crystal is added. 
+- This causes it to crystallise out of the solution very quickly.
+- When it does this, it gives out heat energy.
+
+### Solubility of Gases
+- Many gases are soluble in water. 
+	- For example, fish can breathe because of the oxygen dissolved in water.
+- Solubility of gases in water is often low, as most gases are not very polar. More polar gases are more soluble, in general.
+- As temperature increases, solubility of gases decreases
+	- This is because the gases have more kinetic energy, which increases motion and breaks the IMF between the gases and the solvent, causing them to escape the solution
