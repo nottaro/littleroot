@@ -103,14 +103,15 @@ enableToc: true
 	- This apparatus uses a vacuum pump to draw the mixture through the filter
 	- The filtrate is finally washed and dried
 
-# More Solubility (Woo-hoo)
+# More Solubility
 
 ## Solubility
 - Concentration of a saturated solution
-- **Saturated**: Solution where no more solution will dissolve at the given temperature
+- **Saturated**: Solution where no more solute will dissolve at the given temperature
 - **Unsaturated**: Less solute than needed to make a saturated solution. Most solutions we use will be unsaturated
 - **Supersaturated**: Unstable solution, usually formed as a saturated solution curves down. If it is disturbed, it will crystallise, forming crystals of solute, and leave a saturated solution
 - **Solubility**: Mass of a substance that will dissolve in 100 g of water at 25˚ C
+	- Measured in g/100g
 - The solubility of a substance depends on the temperature of the solvent
 
 ### Solubility Curves
