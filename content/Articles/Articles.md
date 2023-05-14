@@ -15,3 +15,5 @@ In a DD-MM-YYYY format.
 [12-05-2023 Spec problems that I could solve but Edward couldn't](Articles/12-05-2023-spec-problems-i-could-solve-that-edward-couldnt.md)
 
 [13-05-2023 A bill of town](Articles/13-05-2023-a-bill-of-town.md)
+
+[14-05-2023 A funny conversation I found](14-05-2023-a-funny-conversation-i-found)
