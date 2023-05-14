@@ -33,7 +33,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Market Failure - Free and Public Goods](11Economics/freeandpublicgoods.md)
 
 [Market Failure - Externalities](11Economics/externalities.md)
-- Not finished
 
 [Market Failure - Policies](11Economics/policies.md)
 - Not finished

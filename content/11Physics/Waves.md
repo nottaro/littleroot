@@ -62,3 +62,21 @@ $$v=f{\lambda}=\frac{\lambda}{T}$$
 	- Sound: speed of sound increases with density of medium
 	- Light: speed of light decreases with density of medium
 		- If a ray goes into a slower medium it bends towards the normal
+
+## Diffraction
+- Bending/spreading of waves beyond a gap/slit/aperture with no change in wavelength, frequency or velocity
+- **Diffraction around corners**
+	- When a wave moves past a corner, due to the wavefront being a source of secondary wavelets; the wave diffracts and spreads out. 
+	- The area where there is no diffraction is called the shadow region
+![](11SubjectImages/Diffraction1.png)
+- **Wavelength Effect**
+	- Diffraction increases with increase in wavelength. 
+	- Thus long wavelength (low frequency) waves are diffracted more than short wavelength (high frequency) waves
+	- This is why ultrasound waves don’t diffract much and are used for locating purposes such as in sonar or ultrasound; they do not disperse/diffract much at all.
+![](11SubjectImages/Diffraction2.png)
+- **Aperture Size Effect** 
+	- As the aperture size increases, the extent of diffraction decreases. 
+	- As the aperture Size decreases, the extent of diffraction increases 
+	- The diffraction is greater when wavelength size is roughly equal to the aperture size
+	- For apertures smaller than the wavelength size, there is no diffraction
+![](11SubjectImages/Diffraction3.png)

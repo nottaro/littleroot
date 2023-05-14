@@ -106,5 +106,14 @@ enableToc: true
 > - If this externality were corrected, society would gain the benefits represented by the shaded area.
 > - Once again, we see that the point of the welfare loss triangle lies at the Qopt quantity of output.
 
-- When there is a positive consumption externality, the free market underallocates resources to the production of the good, and too little of it is produced relative to the social optimum.
+- When there is a positive consumption externality, the free market under-allocates resources to the production of the good, and too little of it is produced relative to the social optimum.
 -   This is shown by Qm < Qopt and MSB > MSC at Qm in the Figure.
+
+## Externalities
+**There are some points to bear in mind as you read about externalities**
+- All negative externalities (of production and consumption) create external costs
+	- When there are external costs, MSC > MSB at the point of production by the market 
+- All positive externalities (of production and consumption) create external benefits
+	- When there are external benefits, MSB > MSC at the point of production by the market
+- All production externalities (positive and negative) create a divergence between private and social costs (MPC and MSC)
+- All consumption externalities (positive and negative) create a divergence between private and social benefits (MPB and MSB)
