@@ -8,6 +8,8 @@ In a DD-MM-YYYY format.
 
 [04-04-2023 Perth Pokémon Regional Championships 2023](Articles/04-04-2023-perth-pokemon-regional-championships-2023.md)
 
+[07-05-2023 Ranting](07-05-2023-Ranting.md)
+
 [12-05-2023 A Dialogue of Epic Proportions](Articles/12-05-2023-a-dialogue-of-epic-proportions.md)
 
 [12-05-2023 Spec problems that I could solve but Edward couldn't](Articles/12-05-2023-spec-problems-i-could-solve-that-edward-couldnt.md)
