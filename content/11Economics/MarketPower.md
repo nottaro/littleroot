@@ -8,14 +8,14 @@ title: Market Power
 - It also refers to the ability of a firm (or group of firms) to raise and maintain price above the level that would prevail under competition; this is referred to as market or monopoly power
 - The exercise of market power leads to reduced output and loss of economic welfare
 
-### Competitive Market
+## Competitive Market
 - Competition is generally understood to be a process in which rivals compete in order to achieve some objective.
 - Competition in microeconomics occurs when there are many buyers and sellers acting independently, so that no one has the ability to influence the price at which a product is sold in the market.
 - This should be contrasted with market power, also known as monopoly power, which refers to the control that a seller may have over the price of the product it sells. 
 - The greater the market power, the greater is the control over price. 
 - On the other hand, the greater the degree of competition between sellers, the smaller their market power, and the weaker is their control over the price.
 
-### Imperfect Markets
+## Imperfect Markets
 - A competitive market is characterised by a large number of small firms free entry and exit and very little product differentiation. 
 - When one or more of these conditions is NOT MET - the market is said to be ‘imperfect’ 
 - An imperfect market exists when: 
@@ -28,3 +28,10 @@ title: Market Power
 	- Synergy and Australia Post are government regulated monopolies.
 - An oligopoly is a market with a few large dominant firms
 	- Coles and Woolworths dominate the grocery market in Australia
+
+### Monopoly
+- Monopoly is a type of market structure where there is 
+	- A single firm dominating the market for a product, and
+	- Where high barriers to entry (factors making it difficult for other firms to enter the industry) ensure that the monopoly position of the single seller can be preserved.
+- Monopoly power, also known as market power, refers to the ability of a firm or a group of firms to control the price of the product they sell. 
+- Monopoly power can be exercised not only by monopolies, but also by firms in oligopolies, where there are a few large sellers.
