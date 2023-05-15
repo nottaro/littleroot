@@ -13,6 +13,9 @@ $$n=14\therefore 2n^2-4n+31 = 2(14)^2-4(14)+31=2(196)-42+31=381$$
 
 Edit: Athu told us we could've just used 31, so now we feel like idiots
 
+
+
+
 ## Geometry Proofs
 
 ![](Articles%20images/GeometricProof1.png)
