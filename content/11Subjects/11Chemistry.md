@@ -9,6 +9,8 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
+## Unit 1
+
 ### Term 1: Atomic Structure, Periodic Table, Bonding, Polarity, Intermolecular Forces
 
 [Key Definitions](11Chemistry/Definitions.md)
@@ -38,7 +40,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Periodicity - REDUNDANT APART FROM ALLOTROPES](11Chemistry/Periodicity.md)
 
-### Term 2: Properties of Matter, Solubility, Chromatography
+### Term 2: Properties of Matter, Solubility, Concentration, Separation Techniques
 
 [Properties of Matter](11Chemistry/PropertiesofMatter.md)
 
@@ -49,5 +51,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Mixtures](11Chemistry/Mixtures.md)
 
 [Methods of Separation](11Chemistry/MethodsOfSeparation.md)
+
+
 
 More to come!

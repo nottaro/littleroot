@@ -14,8 +14,9 @@ Most of these are mine, but I have ~~stolen~~ adapted some of Ajay's notes. I'm 
 ## Nanoparticles
 
 - Nanoparticles are particles of matter in the size of the nanoscale
--  Nanoparticles have different chemical and physical properties to their bulk counterparts due to the massive surface area to volume ratio
--   E.g. gold is red as a nanoparticle
+- At least one dimension within the nanoscale
+- Nanoparticles have different chemical and physical properties to their bulk counterparts due to the massive surface area to volume ratio
+- E.g. gold is red as a nanoparticle
 
 ### Manufacturing Nano-particles
 - Nanoparticles are manufactured either from top down or bottom up:
