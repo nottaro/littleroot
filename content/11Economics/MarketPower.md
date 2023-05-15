@@ -37,7 +37,7 @@ title: Market Power
 - Monopoly power can be exercised not only by monopolies, but also by firms in oligopolies, where there are a few large sellers.
 - Monopoly power is considered to be socially undesirable because it leads to:
 	- A welfare loss, as social surplus is less than maximum
-	- Allocative inefficiency - there is an underallocation of resources to the good 
+	- Allocative inefficiency - there is an under-allocation of resources to the good 
 	- Lower output and a higher price of the industry than the output and price of a more competitive market
 
 ### Imperfect Markets: Barriers to Entry
