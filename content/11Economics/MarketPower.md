@@ -52,3 +52,10 @@ title: Market Power
 	- Economies of scale – only a few firms can compete in the market because of the large set up costs 
 		- Economies of scale: Cost advantages companies experience when production becomes efficient, as costs can be spread over a larger amount of goods.
 	- Collusive behaviour – when firms agree to share markets, to fix prices or quantities or to otherwise seek to reduce competition and / or prevent new firms entering the market
+
+## Market Power
+- In an imperfect market, such as a monopoly or oligopoly, firms can use their market power to ‘exploit’ the market. 
+- A firm has market power if it can affect the market price by varying its output. 
+- Monopoly and oligopoly firms have substantial market power because they operate in markets with little effective competition – Hence, firms with market power will attempt to profit maximize. 
+- Their private interest will not necessarily coincide with society's interest and therefore the socially optimal level of output in unlikely to be produced. 
+- This will result in higher prices and reduced output, decreasing economic welfare for society.
