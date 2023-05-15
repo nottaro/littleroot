@@ -23,3 +23,8 @@ title: Market Power
 	2. Firms have market power 
 	3. Firms use product differentiation 
 	4. Barriers to entry are used to restrict competition
+- The best examples of imperfect competition are monopoly and oligopoly markets. 
+- A monopoly is a market with just one firm
+	- Synergy and Australia Post are government regulated monopolies.
+- An oligopoly is a market with a few large dominant firms
+	- Coles and Woolworths dominate the grocery market in Australia
