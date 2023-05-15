@@ -7,6 +7,7 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
+## Unit 1
 
 > [!summary] Year 11 Content
 > 
@@ -38,3 +39,5 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 - Not finished
 
 [Year 11 Economics Investigation 1](11Economics/Investigation.md)
+
+[Market Failure - Market Power](11Economics/MarketPower.md)
