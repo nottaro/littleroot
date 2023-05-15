@@ -13,5 +13,6 @@ title: Chromatography
 
 ## Paper Chromatography
 - Used to separate mixtures, especially dyes or pigments
-- Dots of single dyes are placed alongised a dot of the unknown mixture
-- The solvent si drawn up the paper by capillary a
+- Dots of single dyes are placed alongside a dot of the unknown mixture
+- The solvent is drawn up the paper by capillary action
+- As the solvent moves up the paper, the pattern of the single dyes can be compared to that of the unknown mixture
