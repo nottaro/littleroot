@@ -23,5 +23,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Ibsen and Hedda Gabler](11Literature/HeddaGabler.md)
 
+[Exam Information](11Literature/ExamInformation.md)
 
 More to come!
