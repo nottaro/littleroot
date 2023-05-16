@@ -10,6 +10,10 @@ title: Chromatography
 - **Mobile Phase**: This phase moves.
 	- The more soluble compounds in the mixture are carried faster as the mobile phase moves. 
 	- Either a liquid or a gas
+- Paper Chromatography
+- Thin Layer Chromatography
+- Column Chromatograph
+- Gas Chromatography
 
 ## Paper Chromatography
 - Used to separate mixtures, especially dyes or pigments
@@ -40,12 +44,22 @@ title: Chromatography
 ## TLC or Paper Chromatography?
 - TLC has a lot of advantages
 	- Glass plate is rigid, not flexible like paper, so it is easy to control
-	- Afer separatino, the substances in the mixture can be recovered
+	- After separation, the substances in the mixture can be recovered
 		- The silica gel holding the separated substances is scraped of the glass plate and added to a solvent
 		- The substance will dissolve and the silica gel can easily be removed by filtration
+		- The glass plates can be re-coated with silica gel and be used over and over again
 
 ## Retention Factor (Rf)
 - Ratio of the distance traveled of the solute to the solvent
 - Different pigments have different Rf values
 $$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
 - Greater Rf means it is more non-polar
+
+## UV and Locating Agents
+- Many substances are white or colourless, and so aren't visible on a TLC plate
+- One way of making colourless substances show up is to use UV light.
+- This usually works well for organic compounds
+
+## Column Chromatography
+- Mobile phase is passed through (under pressure) the stationary phase
+- Interaction between the MP and SP with the compounds in the mixture enable separation
