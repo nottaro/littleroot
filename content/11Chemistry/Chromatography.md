@@ -21,7 +21,7 @@ title: Chromatography
 
 ## Thin Layer Chromatography (TLC)
 - All chromatography involves a stationary phase and a mobile phase
-- Stationary phase is a **layer of silica gel** fixed on a rigid glass plate
+- Stationary phase is a **layer of silica gel (polar)** fixed on a rigid glass plate
 - The mobile phase is a solvent which travels up the plate, carrying the substances
 - Uses same principles as paper chromatography
 	- Capillary cation still draws the solvent up the matrix
@@ -30,9 +30,22 @@ title: Chromatography
 	- Some of the particles in the sample stick more strongly to the silica gel than others so they lag behind the solvent
 		- The more polar molecules have a stronger IMF between itself and the gel, thus it sticks more strongly, and lags
 	- Eventually the different substances in the sample separate out, with similar molecules travelling a similar distance
+- The solvent (i.e. the mobile phase) is drawn up the stationary phase by capillary action
+	- Adhesive forces are between molecules of different substances
+		- Adhesion enables solvent molecules to bond to stationary phase
+	- Cohesive forces are between molecules of the same substance
+		- Cohesion enables solvent molecules to bond to each other and move each other through stationary phase
 
+
+## TLC or Paper Chromatography?
+- TLC has a lot of advantages
+	- Glass plate is rigid, not flexible like paper, so it is easy to control
+	- Afer separatino, the substances in the mixture can be recovered
+		- The silica gel holding the separated substances is scraped of the glass plate and added to a solvent
+		- The substance will dissolve and the silica gel can easily be removed by filtration
 
 ## Retention Factor (Rf)
 - Ratio of the distance traveled of the solute to the solvent
+- Different pigments have different Rf values
 $$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
 - Greater Rf means it is more non-polar
