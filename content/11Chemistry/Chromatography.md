@@ -30,3 +30,8 @@ title: Chromatography
 	- Some of the particles in the sample stick more strongly to the silica gel than others so they lag behind the solvent
 		- The more polar molecules have a stronger IMF between itself and the gel, thus it sticks more strongly, and lags
 	- Eventually the different substances in the sample separate out, with similar molecules travelling a similar distance
+
+
+## Retention Factor (Rf)
+- Ratio of the distance traveled of the solute to the solvent
+$$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
