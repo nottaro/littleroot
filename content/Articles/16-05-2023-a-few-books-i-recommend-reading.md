@@ -29,3 +29,9 @@ So. Good. Again, another murder mystery, where the main character (MC) moves int
 ## Lost Stars, by Claudia Grey
 
 This is a Star Wars book, with a mature writing style. The book follows an Imperial recruit who becomes disillusioned with the Empire and its methods. It provides another side to the story, and is a very good read.
+
+## The Alchemyst Series, a.k.a. the Secrets of Nicholas Flamel, by Michael Scott
+
+This represents cultural mythology and legends in a new form, and is a brilliant series. There's so much mystery and lore, and the author does a great job of portraying mythological figures from different cultures.
+
+## The Dandeli
