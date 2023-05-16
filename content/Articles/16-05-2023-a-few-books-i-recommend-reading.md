@@ -4,7 +4,7 @@ title: A few books I would recommend reading
 
 [go back](Articles/Articles.md)
 
-not including manga, i'll highlight those later
+not including manga, I'll highlight those later
 
 ## The Inheritance Cycle, by Christopher Paolini
 
