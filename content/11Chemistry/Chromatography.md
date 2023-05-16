@@ -35,3 +35,4 @@ title: Chromatography
 ## Retention Factor (Rf)
 - Ratio of the distance traveled of the solute to the solvent
 $$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
+- Greater Rf means it is more non-polar
