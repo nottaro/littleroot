@@ -34,4 +34,7 @@ This is a Star Wars book, with a mature writing style. The book follows an Imper
 
 This represents cultural mythology and legends in a new form, and is a brilliant series. There's so much mystery and lore, and the author does a great job of portraying mythological figures from different cultures.
 
-## The Dandeli
+## The Dandelion Dynasty, by Ken Liu
+
+Again, a fictional world, with 4 books. It's a very long read, so you'll have to be invested. The story follows a boy, who rebels against the current emperor, and then has to struggle with the troubles of the aristocracy, e.g. corruption. It's a very good read, but a bit tedious at times. It's also very sad.
+
