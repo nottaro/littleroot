@@ -56,6 +56,7 @@ title: Market Power
 ## Market Power
 - In an imperfect market, such as a monopoly or oligopoly, firms can use their market power to ‘exploit’ the market. 
 - A firm has market power if it can affect the market price by varying its output. 
-- Monopoly and oligopoly firms have substantial market power because they operate in markets with little effective competition – Hence, firms with market power will attempt to profit maximize. 
+- Monopoly and oligopoly firms have substantial market power because they operate in markets with little effective competition – Hence, firms with market power will attempt to profit maximise. 
 - Their private interest will not necessarily coincide with society's interest and therefore the socially optimal level of output in unlikely to be produced. 
-- This will result in higher prices and reduced output, decreasing economic welfare for society.
+- This will result in higher prices and reduced output, decreasing economic welfare for society
+
