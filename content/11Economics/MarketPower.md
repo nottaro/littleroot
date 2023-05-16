@@ -60,3 +60,36 @@ title: Market Power
 - Their private interest will not necessarily coincide with society's interest and therefore the socially optimal level of output in unlikely to be produced. 
 - This will result in higher prices and reduced output, decreasing economic welfare for society
 
+> [!note]+ Market Power -  Barriers to Entry
+> - The figure illustrates the effects of market power on price and quantity. 
+> - A competitive market will produce where demand equals supply. 
+>   The equilibrium price (Pe) and quantity (Qe) is efficient. 
+> - At the equilibrium, total surplus (the sum of consumers and producer surplus) is maximised.
+> - CS + PS = Total Surplus maximised
+>   ![](marketpower.png)
+
+> [!note]+  Market Power -  Barriers to Entry 2
+> - The figure below shows the effect of market power. 
+> - In this case the monopolist reduces output to Q1 in order to increase price to P1. 
+> - Notice that the consumers are now worse off – they pay a higher price and consume a lower quantity. Consumer surplus decreases. 
+> - The monopoly on the other hand gains – producer surplus (Revenue and possibly profit) increases.
+> - But society is now worse off because total surplus decreases by the area DWL. 
+> - There is deadweight loss in economic welfare because the market has been restricted. 
+> - This is the classic case against monopoly and why monopolies and oligopolies are criticised for being inefficient. 
+> - Most countries now have government legislation which promotes a competitive business environment and tries to prevent firms with market power from exploiting the market.
+>   ![](11SubjectImages/marketpower2.png)
+
+### Anti-competitive Behaviour
+- Competition provides the spur for businesses to improve their performance, develop new products and respond to changing circumstances. 
+- Competition also offers the promise of lower prices and improved choice for consumers and greater efficiency, higher economic growth and increased employment opportunities.
+- Firms with market power have the incentive to reduce competition – by either reducing price competition or by reducing he number of firms competing in the market. 
+- The term anti-competitive behaviour refers to any agreements or arrangements between firms that seek to restrain competition and thereby remove the automatic regulation that competitive markets achieve. 
+- Any agreement between firms in an industry to fix prices to divide the market, or to prevent the entry of new. 
+- Business practices that try to reduce competition will result in market failure and will lead to a deadweight loss.
+ ![](11SubjectImages/reducingcompetition.png)
+
+## Government Policy
+- Market Power is prominent in imperfect markets such as monopoly and Oligopoly markets. 
+- Market power is inefficient because it reduces competition and decreases total surplus 
+- Government policy to address market power includes regulation/ deregulation as well as specific legislation. 
+- An example of government legislation in Australia that attempts to prevent market power is the Competition and Consumer Act 2010.
