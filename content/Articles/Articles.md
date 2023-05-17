@@ -6,7 +6,7 @@ In a DD-MM-YYYY format.
 
 Just some thoughts and articles that I publish
 
-[31-03-2023 The Fred Tendency Hypothesis (FTH)](Articles/FTH.md)
+[31-03-2023 The Fred Tendency Hypothesis (FTH)](Articles/31-03-2023-the-fred-tendency-hypothesis-fth.md)
 
 [04-04-2023 Perth Pokémon Regional Championships 2023](Articles/04-04-2023-perth-pokemon-regional-championships-2023.md)
 
