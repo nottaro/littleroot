@@ -21,4 +21,6 @@ Just some thoughts and articles that I publish
 [14-05-2023 A funny conversation I found](14-05-2023-a-funny-conversation-i-found)
 
 [16-05-2023 A few books I recommend reading](Articles/16-05-2023-a-few-books-i-recommend-reading.md)
- 
+
+[17-05-2023 Some thoughts on life](17-05-2023-some-thoughts-on-life)
+
