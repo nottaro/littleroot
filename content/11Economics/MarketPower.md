@@ -93,3 +93,20 @@ title: Market Power
 - Market power is inefficient because it reduces competition and decreases total surplus 
 - Government policy to address market power includes regulation/ deregulation as well as specific legislation. 
 - An example of government legislation in Australia that attempts to prevent market power is the Competition and Consumer Act 2010.
+	- This Act is administered by the Australian Competition and Consumer Commission (ACCC) and contains rules against anti competitive conduct to ensure that there is fair and effective competition within Australia. 
+	- The Act also contains consumer protection rules, known as the Australian Consumer Law, which businesses must abide by in their dealing with consumers. 
+	- The role of the ACCC is to protect, strengthen and supplement the way competition works in Australia markets and industries to improv efficiency of the economy and to increase the welfare of Australians.
+	- This means that the ACCC tries to ensure that the benefits of increased competition flow through to consumers in the form of lower prices and better service. 
+	- It does this prohibiting anti-competitive conduct by firms with market power such as price fixing and collusion. 
+	- Listed below are some examples of business practices in Australia that are against the Law because they limit or prevent competition.
+- Cartels: A cartel exists when firms agree to act or collude together instead of competition with each other. 
+	- Typical cartel behavior includes price fixing and market sharing. 
+- Misuse or market power: A business that has a substantial degree of power in a market (eg monopoly) is prohibited from taking advantage of that power for the purpose of eliminating or substantially damaging a competitor or preventing the entry of a firm into any market. 
+- Exclusive dealing: this occurs when one firm trading with another imposes some restrictions on the others freedom to choose with whom , in what or where they deal. 
+	- Most types of exclusive dealing are against the law only when they substantially lessen competition.
+- Resale price maintenance: Suppliers manufactures and wholesalers are prohibited from specifying a minimum price below which goods or services may not be resold or advertised for resale. 
+	- A supplier may recommend a resale price for goods provided that it is a recommended price only. 
+- Predatory pricing: this occurs when a company with substantial market power sets its prices at a sufficiently low level with the purpose of eliminating or substantially damaging a competitor or preventing the entry of a competitor into that or any other market, 
+- Collective boycotts: This occurs when a group of competitors agree not to acquire goods or services from, or not to supply goods or services to, a business with whom the group is negotiating , unless the business accepts the terms and conditions offered by the group.
+- Mergers and acquisitions: Mergers may be deemed to be in the public interest if they lead to benefits for consumers. 
+	- However, if they have the effect of substantially lessening competition in a market then they are prohibited.

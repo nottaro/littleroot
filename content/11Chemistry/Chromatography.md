@@ -2,6 +2,8 @@
 title: Chromatography
 ---
 
+[go back](11Subjects/11Chemistry.md)
+
 - Series of analytical techniques that can be used to separate mixtures of compounds for further use or for analysis
 - In all forms of chromatography, a **mobile phase** moves through or across a **stationary phase**
 - **Stationary phase**: This phase does not move. 
