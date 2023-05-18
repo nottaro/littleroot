@@ -26,4 +26,6 @@ Right now, I can't wait to get out of school. Don't be like me. Enjoy every sing
 
 Try as hard as you can to get where you want to be. You don't want to be thinking "If I tried harder, would I be happier?"
 
+So...that's all I guess.
+
 
