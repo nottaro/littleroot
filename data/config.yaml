@@ -9,18 +9,20 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/nottaro/notes-dump
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  These are just some notes for my ATAR subjects.
+  A little dump where I deposite all my notes
 page_title:
-  "Notes Dump"
+  "📝 Notes Dump"
 links:
+  - link_name: Tumblr
+    link: https://tumblr.com/lemonboy-6
   - link_name: GitHub
     link: https://github.com/nottaro
