@@ -51,7 +51,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Mixtures](11Chemistry/Mixtures.md)
 
 [Methods of Separation](11Chemistry/MethodsOfSeparation.md)
+- Work in progress
 
 [Chromatography](11Chemistry/Chromatography.md)
+- Work in progress
 
 More to come!

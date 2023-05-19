@@ -142,8 +142,8 @@ enableToc: true
 
 ## 4 Factors of Production (FOP)
 
--   **********Land:********** Natural resources
--   ************Labour************: Physical or mental effort used to produce goods/services
+-   **Land:** Natural resources
+-   ********Labour************: Physical or mental effort used to produce goods/services
 -   **************Capital**************: Artificial **FOP** used to produce goods and services. Goods that make other goods/services
     -   Physical capital: investment goods
     -   Investment: spending on capital goods

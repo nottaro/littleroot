@@ -25,4 +25,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Exam Information](11Literature/ExamInformation.md)
 
+[Quotes For Exam](11Literature/ExamQuotesSem1.md)
+
 More to come!

@@ -29,3 +29,5 @@ enableToc: false
 
 "Hot man. Well, he is hot. Look at his chest."
 
+"My heart goes out to her" - In reference to Shan-Mei
+

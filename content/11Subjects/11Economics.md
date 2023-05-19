@@ -41,3 +41,4 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Year 11 Economics Investigation 1](11Economics/Investigation.md)
 
 [Market Failure - Market Power](11Economics/MarketPower.md)
+- Not finished
