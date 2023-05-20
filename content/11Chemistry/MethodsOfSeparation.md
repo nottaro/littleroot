@@ -1,6 +1,7 @@
 ---
 title: Methods of Separation
 enableToc: true
+theme: light
 ---
 
 [go back](11Subjects/11Chemistry.md)
@@ -26,15 +27,17 @@ enableToc: true
 - To accelerate sieving, pressure is usually applied
 - A series of sieves is stacked, with the screen of largest hole size at the top
 
-### Decantation
-- Done to separate particulates form a liquid by allowing the solids to settle to the bottom of the mixture and pouring off the particle free part of the liquid
-- Allows 2 immiscible liquids to separate and the lighter liquid is poured off
-
 ### Filtration
 - Used to separate heterogenous mixtures composed of solids and liquids
 - Uses a porous barrier to separate the solid from the liquid
 - Liquid passes through, leaving the solid in the filter paper
 - Filtration can be used to separate an insoluble substance from a soluble substance
+
+### Separating Funnel
+
+### Decantation
+- Done to separate particulates form a liquid by allowing the solids to settle to the bottom of the mixture and pouring off the particle free part of the liquid
+- Allows 2 immiscible liquids to separate and the lighter liquid is poured off
 
 ### Distillation
 - Used to separate homogenous mixtures
@@ -52,3 +55,20 @@ enableToc: true
 - As one substance evaporates, the dissolved substance comes out of solution and collects as crystals
 - Produces highly pure solids
 - Rocky candy is an example of this
+
+### Centrifuging
+- Centrifuges rotate containers of liquids to separate suspended materials with different densities.
+	- The lighter materials move to the outside, as they are more affected by the speed
+- Centrifuges separate different components of human blood or milk and to clarify solutions. A high speed separator can rotate at great speed to separate fat (cream) from milk.
+- The spin drier in washing machines is a type of centrifuge that throws out the liquid by the "centrifugal force" of the rotation.
+
+### Magnetic Separation, i.e. a Magnet
+- Can be used to separate a magnetic substance from a non-magnetic substance
+
+### Chromatography
+- Separates components of a mixture based on ability of each component to be drawn across the surface of another material
+- Mixture is usually liquid and is usually drawn across chromatography paper
+- Separation occurs because various components travel at different rates
+- Components with strongest attraction for paper travel the slowest
+- Chromatography (colour writing) is used to separate small amounts of chemicals so that they can be analysed.
+- Different substances or different components move at different speeds through a strip of wet paper, a gel or a gas.

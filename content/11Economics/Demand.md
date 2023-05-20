@@ -4,14 +4,14 @@ enableToc: true
 ---
 
 
-[Go back](11Subjects/11Economics.md)
+[go back](11Subjects/11Economics.md)
 
 ## Markets
 
 -   Where Buyers and Sellers meet in order to exchange money for goods
     -   They do not always meet in person
 -   Goods can be bought by consumers and sold by suppliers in online markets, e.g., Amazon
--   Amount of money a consumer pays the supplier in exchange for a good/service is called the **********price**********
+-   Amount of money a consumer pays the supplier in exchange for a good/service is called the ********price*********
 -   There are markets for the factors of production
 -   Labour is needed by producers to make goods
 -   The producers are the buyers of labour and individual people are the sellers of their own labour
@@ -63,8 +63,8 @@ enableToc: true
     -   Ceteris paribus: other things remaining constant
 -   A.k.a. **effective demand**
 -   _**Law of Demand:**_ Quantity demanded of a product is inversely related to its price, in a given period of time, ceteris paribus
--   ************************************Individual Demand:************************************ Demand for a good or service by an individual consumer
--   ****Market Demand:**** Sum of the individual demand for a good or service by all of the consumers in the market
+-   ********************************Individual Demand:************************************ Demand for a good or service by an individual consumer
+-   **Market Demand:** Sum of the individual demand for a good or service by all of the consumers in the market
 
 ![](11SubjectImages/factors.png)
 ![](11SubjectImages/non%20price.png)
@@ -79,20 +79,20 @@ enableToc: true
 
 ### Changes in Price/Demand of Related Goods
 
-******Substitutes******
+**Substitutes**
 
 -   Alternative product that can replace another because it satisfies the same want
 -   A.k.a. competitive demand
 -   If the price of one good changes, the demand for the substitute good will change in the same direction
 
-**********************Complements**********************
+********************Complements*********************
 
 -   Complementary products must be used at the same time with another to satisfy the same human wants
 -   A.k.a. joint demand
 -   Separate products, but are consumed at the same time
 -   If the price of one good changes, the demand for the complementary good will change in the opposite direction
 
-**********************************************Goods in Derived Demand**********************************************
+********************************************Goods in Derived Demand*********************************************
 
 -   When a good is in derived demand, it is demanded for its contribution to the manufacture of another product
 -   Usually raw materials, e.g. wood
@@ -100,7 +100,7 @@ enableToc: true
 
 ### Changes in Consumer’s Money Income
 
-************************Normal Goods************************
+********************Normal Goods*********************
 
 -   A good is a normal good when demand for it increases in response to an increase in consumer income
 -   Demand for the good varies directly with income
@@ -109,7 +109,7 @@ enableToc: true
 -   Increase in income leads to a rightward shift in the demand curve, and vice versa
 -   Purchasing power increases with income, therefore demand increases
 
-****************************Inferior goods****************************
+**************************Inferior goods*************************
 
 -   Goods where the demand falls as consumer income increases and vice versa
     -   E.g., cheaper alternatives, like flying with JetStar instead of Singapore Airlines

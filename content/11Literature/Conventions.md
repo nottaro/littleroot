@@ -108,7 +108,6 @@ A great author can conjure up pictures in your mind through the use of imagery. 
 
 **Allusion**
 An allusion is a reference to something else. E.g., Bec was the Trojan horse to Marta’s social group. Think “Easter Eggs”  
-  
 
 **Symbolism**
 Symbolism can be anything from a dagger to colour and usually has a hidden meaning.  
