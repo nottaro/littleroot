@@ -30,13 +30,13 @@ enableToc: true
 
 ### Time Period
 
-************************Very Short Run************************
+********************Very Short Run*********************
 
 -   Fixed FOP
 -   Unable to respond to $P_x$ changes
 -   Almost perfectly $P_x$ inelastic supply
 
-***Short Run***
+**Short Run**
 
 -   Able to adjust some variable FOP
 -   Able to respond to $P_x$ changes by increasing its variable FOP
@@ -48,7 +48,7 @@ enableToc: true
 -   Able to respond to respond to $P_x$ changes
 -   $P_x$ elastic supply
 
-**********************************************************************************************If time period is longer, firms are able to adjust output more easily because FOP are variable**********************************************************************************************
+********************************************************************************************If time period is longer, firms are able to adjust output more easily because FOP are variable*********************************************************************************************
 
 -   Therefore, the longer the time period, the more price elastic supply is
 
@@ -56,7 +56,7 @@ enableToc: true
 
 -   Mobility of FOP: Ease and speed with which firms can shift resources and production between different products or uses
 -   The greater the ease and speed, the greater responsiveness of quantity to change in price will be
--   ******************************SS is price elastic******************************
+-   **************************SS is price elastic***************************
 
 1.  Price increases, due to an increase in demand
 2.  Producers want to increase quantity supplied

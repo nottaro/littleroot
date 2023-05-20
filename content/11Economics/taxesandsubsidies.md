@@ -22,14 +22,14 @@ enableToc: true
 
 ## Indirect Tax
 
-### ******Specific Tax******
+### **Specific Tax**
 
 -   Good or service is taxed a fixed amount per unit
     -   e.g. $5 per kg
 -   Hence, tax per unit of the good is the same regardless the price of the good
 -   Specific tax imposes a parallel shift **(of the supply curve)** upwards by the full amount of the tax
 
-### ****************************Ad Valorem Tax****************************
+### **************************Ad Valorem Tax***************************
 
 -   Good or service is taxed a ********************percentage******************** based on the **********value********** of the product
     -   e.g. 7% GST
@@ -43,10 +43,10 @@ Taxes on a demand and supply curve **only affects the supply curve**
 1.  **Impact** of a tax
     1.  Falls on the person on whom the tax is first levied
     2.  i.e., seller gets it first
-2.  ******************Incidence****************** of a tax
+2.  ********Incidence*************** of a tax
     1.  Refers to the eventual distribution of the tax burden (i.e., who ultimately bears the tax)
 
-****************Example:****************
+**************Example:***************
 1.  Government levies tax on producer
 2.  Impact of tax is on producer
 3.  Incidence of tax is shared between producer and consumer
