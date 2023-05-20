@@ -1,7 +1,6 @@
 ---
 title: Methods of Separation
 enableToc: true
-theme: light
 ---
 
 [go back](11Subjects/11Chemistry.md)
@@ -34,6 +33,10 @@ theme: light
 - Filtration can be used to separate an insoluble substance from a soluble substance
 
 ### Separating Funnel
+- Used to separate substances of different densities, i.e. immiscible liquids/substances
+- Put into a separating funnel, which is then shook
+- The materials will separate due to their different densities, with the most dense at the bottome
+ ![](11SubjectImages/SeparatingFunnel.png)
 
 ### Decantation
 - Done to separate particulates form a liquid by allowing the solids to settle to the bottom of the mixture and pouring off the particle free part of the liquid

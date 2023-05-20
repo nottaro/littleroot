@@ -15,20 +15,13 @@ enableToc: true
 
 ## Elasticities
 
--   When price elasticity is between $0$ and $-1$, demand is ******************************price inelastic******************************
-    
+-   When price elasticity is between $0$ and $-1$, demand is **************************price inelastic***************************
 -   When price elasticity is between $-1$ and $- ∞$, demand is **************************price elastic**************************
-    
--   When price elasticity is $-1$, demand is ************************************unit price elastic************************************
-    
+-   When price elasticity is $-1$, demand is **unit price elastic**
 -   When DD is price elastic, the slope of the DD curve is gentler
-    
 -   When DD is price inelastic, the slope of the DD curve is steeper
-    
--   ****************************Price Elastic:**************************** Price change results in a more than proportionate change in quantity demanded
-    
--   **********************Price Inelastic:********************** Price change results in a less than proportionate change in quantity demanded
-    
+-   **************************Price Elastic:**************************** Price change results in a more than proportionate change in quantity demanded
+-   ********************Price Inelastic:********************** Price change results in a less than proportionate change in quantity demanded
 -   **************************************Unit Price Elastic:************************************** Price change results in a proportionate change in quantity demanded
     
 
@@ -42,7 +35,7 @@ enableToc: true
 
 ### Number and Closeness of Substitutes in the Same Price Range
 
--   The longer the number of substitutes (in the same price range), the higher the PED, and ********************vice versa********************
+- The longer the number of substitutes (in the same price range), the higher the PED, and ********************vice versa********************
 
 ### Time Period
 
@@ -98,9 +91,6 @@ $$ Profit = Total \ Revenue - Total\ Loss $$
 $$ Total\ Revenue=Price\times Quantity_{traded} $$
 
 -   When the demand for a good is price elastic, an increase in price results in a decrease in total revenue for the firm/producer
-    
--   Therefore, when the demand for a good is price elastic, the firm/producer should decrease the price of the good so that total revenue increases
-    
+	-   Therefore, when the demand for a good is price elastic, the firm/producer should decrease the price of the good so that total revenue increases
 -   When the demand for a good is price inelastic, a decrease in price results in a decrease in total revenue for the firm/producer
-    
--   Therefore, when the demand for a good is price inelastic, the firm/producer should increase the price of the good so that total revenue increases
+	-   Therefore, when the demand for a good is price inelastic, the firm/producer should increase the price of the good so that total revenue increases

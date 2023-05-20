@@ -11,17 +11,11 @@ enableToc: true
 
 
 -   When a price change results in a more than proportionate change in quantity supplied, SS is **************************price elastic**************************
-    
 -   When a price change results in a less than proportionate change in quantity supplied, SS is **price inelastic**
-    
 -   When a price change results in a proportionate change in quantity supplied, SS is **unit price elastic**
-    
--   ***************Price elastic: $1<PES<∞$**
-    
+-   **Price elastic: $1<PES<∞$**
 -   **Price inelastic: $0<PES<1$**
-    
--   ***************************Unit Price Elastic:*************************** $PES=1$
-    
+-   **Unit Price Elastic:*************************** $PES=1$
     -   Any straight line starting from the origin is **unit price elastic**
 
 ## Factors Affecting PES
@@ -67,7 +61,7 @@ enableToc: true
 1.  Price increases, due to an increase in demand
 2.  Producers want to increase quantity supplied
 3.  Additional FOPs are required
-4.  [If] Firm is able to substitute one FOP with another easily and within less time
+4.  Firm is able to substitute one FOP with another easily and within less time
 
 -   Determines how much more quantity supplied can be increased
 

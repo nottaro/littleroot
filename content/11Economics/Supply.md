@@ -3,7 +3,7 @@ title: The Theory of Supply
 enableToc: true
 ---
 
-[Go back](11Subjects/11Economics.md)
+[go back](11Subjects/11Economics.md)
 
 -   Amount of a good or service a producer is willing and able to sell in a given period of time, at a given price, ceteris paribus
 -   Objective of producers is to ********************************maximise profits********************************
