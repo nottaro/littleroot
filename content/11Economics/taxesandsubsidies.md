@@ -3,7 +3,7 @@ title: Application of Demand and Supply - Taxes and Subsidies
 enableToc: true
 ---
 
-[Go back](11Subjects/11Economics.md)
+[go back](11Subjects/11Economics.md)
 
 ## Types of Tax
 
@@ -21,7 +21,7 @@ enableToc: true
         1.  Example is General Sales Tax (GST)
 
 ## Indirect Tax
-
+- Shifts the supply curve up by the amount of tax imposed
 ### **Specific Tax**
 
 -   Good or service is taxed a fixed amount per unit
@@ -61,18 +61,9 @@ Taxes on a demand and supply curve **only affects the supply curve**
 6. Affects Consumption
 
 **When graphing Consumer/Producer Surplus: Always use original supply curve to calculate, not the new supply curve (with tax)**
-
+![](11SubjectImages/Screenshot%202023-05-21%20at%204.41.59%20pm.png)
 ## Incidence of Taxation
-
-**Total Tax Revenue:**
-
-$0Q_1*P_1P_2$
-
-**Consumers Pay:**
-
-$P_1P_0*0Q_1$ Producers Pay:
-
-$P_0P_2*0Q_1$
+![](11SubjectImages/Screenshot%202023-05-21%20at%204.41.11%20pm.png)
 
 ### Who bears a heavier tax burden
 
@@ -84,20 +75,15 @@ $P_0P_2*0Q_1$
 # Subsidies
 
 -   Payment of money to firms by the government for the purpose of reducing cost of production and increasing production
-    
 -   No exchange of goods or services in return
-    
 -   Sometimes known as negative taxes
-    
 -   **Why do governments give subsidies?**
-    
     -   Microeconomic objectives
         -   Protect incomes of farmers
         -   Encourage production or consumption of merit goods
     -   Macroeconomic objectives
         -   Encourage research and development
 -   **Justifying Subsidies**
-    
     -   Form of government intervention
     -   Introduced for a number of economic, social and political reasons
 
@@ -107,3 +93,4 @@ $P_0P_2*0Q_1$
 -   Total subsidy: $P_1P_2\times0Q_1$
 -   Consumers get: $P_1P_0\times0Q_1$
 -   Producers get: $P_0P_2*0Q_1$
+![](11SubjectImages/Screenshot%202023-05-21%20at%204.50.08%20pm.png)![](11SubjectImages/Screenshot%202023-05-21%20at%205.11.30%20pm.png)

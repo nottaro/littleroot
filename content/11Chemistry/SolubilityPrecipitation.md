@@ -29,7 +29,7 @@ enableToc: true
 - **Like dissolves like** (do not use this phrase)
 	- If the solvent and solute are able to form good intermolecular bonds with each other, this will favour dissolving
 	- Polar solvents and polar solutes can form dipole-dipole interaction (and sometimes H-bonds), which favours dissolving
-	- Non-polar substances cannot form dipole-dipole interactions or h-bonds, so won' mix with polar substances
+	- Non-polar substances cannot form dipole-dipole interactions or h-bonds, so won't mix with polar substances
 	- Non-polar solutes dissolve well in non-polar solvents. All substances form only dispersion forces, meaning no strong bonds are broken
 
 | Soluble                                                                                                                                                                                                                                     | Insoluble                                                                                                                                                                                                                                  |

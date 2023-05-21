@@ -2,6 +2,8 @@
 title: Market Power
 ---
 
+#marketfailure
+
 [go back](11Subjects/11Economics.md)
 
 - Market power is the ability of a business to insulate itself from competition
@@ -41,13 +43,14 @@ title: Market Power
 	- Lower output and a higher price of the industry than the output and price of a more competitive market
 
 ### Imperfect Markets: Barriers to Entry
-- Barriers to entry are an important feature of imperfect markets. • A barrier to entry is anything that restricts or blocks the entry of new firms into an industry or market. 
+- Barriers to entry are an important feature of imperfect markets. 
+- A barrier to entry is anything that restricts or blocks the entry of new firms into an industry or market. 
 - They may include government regulation, patents, technology barriers, startup costs and licensing requirements.
 - Examples of entry barriers:
 	- Controlling a scarce resource – if a mining company secured the only diamond mine in the country, it would have sole rights to mine the gems. 
 	- A government licence granting a legal monopoly e.g. Australia Post 
 	- A technological advantage – e.g. Microsoft has considerable market power because it supplies the operating system used in most computers. 
-	- A patent on an invention gives protection from competition (up to 17 years in Australia) eg pharmaceutical firms
+	- A patent on an invention gives protection from competition (up  to 17 years in Australia) eg pharmaceutical firms
 	- Extensive product differentiation, brand proliferation, large advertising budget, controlling retail outlets. 
 	- Economies of scale – only a few firms can compete in the market because of the large set up costs 
 		- Economies of scale: Cost advantages companies experience when production becomes efficient, as costs can be spread over a larger amount of goods.

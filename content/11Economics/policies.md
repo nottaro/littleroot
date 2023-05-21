@@ -4,6 +4,8 @@ title: Market Failure - Policies
 
 [go back](11Subjects/11Economics.md)
 
+#marketfailure
+
 ## Negative Externalities of Production
 ### Government regulations
 - Rely on "command" approach, using authority to enact legislation and regulations in the public's interest

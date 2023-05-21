@@ -3,6 +3,8 @@ title: Market Failure - Free and Public Goods
 enableToc: true
 ---
 
+#marketfailure
+
 [go back](11Subjects/11Economics.md)
 
 - We learned that in a free competitive market, when the price of a good adjusts to make quantity demanded equal to quantity supplied, the equilibrium quantity reflects the 'best' or optimal allocation of resources to the production of that good

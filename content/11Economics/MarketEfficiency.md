@@ -9,7 +9,7 @@ enableToc: true
 
 -   Area **below** demand curve and **********above********** price line
 
-******************Producer Surplus:****************** Price received by firms for selling their good **minus** the lowest price that they are willing to accept to produce the good
+**************Producer Surplus:****************** Price received by firms for selling their good **minus** the lowest price that they are willing to accept to produce the good
 
 -   Area **above** supply curve and **below** price line
 
