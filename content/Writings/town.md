@@ -3,10 +3,6 @@ title: Town Analogy
 enableToc: false
 ---
 
-We're all trying to survive, right?
+based off of [Edward's analogy](https://edsobsidiannotes.netlify.app/04-03-2023-The-town-analogy/). Read: I......adapted it
 
-Welp. Unfortunately, due to a few wolves (teachers), natural disasters (exams/tests), and the desert itself, it's just a *teensy itty bitty* difficult. I lied. It's horrible.
-
-Stupid 
-
-I sell books, and am a tour guide in my spare time. Apparently I write newspapers now.
+Welcome
