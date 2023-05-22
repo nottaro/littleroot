@@ -16,10 +16,13 @@ title: Exam Quotes
 
 ### Foreshadowing the ending of the play:
 - "I feel very strongly about putting questions; it partakes too much of the style of the day of judgment. You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others…” - Ensfield
-	- Utterson started investigating
+	- Utterson started investigating Hyde, and uncovered secrets that lead to the death of Henry Jekyll
+	- Judgement day: you are sent to heaven or hell based on your decisions, i.e. evil or good acts
+		- Biblical allusion
 - "I am careless; this is my true hour of death, and what is to follow concerns another than myself. Here then, as I lay down the pen and proceed to seal up my confession, I bring the life of that unhappy Henry Jekyll to an end." - Jekyll
+	- His true personality was uncovered, and due to their value of reputation, he kills himself
 
-### Dialogue
+### Dialogue: Expressing that people will do anything to hide their alter ego
 - "I cannot say that I care what becomes of Hyde; I am quite done with him. I was thinking of my own character, which this hateful business has rather exposed." - Ensfield
 	- His character has been "exposed", as fearful and meek, not the sophisticated man he would like to be
 - The large handsome face of Dr. Jekyll grew pale to the very lips, and there came a blackness about his eyes. "I do not care to hear more," said he. "This is a matter I thought we had agreed to drop." - Jekyll
