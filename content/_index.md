@@ -52,6 +52,14 @@ Inumaki just like me fr
 
 Source: trust me bro
 
+> [!quote] A quote of all time
+> 
+> "I flashed 5 people" - jole 2023
+
+> [!quote] A quote of all time
+> 
+>"If I was going to flash it'd be grand, I'd do it in front of thousands" - Jole 2023 
+
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
 

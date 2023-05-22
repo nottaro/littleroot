@@ -19,7 +19,7 @@ title: Exam Quotes
 	- Utterson started investigating Hyde, and uncovered secrets that lead to the death of Henry Jekyll
 	- Judgement day: you are sent to heaven or hell based on your decisions, i.e. evil or good acts
 		- Biblical allusion
-- "I am careless; this is my true hour of death, and what is to follow concerns another than myself. Here then, as I lay down the pen and proceed to seal up my confession, I bring the life of that unhappy Henry Jekyll to an end." - Jekyll
+- "I am careless...I bring the life of that unhappy Henry Jekyll to an end." - Jekyll
 	- His true personality was uncovered, and due to their value of reputation, he kills himself
 
 ### Dialogue: Expressing that people will do anything to hide their alter ego
@@ -41,13 +41,13 @@ title: Exam Quotes
 - Context: 19th Century Europe, the patriarchy was prevalent in most societies
 - Ibsen wanted to reflect this in a negative way, and rebel against it, so to speak
 - Evident in Hedda's character, in that she wants to be free
-- **Thesis:** 
+- **Thesis:** Due to the patriarchal views in the 1800s, Ibsen rejects these views and instead portrays females as strong, while also ridiculing the current patriarchal expectations of women. Ibsen uses foreshadowing, symbolism, and dialogue to provide a scathing social criticism on the patriarchal's views.
 - Points
-	- **Conveys the idea that their current society is restricting freedoms**
+	- **Foreshadowing: Conveys the idea that their current society is restricting freedoms**
 	- **Symbolism to reject the idea that women are meek**
 		- Guns
 		- Chekov's gun????
-	-  **Uses stereotypical representation of females in order to show how ridiculous said stereotypes are**
+	-  **Dialogue: Uses stereotypical representation of females in order to show how ridiculous said stereotypes are**
 
 ### Conveys the idea that their current society is restricting freedoms, using foreshadowing
 - Hedda is represented as someone who wants freedom
@@ -66,7 +66,7 @@ title: Exam Quotes
 - Her connection to the guns suggests that Hedda is her father's daughter, not her husband's wife, representing independence
 - **Hedda:** I’m going to shoot you sir!
 	- Shows her familiarity with the guns
-- **Hedda:** Oh, well…I’ve got one thing at least that I can pass the time with.  
+- **Hedda:** I’ve got one thing at least that I can pass the time with.  
   **Tesman:** Oh, thank the good Lord for that! And what might that be, Hedda? Eh?  **Hedda:** My pistols… Jörgen. 
 	- Tesman is possibly condenscending, and
 
