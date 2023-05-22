@@ -8,23 +8,24 @@ title: Exam Quotes
 - Core Concept: Value of reputation 
 - People will do anything to make them like them
 - **Plot Summary:** Follows the story of lawyer Gabriel Utterson as he investigates Edward Hyde and his connections to his friend, Dr Henry Jekyll
-- **Thesis:** Stevenson uses narrative conventions and language techniques such as symbolism, foreshadowing, and dialogue to represent the aristocracy's value of reputation. Stevenson portrays the value of reputation as one so great that people are willing to hide their personal life from their closest friends.
+- **Thesis:** Stevenson uses narrative conventions and language techniques such as symbolism, foreshadowing and allusion, and dialogue to represent the aristocracy's value of reputation. Stevenson portrays the value of reputation as one so great that people are willing to hide their personal life from their closest friends.
   
 - **Uses symbolism to express that one's private and personal life are different things**
-- **Uses foreshadowing to show that people's outward appearance is important, and one should not investigate it**
+- **Uses foreshadowing and allusion to show that people's outward appearance is important, and one should not investigate it**
 - **Uses dialogue to express that people will do anything to hide their alter ego**
 
 ### Foreshadowing the ending of the play:
 - "I feel very strongly about putting questions; it partakes too much of the style of the day of judgment. You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others…” - Ensfield
+	- Utterson started investigating
 - "I am careless; this is my true hour of death, and what is to follow concerns another than myself. Here then, as I lay down the pen and proceed to seal up my confession, I bring the life of that unhappy Henry Jekyll to an end." - Jekyll
 
 ### Dialogue
 - "I cannot say that I care what becomes of Hyde; I am quite done with him. I was thinking of my own character, which this hateful business has rather exposed." - Ensfield
 	- His character has been "exposed", as fearful and meek, not the sophisticated man he would like to be
 - The large handsome face of Dr. Jekyll grew pale to the very lips, and there came a blackness about his eyes. "I do not care to hear more," said he. "This is a matter I thought we had agreed to drop." - Jekyll
-	- Jekyll's emotional side was shown
+	- Jekyll's emotional side was shown, and he does not want to talk about it, for fear of exposing himself
 
-### Symbolism
+### Symbolism: Separation between public and private life
 - Use of doors is prevalent
 - Symbolises the Victorian Era’s preoccupation with the separation of public life and private life
 - The front door of Jekyll’s house and the back door of the laboratory, for example, represent physical barriers between the curious eyes of the public and the hidden activities inside
@@ -37,6 +38,7 @@ title: Exam Quotes
 - Context: 19th Century Europe, the patriarchy was prevalent in most societies
 - Ibsen wanted to reflect this in a negative way, and rebel against it, so to speak
 - Evident in Hedda's character, in that she wants to be free
+- **Thesis:** 
 - Points
 	- **Conveys the idea that their current society is restricting freedoms**
 	- **Symbolism to reject the idea that women are meek**
