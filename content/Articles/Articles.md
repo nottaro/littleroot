@@ -24,6 +24,6 @@ Just some thoughts and articles that I publish
 
 [17-05-2023 Some thoughts on life](17-05-2023-some-thoughts-on-life)
 
-[24-05-2023 Ajays table dilemma](24-05-2023-ajays-table-dilemma)
+[24-05-2023 Ajay's table dilemma](24-05-2023-ajays-table-dilemma)
 
 
