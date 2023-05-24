@@ -18,4 +18,6 @@ Note: These are notes for a subject that requires you to do practice questions t
 
 [Quadratic Equations](11Methods/Quadratics.md)
 
+[Trigonometry](11Methods/Trigonometry.md)
+
 More to come!

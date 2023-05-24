@@ -33,7 +33,7 @@ $$ Permutations = \frac{n!}{p!q!m!} $$
 -   Order is not important
 -   Here, we are selecting items
 -   Notation is $^nC_r$, or $(^n_r)$
-    -   We are selecting ****r**** objects from **n** objects
+    -   We are selecting **r** objects from **n** objects
 -   This equation can be written as:
 
 $$ \frac{n!}{r!(n-r)!} $$

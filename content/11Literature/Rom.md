@@ -12,7 +12,7 @@ enableToc: true
 -   Romanticism: attitude or intellectual orientation that characterised many works of literature, paintings, music, architecture and criticism in Western civilisation over a period from the late 18th century to the mid-19th century
 -   Can be seen as a rejection of the precepts of order, calm, harmony, balance, idealisation, and rationality that typified late 18th century Neo-classicism in particular
 -   Also a reaction against the Enlightenment and against 18th Century
-
+l
 # The Romantic Movement
 
 -   Freedom of the individual

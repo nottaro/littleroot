@@ -75,7 +75,7 @@ enableToc: true
 > [!example]+ Example
 > - In the Figure, the MSC curve lies below the MPC curve, and the difference between the two curves is the value of the external benefits (these can be thought of as ‘negative costs’).
 > - The demand curve represents both MPB and MSB since the externality involves only production.
-> - ![](PPE.png)
+> - ![](11SubjectImages/PPE.png)
 > - The market gives rise to equilibrium quantity Q m and price Pm, determined by the intersection of the MPB and MPC curves, while the social optimum is given by Qopt and Popt, determined by the intersection of the MSB with MSC curves.
 > - Since Qm < Qopt, the market underallocates resources to research and development activities that lead to new technologies, and not enough of them are undertaken.
 

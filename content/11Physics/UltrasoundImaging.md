@@ -2,6 +2,8 @@
 title: Ultrasound Imaging
 ---
 
+[go back](11Subjects/11Physics.md)
+
 - Ultrasound waves are longitudinal mechanical waves, with a frequency of between 1000 to 20000 Hz. 
 	- This is above the human hearing range.
 - Ultrasound imaging is a form of medical imaging that uses ultrasound waves to create an image of internal body structures, e.g. organs. 

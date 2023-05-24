@@ -10,7 +10,7 @@ title: Exam Quotes
 - **Plot Summary:** Follows the story of lawyer Gabriel Utterson as he investigates Edward Hyde and his connections to his friend, Dr Henry Jekyll
 - **Thesis:** Stevenson uses narrative conventions and language techniques such as symbolism, foreshadowing and allusion, and dialogue to represent the aristocracy's value of reputation. Stevenson portrays the value of reputation as one so great that people are willing to hide their personal life from their closest friends.
   
-- **Uses symbolism to express that one's private and personal life are different things**
+- **Uses symbolism to  the importance of the separation between one's personal and social life**
 - **Uses foreshadowing and allusion to show that people's outward appearance is important, and one should not investigate it**
 - **Uses dialogue to express that people will do anything to hide their alter ego**
 
@@ -42,6 +42,7 @@ title: Exam Quotes
 - Ibsen wanted to reflect this in a negative way, and rebel against it, so to speak
 - Evident in Hedda's character, in that she wants to be free
 - **Thesis:** Due to the patriarchal views in the 1800s, Ibsen rejects these views and instead portrays females as strong, while also ridiculing the current patriarchal expectations of women. Ibsen uses foreshadowing, symbolism, and dialogue to provide a scathing social criticism on the patriarchal's views.
+  
 - Points
 	- **Foreshadowing: Conveys the idea that their current society is restricting freedoms**
 	- **Symbolism to reject the idea that women are meek**

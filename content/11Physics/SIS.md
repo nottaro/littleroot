@@ -5,13 +5,13 @@ enableToc: true
 
 [go back](11Subjects/11Physics.md)
 
-******************Accuracy:****************** How close your experimentally derived number is to the “true” or “real” quantity being measured
+**************Accuracy:****************** How close your experimentally derived number is to the “true” or “real” quantity being measured
 
-******Precision:****** How the repeat values or a given trial are to each other, ******OR****** the fineness of the scale on the instrument being used to take measurements
+***Precision:****** How the repeat values or a given trial are to each other, ***OR*** the fineness of the scale on the instrument being used to take measurements
 
-******Reliability:****** If we conduct more trials and find that the results we get each time are not significantly different from the others
+***Reliability:*** If we conduct more trials and find that the results we get each time are not significantly different from the others
 
-****************Validity:**************** No other variables, known or unknown, are impacting the independent or dependent variables (fair tests)
+***************Validity:************** No other variables, known or unknown, are impacting the independent or dependent variables (fair tests)
 
 # Uncertainty/Error
 

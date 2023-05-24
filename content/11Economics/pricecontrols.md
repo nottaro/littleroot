@@ -3,6 +3,8 @@ title: Application of Demand and Supply - Price Controls
 enableToc: true
 ---
 
+[go back](11Subjects/11Economics.md)
+
 ## Price Floor
 
 -   Minimum price (lower price limit) allowed by legislation
