@@ -2,6 +2,9 @@
 title: Market Failure - Externalities
 enableToc: true
 ---
+
+[go back](11Subjects/11Economics.md)
+
 - Occurs when the actions of consumers or producers give rise to *negative* or *positive* side effects on others who are **not part of these actions**,  and whose interests are not taken into consideration
 - People (not involved in the economic transaction) feeling the effects of an externality are often referred to as "third parties"
 - If these side-effects (spillovers) on third parties involve benefits, there arises a **positive externality**, also known as **external benefit**

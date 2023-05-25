@@ -3,7 +3,7 @@ title: Market Efficiency
 enableToc: true
 ---
 
-[Go back](11Subjects/11Economics.md)
+[go back](11Subjects/11Economics.md)
 
 **Consumer Surplus:** Highest price consumers are willing to pay for a good **********minus********** the price actually paid
 
@@ -20,3 +20,5 @@ enableToc: true
 -   **Allocative efficiency achieved when TS is maximised**
 
 Deadweight loss: Area between consumer and producer surplus, and market equilibrium
+- Difference in production and consumption of any given product or service including government tax
+- 

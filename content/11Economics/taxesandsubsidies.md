@@ -5,6 +5,8 @@ enableToc: true
 
 [go back](11Subjects/11Economics.md)
 
+Tax: Money payed to the government by firms
+
 ## Types of Tax
 
 1.  Direct tax

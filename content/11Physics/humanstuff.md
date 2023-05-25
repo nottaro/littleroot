@@ -3,6 +3,8 @@ title: Physics as a Human Endeavor
 enableToc: true
 ---
 
+[go back](11Physics.md)
+
 ## Car Safety
 
 -   Holding the mass of the car and the total change in velocity constant (as when braking you will always be breaking from a set speed), the impulse for the car will be constant as well, because $I=m\Delta v$
