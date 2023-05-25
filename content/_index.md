@@ -40,7 +40,7 @@ I don't claim to have every single bit of information on these subjects, but I h
 These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)'s Quartz, with Github Pages. You can also ask me on Discord for them.
 
 
-> [!info] Yellowstone National Park
+> [!summary] Yellowstone National Park
 > 
 > The entirety of Yellowstone National Park is under the legal jurisdiction of the United States District Court for the District of Wyoming, including a small part of the park that is actually in Idaho. According to US law, the jury for a trial has to come from the state and district in which the crime took place. However, since this small bit of Idaho has no people living in it, and is also part of a separate court district from the rest of the state, hypothetically the court would be unable to assemble a jury and thus unable to convict you. 
 > 
