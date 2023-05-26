@@ -28,4 +28,8 @@ Just some thoughts and articles that I publish
 
 [25-05-2023 Should I stay or should I go](25-05-2023-should-i-stay-or-should-i-go)
 
+[26-05-2023 Nuke orphans](Articles/26-05-2023-nuke-orphans.md)
+
+
+
 
