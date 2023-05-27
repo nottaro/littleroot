@@ -31,7 +31,7 @@ enableToc: true
    ![](11SubjectImages/circleproof4.png)
 5. Angle between a tangent and the radius drawn at the point of contact is a right angle 
    ![](11SubjectImages/circleproof5.png)
-6. Angle between a tangent and chord equal the angle in the alternate segment
+6. Angle between a tangent and chord is equal to the angle in the alternate segment
    ![](11SubjectImages/circleproof6.png)
 7. The 2 tangents drawn from a point to a circle are of equal length
    ![](11SubjectImages/circleproof7.png)
