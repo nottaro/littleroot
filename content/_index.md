@@ -21,6 +21,7 @@ Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side pr
 
 I'm a proud member of [the town](Writings/town.md). ~~I have broken away from the town, along with Edward.~~ I have come back to my senses. We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md). 
 
+![](pengiuin.mp4)
 
 > [!info] This is what is important
 > 
