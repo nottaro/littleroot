@@ -9,6 +9,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 Note: These are notes for a subject that requires you to do practice questions to study. Please remember that just memorising these will not guarantee an understanding of said problems.
 
+## Unit 1
 
 [The Theory of Proof](11Specialist/TheTheoryofProof.md)
 

@@ -6,7 +6,7 @@ title: 26-05-2023 Nuke orphans
 
 A very good Obsidian plugin.
 
-![](Screenshot%202023-05-26%20at%208.03.26%20am.png)
+![](Articles%20images/Screenshot%202023-05-26%20at%208.03.26%20am.png)
 
 What did you think I meant?
 
