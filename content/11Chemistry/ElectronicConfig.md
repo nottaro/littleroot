@@ -3,6 +3,8 @@ title: Electronic Configuration
 enableToc: true
 ---
 
+[go back](11Subjects/11Chemistry.md)
+
 -   Electrons are arranged in energy levels or shells
     
 -   **n** is the principal quantum number or shell number

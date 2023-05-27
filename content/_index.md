@@ -17,7 +17,7 @@ enableToc: false
 > 
 > And Next Door Kyle bellows a response that would echo through time.
 
-Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [Thomas/nottacoz](https://github.com/nottacoz) and [Edward/EddieTheEd](https://github.com/eddietheed) for helping! 
+Heya! I'm [Jonathan](Writings/AboutMe.md)! This is a website I made as a side project! Thanks to [nottacoz](https://github.com/nottacoz) and [EddieTheEd](https://github.com/eddietheed) for helping! 
 
 I'm a proud member of [the town](Writings/town.md). ~~I have broken away from the town, along with Edward.~~ I have come back to my senses. We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md). 
 

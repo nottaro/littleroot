@@ -12,10 +12,11 @@ title: Chromatography
 - **Mobile Phase**: This phase moves.
 	- The more soluble compounds in the mixture are carried faster as the mobile phase moves. 
 	- Either a liquid or a gas
-- Paper Chromatography
-- Thin Layer Chromatography
-- Column Chromatograph
-- Gas Chromatography
+- Paper chromatography
+- Thin Layer chromatography
+- Column chromatograph
+- Gas chromatography
+- High-performance liquid chromatography
 
 ## Paper Chromatography
 - Used to separate mixtures, especially dyes or pigments
@@ -81,7 +82,15 @@ $$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
 - High performance liquid chromatography (HPLC) is a development of column chromatography in which the eluent is pumped through the column at high pressure.
 	- Eluent: In chromatography, a solvent used in order to effect separation by elution.
 - This results in better and faster separation than can be achieved in standard column chromatography.
- 
+
+
+| GC                                                            | HPLC                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Mobile phase changes                                          | Mobile phase is constant                                      |
+| Constant temperature                                          | Increasing temperature                                        |
+| Compounds partition from the mobile phase based on solubility | Compounds partition from the mobile phase based on volatility |
+| Elution is generally time or volume dependent                | Elution is generally temperature dependent                                                              |
+
 ## Column Chromatography (Extension)
 - Mobile phase is passed through (under pressure) the stationary phase
 - Interaction between the MP and SP with the compounds in the mixture enable separation

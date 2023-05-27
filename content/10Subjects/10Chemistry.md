@@ -6,9 +6,12 @@ title: Year 10 Chemistry Notes
 
 [Year 11 Chemistry](11Subjects/11Chemistry.md)
 
-Literally only organic chemistry lmao
+## Organic Chemistry
 
-Also, a bit of enthalpy 
+[Energy](10Chemistry/Energy.md)
 
-[Organic Chemistry](10Chemistry/OrganicChem.md)
+[Crude Oil](10Chemistry/CrudeOil.md)
 
+[Hydrocarbons](10Chemistry/Hydrocarbons.md)
+
+[Definitions](10Chemistry/Definitions.md)

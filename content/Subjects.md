@@ -17,3 +17,4 @@ enableToc: false
 1. [10Physics](10Subjects/10Physics.md)
 2. [10Chemistry](10Subjects/10Chemistry.md)
 3. [10Literature](10Subjects/10Literature.md)
+4. [10Biology](10Subjects/10Biology.md)
