@@ -28,15 +28,15 @@ enableToc: true
 3. Angles in the same segment are equal
    - ![](11SubjectImages/circleproof3.png)
 4. Opposite angles in a cyclic quadrilateral are supplementary
-   ![](11SubjectImages/circleproof4.png)
+   - ![](11SubjectImages/circleproof4.png)
 5. Angle between a tangent and the radius drawn at the point of contact is a right angle 
-   ![](11SubjectImages/circleproof5.png)
-6. Angle between a tangent and chord is equal to the angle in the alternate segment
+  - ![](11SubjectImages/circleproof5.png)
+1. Angle between a tangent and chord is equal to the angle in the alternate segment
    - ![](11SubjectImages/circleproof6.png)
-7. The 2 tangents drawn from a point to a circle are of equal length
+2. The 2 tangents drawn from a point to a circle are of equal length
    - ![](11SubjectImages/circleproof7.png)
-8. The products of the intercepts of 2 intersecting chords are equal
+3. The products of the intercepts of 2 intersecting chords are equal
    - ![](11SubjectImages/circleproof8.png)
-9. The square of the length of the tangent from an external point is equal to the product of the intercepts of the secant passing through this point
+4. The square of the length of the tangent from an external point is equal to the product of the intercepts of the secant passing through this point
    - ![](11SubjectImages/circleproof9.png)
    
