@@ -30,8 +30,6 @@ I'm a proud member of [the town](Writings/town.md). ~~I have broken away from th
 > 
 > [Articles](Articles/Articles.md)
 > 
-> [The Leaky Cauldron](harrypotter/the-leaky-cauldron.md)
-> 
 >[Bunch of Random Pokemon Sprites](poke)
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
