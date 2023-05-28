@@ -14,7 +14,7 @@ enableToc: true
 - Also known as Van Der Waal's forces
 
 ## Dispersion Forces
-- Forces existing between 2 polar molecules
+- Forces existing between 2 polar or non-polar molecules
 - Formed from the electrostatic force of attraction between 2 oppositely charged temporary/induced dipoles
 - Electrons move randomly; thus dipoles are temporary, as their charges is based on these electrons, as their localisation is temporary
 - Molecules with dipoles can polarise other molecules and make them form temporary dipoles - these are called induced dipoles
