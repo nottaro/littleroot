@@ -6,7 +6,7 @@ enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: false
+enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
