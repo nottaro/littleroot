@@ -16,10 +16,21 @@ title: Acids and Bases
 | $H_2 SO_4$ | $M_2 SO_4$ |
 |            |            |
 
-## Theory
-- An acid is a proton donor
--  +A base is a proton acceptor
 
+- An acid is a proton donor
+-  A base is a proton acceptor
+
+### The Role of Water
+- Acid-base reactions occur in aqueous solutions
+- Water can accept or donate protons; it can act as an acid or a base
+$$HCl+H_2 O \rightarrow Cl^- + H_3 O^+$$
+$$H_2O + NH_3 \rightleftharpoons OH^- + NH_4 ^+$$
+- $H_3O^+$ is the hydronium ion
+- Acid-base reactions are proton transfer reactions but the proton $H^+$ is never found on its own
+- It is alwways bonded to water (dative bond) in an aqueous solution
+- I.e. $H^+_{(aq)}$ exists as $H_3O^+_{(aq)}$
+
+## Theories
 ### Humphrey Davy Acid-Base Theory
 - Acids are substances that contain hydrogen
 - Not all acids contain oxygen
