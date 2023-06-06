@@ -70,3 +70,34 @@ p {
   
 </style>
 {{ end }}
+
+{{ if eq .Params.css "bees" }}
+<style>
+:root {
+  --light: yellow;
+  --dark: black;
+  --secondary: #e4bf2c;
+  --tertiary: #adb1c4;
+  --visited: #afbfc9;
+  --primary: #f28482;
+  --gray: #4e4e4e;
+  --lightgray: #f0f0f0;
+  --outlinegray: #dadada;
+  --million-progress-bar-color: var(--secondary);
+  --highlighted: #f5dfaf88;
+}
+
+[saved-theme="dark"] {
+  --light: black  !important;
+  --dark: yellow !important;
+  --secondary: #e4bf2c !important;
+  --visited: #91d8f4 !important;
+  --tertiary: #6272a4 !important;
+  --primary: #f58382 !important;
+  --gray: #d4d4d4 !important;
+  --lightgray: #292633 !important;
+  --outlinegray: #343434 !important;
+  --highlighted: #574010;
+}
+</style>
+{{ end }}

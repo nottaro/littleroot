@@ -42,3 +42,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Market Failure - Market Power](11Economics/MarketPower.md)
 - Not finished
+
+## Unit 2
+
+[The Circular Flow of Income](11Economics/CircularFlowofIncome.md)
