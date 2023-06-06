@@ -1,5 +1,6 @@
 ---
 title: 12-05-2023 Spec problems I could solve that edward couldn't
+css: "among us"
 ---
 
 [go back](Articles/Articles.md)

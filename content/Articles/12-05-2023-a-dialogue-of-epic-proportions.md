@@ -1,5 +1,6 @@
 ---
 title: 12-05-2023 A Dialogue of Epic Proportions
+css: "redd sus"
 ---
 
 [go back](Articles/Articles.md)
