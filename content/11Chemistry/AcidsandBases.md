@@ -14,7 +14,14 @@ title: Acids and Bases
 | $H_2 SO_4$ | $M_2 SO_4$ |
 |            |            |
 
-### Davy Acid-Base Theory
+### Humphrey Davy Acid-Base Theory
 - Acids are substances that contain hydrogen
 - Not all acids contain oxygen
-- **Flaw:** Not all
+- **Flaw:** Not all hydrogen-containing substances are acids
+
+### Svante Arrhenius Acid-Base Theory
+- Acids dissociate in water forming $H^+$ ions as one product
+- Bases dissociate in water forming $OH^-$ ions as one product
+- Neutralisation involves the reaction of $H^+$ and $OH^-$ (an acid and a base) forming a salt in water
+- **Flaws**
+- 
