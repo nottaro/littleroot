@@ -2,7 +2,7 @@
 title: 24-05-2023 Ajay's Table Dilemma
 ---
 
-[go back](Articles/Articles.md)
+[go back](Articles.md)
 
 Paraphrased very slightly.
 

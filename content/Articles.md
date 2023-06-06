@@ -30,5 +30,7 @@ Just some thoughts and articles that I publish
 
 [26-05-2023 Nuke orphans](Articles/26-05-2023-nuke-orphans.md)
 
+[06-06-2023 Jacaranda Test](06-06-2023-jacaranda-test)
+
 Sometimes this doesn't sync ;-; 
 
