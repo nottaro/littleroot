@@ -1,6 +1,7 @@
 ---
 title: Notes Dump
 enableToc: false
+css: everforest
 ---
 
 > [!important]- And Next Door Kyle bellows a response that would echo through time.
