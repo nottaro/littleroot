@@ -1,5 +1,7 @@
 ---
 title: Articles
+enableToc: false
+css: everforest
 ---
 
 In a DD-MM-YYYY format.

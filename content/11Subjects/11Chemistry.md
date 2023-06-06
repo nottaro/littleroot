@@ -54,4 +54,10 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Chromatography](11Chemistry/Chromatography.md)
 
+## Unit 2
+
+### Term 2.5
+
+[Acids and Bases](11Chemistry/AcidsandBases.md)
+
 More to come!
