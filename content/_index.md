@@ -31,7 +31,7 @@ why is this not syncing
 > 
 > [Writings](Writings/Writings.md)
 > 
-> [Articles](Articles.md)
+> [Articles](Articles/Articles.md)
 > 
 >[Bunch of Random Pokemon Sprites](poke)
 

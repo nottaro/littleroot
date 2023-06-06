@@ -2,7 +2,7 @@
 title: 26-05-2023 Nuke orphans
 ---
 
-[go back](Articles.md)
+[go back](Articles/Articles.md)
 
 A very good Obsidian plugin.
 

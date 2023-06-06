@@ -2,7 +2,7 @@
 title: 17-05-2023 Some thoughts on life
 ---
 
-[go back](Articles.md)
+[go back](Articles/Articles.md)
 
 I'm high on anger and no sleep.
 
