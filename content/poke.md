@@ -1,6 +1,7 @@
 ---
 title: Pokemon Sprites from Gen 1-8
 enableToc: true
+css: everforest
 ---
 "My question is why? Why have you done this? For what purpose?" - Nyasha Ncube
 
