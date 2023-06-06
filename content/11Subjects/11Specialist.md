@@ -1,6 +1,7 @@
 ---
 title: Year 11 Specialist Notes
 enableToc: false
+css: jacaranda
 ---
 
 [go back](Subjects.md)

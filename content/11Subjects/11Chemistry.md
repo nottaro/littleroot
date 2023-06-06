@@ -1,6 +1,7 @@
 ---
 title: Year 11 Chemistry Notes
 enableToc: false
+css: littleroot
 ---
 
 [go back](Subjects.md)
@@ -56,7 +57,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Unit 2
 
-### Term 2.5
+### Term 2.5: Acids and Bases
 
 [Acids and Bases](11Chemistry/AcidsandBases.md)
 
