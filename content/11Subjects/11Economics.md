@@ -7,7 +7,9 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-## Unit 1
+My year 11 economics teacher is really bad...
+
+## Unit 1: Microeconomics
 
 > [!summary] Year 11 Content
 > 
@@ -43,6 +45,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Market Failure - Market Power](11Economics/MarketPower.md)
 - Not finished
 
-## Unit 2
+## Unit 2: Macroeconomics
 
 [The Circular Flow of Income](11Economics/CircularFlowofIncome.md)
+
+[Economic Growth](11Economics/EconomicGrowth.md)
+- Not finished

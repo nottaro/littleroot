@@ -61,4 +61,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Acids and Bases](11Chemistry/AcidsandBases.md)
 
+[pH Calculations](11Chemistry/pHCalculations.md)
+
 More to come!

@@ -13,3 +13,7 @@ css: bees
 	- The financial sector
 	- Government
 	- Overseas (foreign) sector
+- Shows that in any given time period, the value of output produced in an economy is equal to the total income generated in producing that output, which is equal to the expenditures made to purchase that output
+- $S+T+M=I+G+X$
+![](11SubjectImages/Five_Sector_Circular_Flow_of_Income_Model.jpg)
+
