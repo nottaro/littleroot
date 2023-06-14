@@ -1,4 +1,4 @@
-# Notes Dump
+# 🌱 Littleroot
 
 
 Hi! I'm Jonathan! This is a website I made as a side project! Thanks to [Thomas Han](https://github.com/nottacoz) and [Edward Huynh](https://github.com/EddieTheEd) for helping! 
