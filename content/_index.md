@@ -1,6 +1,5 @@
 ---
 title: Littleroot
-enableToc: false
 css: everforest
 ---
 
