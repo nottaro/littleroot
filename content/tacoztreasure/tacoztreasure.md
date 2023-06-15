@@ -3,4 +3,6 @@
 title: The Tacoz Treasures
 ---
 
-<iframe src="https://nottaro.github.io/littleroot/tacoztreasure/penguin.mp4" width="1000" height="630"></iframe>
+
+
+<video width="1000" height="630" controls> <source src="https://nottaro.github.io/littleroot/tacoztreasure/penguin.mp4" ></video>
