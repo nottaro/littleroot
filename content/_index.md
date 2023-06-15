@@ -27,7 +27,7 @@ why is this not syncing
 > 
 > [Subjects](Subjects.md)
 > 
-> [The tacoz treasure](tacoztreasure/tacoztreasure.md)
+> [The tacoz treasure](tacoztreasure.md)
 > 
 > [Writings](Writings/Writings.md)
 > 
