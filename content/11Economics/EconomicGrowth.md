@@ -1,6 +1,7 @@
 ---
 title: Economic Growth
 enableToc: true
+css: bees
 ---
 
 [go back](11Subjects/11Economics.md)
@@ -41,3 +42,20 @@ enableToc: true
 	- Any change in nominal GDP
 
 - Real GDP growth rate = Nominal GDP growth rate - Inflation rate
+
+## Determinants of Growth
+
+### Technology
+- Investment in new technology
+
+### Labour Force
+
+### Resources run out
+
+### Failure to Invest
+
+### Erosion of Infrastructure
+
+### Natural Disaster
+
+### Investment and Economic Growth

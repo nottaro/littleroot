@@ -98,4 +98,35 @@ $$Metal\ hydrogencarbonate + acid_{(aq)} \rightarrow salt +$$
 
 
 ## Acids
+- Substances that:
+	- Have a pH below 7 and turn universal indicator yellow, orange, or red
+	- Turn litmus red
+	- Form solutions containing hydrogen ions ($H^+$)
+- Hydrochloric acid ($HCl$) is a strong acid
+- Ethanoic acid/vinegar ($CH_3 COOH$) is a weak acid
+- Acids can be defined as substances that ionise to release $H^+$ ions when they dissolve in water
+- Since acids release $H^+$ ions (protons), we call them $H^+$/proton donors
 
+### What are $H^+$ ions?
+- Hydrogen atoms contain one proton and one electron
+- A $H^+$ ion is a hydrogen atom that has lost its single electron. This leaves a lone, positively charged proton
+- Because acids donate protons, they are sometimes called proton donors.
+- When dissolved in water, the $H^+$ ion is hydrated. 
+- This is represented in formulae by adding a state symbol, $H^+_{(aq)}$. 
+- This is shorthand for the hydronium ion, $H_3O^+ _{(aq)}$
+
+## Alkalis/Bases
+- Substances that:
+	- Have a pH above 7 and turn universal indicator blue or purple
+	- Turn litmus blue
+	- Can neutralise acids
+	-  Form solutions containing hydroxide ions ($OH^-$)
+	- Sodium hydroxide is a strong alkali.
+	- Ammonia is a weak alkali
+		- When ammonia is dissolved in water, it forms ammonium hydroxide, ($NH_4OH$), a fertiliser.
+- Bases are substances that react with acids.
+- They absorb hydrogen ions ($H^+$). Bases are therefore $H^+$ acceptors, or proton acceptors.
+- The oxides, hydroxides and carbonates of metals, such as sodium carbonate, are bases.
+- Some bases are soluble in water: these bases are called alkalis.
+- Alkalis release hydroxide ions ($OH^–$) in solution.
+- All alkalis are bases, but not all bases are alkalis.

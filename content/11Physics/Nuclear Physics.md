@@ -18,7 +18,10 @@ enableToc: true
 - All elements up to lead, have at least 1 non-radioactive isotope, except for Te and Pm
 - All elements after uranium are not known in nature
 
-## Transmutaations
+## Nuclear Decay
+- Unstable nucleus emits radiation and is transformed into the nucleus of one or more other element
+
+## Transmutations
 - Change in chemical of an atom
 - Completely random, spontaneous process
 
@@ -27,4 +30,8 @@ enableToc: true
 - The time it takes for $1/2$ of a sample of a given radionuclide to undergo decay
 - Ways of measuring
 	- Number of nuclides (nuclides/time)
-	- Mass of radioisotopes 
+	- Mass of radioisotopes
+
+$$N_1=N_0 \times (\frac{1}{2})^x$$
+- where x is the number of half lives it has undergone, and $N_1$ and $N_0$ are the final and original amounts of the substance, respectively
+

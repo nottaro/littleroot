@@ -22,4 +22,6 @@ Note: These are notes for a subject that requires you to do practice questions t
 
 [Geometric Proofs](11Specialist/GeometricProofs.md)
 
+[Matrices](11Specialist/Matrices.md)
+
 More to come!
