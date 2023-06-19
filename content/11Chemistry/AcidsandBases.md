@@ -129,4 +129,4 @@ $$Metal\ hydrogencarbonate + acid_{(aq)} \rightarrow salt +$$
 - The oxides, hydroxides and carbonates of metals, such as sodium carbonate, are bases.
 - Some bases are soluble in water: these bases are called alkalis.
 - Alkalis release hydroxide ions ($OH^–$) in solution.
-- All alkalis are bases, but not all bases are alkalis.
+- All alkalis are bases, but not all bases are alkalis.ll

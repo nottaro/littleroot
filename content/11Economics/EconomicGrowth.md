@@ -1,7 +1,7 @@
 ---
 title: Economic Growth
 enableToc: true
-css: bees
+css: among us
 ---
 
 [go back](11Subjects/11Economics.md)
