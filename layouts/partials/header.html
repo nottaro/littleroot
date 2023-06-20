@@ -1,6 +1,7 @@
 <header>
     {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
     <h1 id="page-title"><a class="root-title" href="{{ "" | absLangURL }}">{{ ( index $.Site.Data $config ).page_title | default $.Site.Data.config.page_title }}</a></h1>
+    <a href="https://nottaro.github.io/littleroot/%22%3E <img src="https://nottaro.github.io/littleroot/icon.png" style="width:80px;height:80px"></a>
     <div class="spacer"></div>
     <div id="search-icon">
       <p>{{ i18n "search" }}</p>
