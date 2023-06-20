@@ -129,4 +129,20 @@ $$Metal\ hydrogencarbonate + acid_{(aq)} \rightarrow salt +$$
 - The oxides, hydroxides and carbonates of metals, such as sodium carbonate, are bases.
 - Some bases are soluble in water: these bases are called alkalis.
 - Alkalis release hydroxide ions ($OH^–$) in solution.
-- All alkalis are bases, but not all bases are alkalis.ll
+- All alkalis are bases, but not all bases are alkalis.
+
+
+## What is pH?
+- The acidity of an aqueous solutoin depends on the number of $H^+ \ (H_3O^+)$ ions in solution
+- The pH is defined as: $-log_{10}[H^+]$ 
+	- Where $[H^+]$ is the concentration of $H^+$ in $mol \ L^-$ 
+- The pH scale is a logarithmic scale with base 10
+- This means that each value is 10 times the value below it
+	- E.g., pH 5 is 10 times more than pH 6
+- pH values are usually given to 2 decimal places
+- The pH of an acid depends on both its strength and concentration
+- A strong acid has a low pH (usually 0 or 1)
+	- This means that the concentration of $H^+$ is high, as the acid is fully dissociated into its ions
+- A weak acid has a higher pH (but still less than 7)
+	- This means that the concentration of $H^+$ is lower than for a strong acid, as the acid is not fully dissociated into its ions
+	- 
