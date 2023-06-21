@@ -69,7 +69,7 @@ Source: trust me bro
 
 > [!quote] A quote of all time
 > 
-> "I'm short" - Ajay Bisnath
+> "I'm yiiking out" - Obama
 
 
 
