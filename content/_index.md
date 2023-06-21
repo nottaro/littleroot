@@ -67,6 +67,9 @@ Source: trust me bro
 
 ~~Why do these notes take so long to sync.~~ It's because I added colons to my titles. Obsidian is racist.
 
+> [!quote] A quote of all time
+> 
+> "I'm short" - Ajay Bisnath
 
 
 
