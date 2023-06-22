@@ -17,5 +17,5 @@ css: bees
 - $S+T+M=I+G+X$
 ![](11SubjectImages/Five_Sector_Circular_Flow_of_Income_Model.jpg)
 
-- Injctions: inflows of money into the circular flow of income
+- Injections: inflows of money into the circular flow of income
 - Withdrawals: Outflows of money out of the circular flow of income
