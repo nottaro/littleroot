@@ -33,15 +33,15 @@ title: Nuclear Physics as a Human Endeavour
 ### **Nuclear Power Station Components**
 -   Fuel rods: long, thin rods containing pellets of enriched uranium
 -   Moderator: material that slows down neutrons
--   Graphite, water, heavy water, carbon dioxide
--   Heavy water is the best but is too expensive
--   Water with dueterium, (Hydrogen-2) an isotope of hydrogen
--   Graphite and carbon dioxide contain carbon which is denser than hydrogen
--   Ensures that neutron capture occurs
--   When the neutrons collide with small nuclei, they lose most of their kinetic energy
+	-   Graphite, water, heavy water, carbon dioxide
+	-   Heavy water is the best but is too expensive
+	-   Water with dueterium, (Hydrogen-2) an isotope of hydrogen
+	-   Graphite and carbon dioxide contain carbon which is denser than hydrogen
+	-   Ensures that neutron capture occurs
+	-   When the neutrons collide with small nuclei, they lose most of their kinetic energy
 -   Control rods: material that absorbs neutrons
--   Boron steel or cadmium
--   Ensures energy release is controlled and stable, due to them controlling the amount of neutrons for fission
+	-   Boron steel or cadmium
+	-   Ensures energy release is controlled and stable, due to them controlling the amount of neutrons for fission
 -   Coolant: liquid to absorb heat energy that has been produced by nuclear fission, goes to cooling tower to cool down
 	-   e.g. water
 -   Radiation shield: thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor![](11SubjectImages/Screen%20Shot%202022-09-27%20at%208.00.46%20pm.png)
