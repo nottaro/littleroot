@@ -34,5 +34,7 @@ Just some thoughts and articles that I publish
 
 [06-06-2023 Jacaranda Test](06-06-2023-jacaranda-test)
 
+[28-06-2023 I'm free](28-06-2023-im-free)
+
 Sometimes this doesn't sync ;-; 
 
