@@ -31,9 +31,9 @@ why is this not syncing
 > 
 > [The tacoz treasure](tacoztreasure.md)
 > 
-> [Writings](Writings/Writings.md)
+>[Articles](Articles.md)
 > 
-> [Articles](Articles.md)
+> [Writings](Writings/Writings.md)
 > 
 >[Bunch of Random Pokemon Sprites](poke)
 

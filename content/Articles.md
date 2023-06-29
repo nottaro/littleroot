@@ -36,5 +36,7 @@ Just some thoughts and articles that I publish
 
 [28-06-2023 I'm free](28-06-2023-im-free)
 
+[29-06-2023 Nearly over](29-06-2023-nearly-over)
+
 Sometimes this doesn't sync ;-; 
 
