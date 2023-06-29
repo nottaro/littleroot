@@ -1,5 +1,5 @@
 ---
-title: Pokemon Sprites from Gen 1-8
+title: The Bulbapedia
 enableToc: true
 css: everforest
 ---

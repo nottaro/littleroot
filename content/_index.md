@@ -35,7 +35,7 @@ why is this not syncing
 > 
 > [Writings](Writings/Writings.md)
 > 
->[Bunch of Random Pokemon Sprites](poke)
+>[The Bulbapedia](Bulbapedia.md)
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
 - Update 5/4/2023: I've finished my Spec notes
