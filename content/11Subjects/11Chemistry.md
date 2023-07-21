@@ -63,4 +63,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [pH Calculations](11Chemistry/pHCalculations.md)
 
+[Stoichiometry](11Chemsitry/)
+
 More to come!
