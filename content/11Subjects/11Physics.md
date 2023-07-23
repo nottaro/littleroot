@@ -43,4 +43,10 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Nuclear Decay](11Physics/Nuclear%20Physics.md)
 
+[Half Life](11Physics/HalfLife)
+
+### Electricity
+
+[Static Electricity](11Physics/StaticElectricity.md)
+
 More to come!
