@@ -2,7 +2,7 @@
 title: A few books I would recommend reading
 ---
 
-[go back](articles.md)
+[go back](Articles.md)
 
 not including manga, I'll highlight those later
 

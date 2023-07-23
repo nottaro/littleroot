@@ -65,4 +65,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Stoichiometry](11Chemsitry/)
 
+### Misc
+
+[Potable Water]
+
 More to come!

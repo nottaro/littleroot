@@ -2,7 +2,7 @@
 title: 14-05-2023 A funny conversation I found
 ---
 
-[go back](articles.md)
+[go back](Articles.md)
 
 replacing it with people in the town because it was funny
 
