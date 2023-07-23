@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Art-icles
 enableToc: false
 css: everforest
 ---

@@ -14,4 +14,7 @@ title: Potable Water
 	- 0.6% of this is available of fresh water in rivers, lakes, swamps or groundwater
 - Most water is not suitable for consumption
 	- Contains dissolved salts that would dehydrate us
-	- Contains dissolved substances
+	- Contains dissolved substances substances, e.g. organic compounds, heavy metals, which may be toxic to our organs or carcenogenic
+- Freshwater supplies may not be potable
+	- May contain suspended matter
+		- E.g. clay particles, pathogens/micro-organisms that cause diseases like cholera or dystintry
