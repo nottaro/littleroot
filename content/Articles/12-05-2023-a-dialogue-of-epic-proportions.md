@@ -2,7 +2,7 @@
 title: 12-05-2023 A Dialogue of Epic Proportions
 ---
 
-[go back](Articles.md)
+[go back](articles.md)
 
 yes, all (mis)spellings are intentional.
 

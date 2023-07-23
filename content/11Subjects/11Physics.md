@@ -45,6 +45,12 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Half Life](11Physics/HalfLife)
 
+[Fission and Fusion](11Physics/Fission&Fusion.md)
+
+[Mass Defect](11Physics/MassDefect.md)
+
+[Dosimetry](11Physics/Dosimetry)
+
 ### Electricity
 
 [Static Electricity](11Physics/StaticElectricity.md)

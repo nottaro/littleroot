@@ -2,7 +2,7 @@
 title: 25-05-2023 Should I stay or should I go
 ---
 
-[go back](Articles.md)
+[go back](articles.md)
 
 ~~Like the hit song "Should I Stay or Should I Go" by The Clash?~~
 
