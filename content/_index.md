@@ -31,7 +31,7 @@ why is this not syncing
 > 
 > [The tacoz treasure](tacoztreasure.md)
 > 
->[Art-icles](Art-icles.md)
+>[Articles](Articles.md)
 > 
 > [Writings](Writings/Writings.md)
 > 

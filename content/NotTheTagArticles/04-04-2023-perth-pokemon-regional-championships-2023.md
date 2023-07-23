@@ -2,7 +2,7 @@
 title: 04-04-2023 Perth Pokémon Regional Championships 2023
 enableToc: true
 ---
-[go back](Art-icles.md)
+[go back](Articles.md)
 
 Written on 3rd-4th April 2023.
 
