@@ -12,7 +12,7 @@ Just some thoughts and articles that I publish
 
 [04-04-2023 Perth Pokémon Regional Championships 2023](Articles/04-04-2023-perth-pokemon-regional-championships-2023.md)
 
-[07-05-2023 Ranting](07-05-2023-Ranting.md)
+[07-05-2023 Ranting](Articles/07-05-2023-Ranting.md)
 
 [12-05-2023 A Dialogue of Epic Proportions](Articles/12-05-2023-a-dialogue-of-epic-proportions.md)
 
@@ -20,23 +20,23 @@ Just some thoughts and articles that I publish
 
 [13-05-2023 A bill of town](Articles/13-05-2023-a-bill-of-town.md)
 
-[14-05-2023 A funny conversation I found](14-05-2023-a-funny-conversation-i-found)
+[14-05-2023 A funny conversation I found](Articles/14-05-2023-a-funny-conversation-i-found)
 
 [16-05-2023 A few books I recommend reading](Articles/16-05-2023-a-few-books-i-recommend-reading.md)
 
-[17-05-2023 Some thoughts on life](17-05-2023-some-thoughts-on-life)
+[17-05-2023 Some thoughts on life](Articles/17-05-2023-some-thoughts-on-life)
 
-[24-05-2023 Ajay's table dilemma](24-05-2023-ajays-table-dilemma)
+[24-05-2023 Ajay's table dilemma](Articles/24-05-2023-ajays-table-dilemma)
 
-[25-05-2023 Should I stay or should I go](25-05-2023-should-i-stay-or-should-i-go)
+[25-05-2023 Should I stay or should I go](Articles/25-05-2023-should-i-stay-or-should-i-go)
 
 [26-05-2023 Nuke orphans](Articles/26-05-2023-nuke-orphans.md)
 
-[06-06-2023 Jacaranda Test](06-06-2023-jacaranda-test)
+[06-06-2023 Jacaranda Test](Articles/06-06-2023-jacaranda-test)
 
-[28-06-2023 I'm free](28-06-2023-im-free)
+[28-06-2023 I'm free](Articles/28-06-2023-im-free)
 
-[29-06-2023 Nearly over](29-06-2023-nearly-over)
+
 
 Sometimes this doesn't sync ;-; 
 
