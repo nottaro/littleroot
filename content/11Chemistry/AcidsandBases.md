@@ -145,4 +145,10 @@ $$Metal\ hydrogencarbonate + acid_{(aq)} \rightarrow salt +$$
 	- This means that the concentration of $H^+$ is high, as the acid is fully dissociated into its ions
 - A weak acid has a higher pH (but still less than 7)
 	- This means that the concentration of $H^+$ is lower than for a strong acid, as the acid is not fully dissociated into its ions
-	- 
+
+### Concentrated vs Diluted
+- Strong and concentrated do not mean the same thing.
+- Strong – high proportion of substance forms ions in solution.
+- Weak – low proportion of substance forms ions in solution.
+- Concentrated – lots of solute per volume of solution.
+- Dilute – less solute per volume of solution.

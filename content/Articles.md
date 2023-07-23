@@ -37,6 +37,5 @@ Just some thoughts and articles that I publish
 [28-06-2023 I'm free](Articles/28-06-2023-im-free)
 
 
-
 Sometimes this doesn't sync ;-; 
 

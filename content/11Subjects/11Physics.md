@@ -51,6 +51,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Dosimetry](11Physics/Dosimetry)
 
+[All the "real life uses" stuff](11Physics/nuclearphysicsinreallife.md)
+
 ### Electricity
 
 [Static Electricity](11Physics/StaticElectricity.md)
