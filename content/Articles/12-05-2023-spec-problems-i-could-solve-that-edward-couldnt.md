@@ -3,7 +3,7 @@ title: 12-05-2023 Spec problems I could solve that edward couldn't
 
 ---
 
-[go back](Articles.md)
+[go back](Art-icles.md)
 
 ## Proof by Counterexample
 

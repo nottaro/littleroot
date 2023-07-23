@@ -3,7 +3,7 @@ title: 31-03-2023 The Fred Tendency Hypothesis (FTH)
 enableToc: false
 ---
 
-[go back](Articles.md)
+[go back](Art-icles.md)
 
 ## Authors
 
