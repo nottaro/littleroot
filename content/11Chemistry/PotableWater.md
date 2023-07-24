@@ -34,4 +34,10 @@ title: Potable Water
 - Depending on the source of water, there are different ways of treating it
 - The traditional source of water in WA is freshwater from rivers and dams
 	- Usually require only disinfection and fluoridation
-- Due to increased demand and weather changes, groundwater is more significant, and recently, drinking water 
+- Due to increased demand and weather changes, groundwater is more significant, and recently, drinking water has even been taken from the Indian Ocean
+- Water quality is essential due to its uses as drinking water, in agriculture and more 
+	- This means we need to find ways to maintain the quality of water we access 
+- We need to purify our water so it is considered potable which can be done using various methods 
+- For this topic it is good to have an understanding of concentration
+
+## Contamination

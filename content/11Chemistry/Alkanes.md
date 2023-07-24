@@ -29,3 +29,4 @@ title: Alkanes
 - Incomplete combustion: there is a limited supply of $O_2$
 	- $O_2+x \rightarrow CO+H_2O+energy$
 	- $O_2+x \rightarrow C+H_2O+energy$
+
