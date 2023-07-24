@@ -65,6 +65,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Stoichiometry](11Chemsitry/)
 
+### Term 3
+[Alkanes](11Chemistry/Alkanes.md)
+
 ### Misc
 
 [Potable Water](11Chemistry/PotableWater.md)
