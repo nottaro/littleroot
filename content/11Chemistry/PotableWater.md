@@ -2,6 +2,8 @@
 title: Potable Water
 ---
 
+[go back](11Subjects/11Chemistry)
+
 - On average, water makes up approx. 55-78% of a person's body mass
 	- Differs with sex, age, body weight, etc
 - Essential for our body
@@ -12,9 +14,24 @@ title: Potable Water
 	- 2.7% is fresh water
 		- 68% of this is tied up in the polar ice caps and glaciers
 	- 0.6% of this is available of fresh water in rivers, lakes, swamps or groundwater
+		- Thus, only 1.62% of the world's water is available as an accessible source
 - Most water is not suitable for consumption
 	- Contains dissolved salts that would dehydrate us
 	- Contains dissolved substances substances, e.g. organic compounds, heavy metals, which may be toxic to our organs or carcenogenic
 - Freshwater supplies may not be potable
 	- May contain suspended matter
-		- E.g. clay particles, pathogens/micro-organisms that cause diseases like cholera or dystintry
+		- E.g. clay particles, pathogens/micro-organisms that cause diseases like cholera or dysentery
+
+## Potable Water
+
+- Potable water: water that is safe to cook/drink
+	- Should be:
+		- Colourless
+		- Odourless
+		- Contain no pathogens or toxic substances
+		- Pleasant to taste ~~(how? water doesn't have a taste)~~
+- Total Dissolved Solids(TDS) should not exceed 600 mg per L, as per the National Health and Medical Research Council (NHMRC)
+- Depending on the source of water, there are different ways of treating it
+- The traditional source of water in WA is freshwater from rivers and dams
+	- Usually require only disinfection and fluoridation
+- Due to increased demand and weather changes, groundwater is more significant, and recently, drinking water 

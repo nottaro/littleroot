@@ -68,5 +68,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 ### Misc
 
 [Potable Water](11Chemistry/PotableWater.md)
+- Not done
+
 
 More to come!
