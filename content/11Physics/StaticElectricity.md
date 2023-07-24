@@ -28,3 +28,13 @@ css: littleroot
 6. Minimum of 4 lines recommended (not **required**)
 7. Direction of field lines are determined by hypothetical test charge
 8. Field lines cannot touch or cross (segregation L)
+
+## Charge
+- Electrical charge can be transferred (the physical transfer of charge)
+- Usually by physical transfer of electrons
+	- Comes about as the result of friction
+- Referred to as charging by conduction
+- This is due to different substances having different electron affinity 
+	- Triboelectric series shows the continuum of electron affinities of different substances
+### Charging by Induction
+- Occurs when $e^-$ are unevenly distributed throughout the structure of an electrically neutral species

@@ -47,3 +47,31 @@ aw+by & ax+bz \\
 cw+dy & cx+dz  
 \end{bmatrix}$$
 
+## The Identity Matrix
+- Basically the matrix equivalent of 1
+- Any matrix times this is equal to the same matrix
+- A matrix where everything is 0, but the main leading diagonal is "1"s
+$$I=\begin{bmatrix}
+
+1 & 0 \\
+0 & 1
+
+\end{bmatrix}
+$$
+
+## The Inverse Matrix
+- The determinant of a matrix 
+  $$X=\begin{bmatrix}  
+a & b \\  
+c & d   
+\end{bmatrix}$$
+- is as such: $\Delta = ad-bc$
+
+-  The inverse of a matrix $X$ is:
+$$X^{-1} = \frac{1}{ad-bc} \begin{bmatrix}  
+d & -b \\  
+-c & a   
+\end{bmatrix}
+$$
+- $XX^{-1}$ is equal to the identity matrix $I$
+
