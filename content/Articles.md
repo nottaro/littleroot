@@ -38,7 +38,7 @@ Just some thoughts and articles that I publish
 
 [28-06-2023 I'm free](NotTheTagArticles/28-06-2023-im-free.md)
 
-[24-07-2023 Taco Cat Goat Cheese Pizza](24-07-2023-taco-cat-goat-cheese-pizza)
+[24-07-2023 Taco Cat Goat Cheese Pizza](NotTheTagArticles/24-07-2023-taco-cat-goat-cheese-pizza.md)
 
 
 Sometimes this doesn't sync ;-; 
