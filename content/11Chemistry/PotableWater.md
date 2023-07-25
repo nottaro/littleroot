@@ -41,3 +41,19 @@ title: Potable Water
 - For this topic it is good to have an understanding of concentration
 
 ## Contamination
+- Water is a very effective solvent
+-  As a highly polar molecule, water is great at dissolving polar molecule substances and many ionic substances
+- Water can form a range of intermolecular forces to stabilise a solution
+	- Dipole-dipole forces with polar molecules
+	- Hydrogen bonds with hydrogen bonding polar molecules
+	- Ion-dipole forces with ions from ionic compounds
+- This can be a problem as water can be easily contaminated 
+- Both chemical and biological substances can contaminate water
+
+> [!info] Chemical Contaminants
+> 
+> - Chemical contaminants are the elements or compounds that can cause harm if consumed
+> - The main types of chemical contaminants are:
+> 	- Heavy metals
+> 	- Pollutants and fertiliser
+> 	- Organic pollutants 
