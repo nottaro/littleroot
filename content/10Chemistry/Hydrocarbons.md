@@ -204,9 +204,9 @@ title: Hydrocarbons
 -   Used to identify stereoisomers that cannot be called cis or trans
 -   Isomers are identified as either E or Z depending on what “priority” is given to the groups attached to the carbon atoms in the double bond
 -   Priority of these groups is determined by a series of complex rules
--   **E** represents the German word “entgegen” and corresponds to trans isomers
+-   **E** represents the German word “entgegen”(opposite) and corresponds to trans isomers
 -   The highest priority groups are on the opposite side of the double bond
--   **Z** represents the German word “zusammen” and corresponds to cis isomers
+-   **Z** represents the German word “zusammen”(together) and corresponds to cis isomers
 -   The highest priority groups are on the same side of the double bond
 
 ### **Optical isomerism**

@@ -65,8 +65,12 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Stoichiometry](11Chemsitry/)
 
-### Term 3
+### Term 3: Organic Chemistry
+
 [Alkanes](11Chemistry/Alkanes.md)
+
+[Alkenes](11Chemistry/Alkenes.md)
+
 
 ### Misc
 

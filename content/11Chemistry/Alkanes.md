@@ -7,6 +7,7 @@ title: Alkanes
 ## Hydrocarbons
 - Organic Molecule: any molecule that contains carbon
 - Hydrocarbon: molecule containing only hydrogen and carbon
+- Saturated Hydrocarbon: hydrocarbon where there exist only single bonds between carbon atoms
 
 ## Alkanes
 - Hydrocarbon with all single bonds

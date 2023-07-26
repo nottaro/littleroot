@@ -51,3 +51,5 @@ My year 11 economics teacher is really bad...
 
 [Economic Growth](11Economics/EconomicGrowth.md)
 - Not finished
+
+[Inflation]
