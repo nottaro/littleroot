@@ -16,3 +16,17 @@ title: Alkenes
 #### Criteria
 - Double Bond between carbons (C=C)
 - 2 different groups attached
+
+## Chemical Properties
+### Addition reactions
+1. Hydrogenation (*$+H_2$)
+	1. Saturation
+	2. Alkene + $H_2$ $\rightarrow$ alkane
+2. Halogenation ($+Cl_2 / Br_2/I_2$)
+	1. Alkene + halogen $\rightarrow$ alkane with new functional group
+	2. Test for alkene double bond
+	3. $Br_{2(aq)}$ is bromine water, orange solution
+		1. Colourless gas bubbled through orange solution, orange solution decolourises
+3. Reaction with hydrogen halide (HCl, HBr, HI)
+	1. Alkene + hydrogen halide $\rightarrow$ alkane
+4. 

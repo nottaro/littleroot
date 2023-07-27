@@ -38,3 +38,27 @@ css: littleroot
 	- Triboelectric series shows the continuum of electron affinities of different substances
 ### Charging by Induction
 - Occurs when $e^-$ are unevenly distributed throughout the structure of an electrically neutral species
+
+## Coulomb's Law
+$$F_e=k \times \frac{q_1 q_2}{r^2}$$
+- where $F_e$ is the electric force (N)
+- q = electric charge (C)
+- r = distance between the 2 charges (m)
+- k = constant of proportionality $N \ m^2 \  C^{-2}$, = $9.00 \times 10^9$
+- If it's a negative number, it's an attractive force
+- If it's a positive number, it's a repulsive force
+
+$$F_g = \frac{Gm_1 m_2}{r^2}$$
+# Practise Problems
+
+> [!example]+ If 2 charges of +13.8 TC and -16.4 kC are situated $53.0 \times 10^{10}$ metres apart, what force is acting between them? Click for answer
+> 
+> An attractive force of $7.25 \times 10^3$ Newtons
+
+> [!example]+ If 2 charges (in a vacuum) have charges of 7.41 $\micro C$ and 8.90 $\micro C$ and experience a repulsive force of 13.2 N, how far apart are they? Click for answer
+> 
+> 0.212 metres apart
+
+> [!example]+ 2 charges of equal magnitude but opposite charges are 3.47 m apart and experience a force of 17.6 N. What are the charges of the 2 particles? Click for answer
+> 
+> $±1.53 \times 10^{-4}$ C
