@@ -9,6 +9,8 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
+## Semester 1
+
 [How to Study for Literature](11Literature/Study.md)
 
 [Narrative Features and Language Conventions](11Literature/Conventions.md)
@@ -26,5 +28,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Exam Information](11Literature/ExamInformation.md)
 
 [Quotes For Exam](11Literature/ExamQuotesSem1.md)
+
+## Semester 2
+
+[Samuel Wagan Watsan](11Literature/SamWaganWatson.md)
 
 More to come!

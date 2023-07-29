@@ -1,4 +1,4 @@
----
+x---
 title: Alkenes
 ---
 
@@ -28,5 +28,7 @@ title: Alkenes
 	3. $Br_{2(aq)}$ is bromine water, orange solution
 		1. Colourless gas bubbled through orange solution, orange solution decolourises
 3. Reaction with hydrogen halide (HCl, HBr, HI)
-	1. Alkene + hydrogen halide $\rightarrow$ alkane
-4. 
+	1. Alkene + hydrogen halide $\rightarrow$ halo-alkane
+4. Hydration ($+H_2O$)
+	1. Alkene + water $\rightarrow$ some sort of alcohol
+	2. BRAZILLLLLLLLL (pilling reference, you wouldn't get it)

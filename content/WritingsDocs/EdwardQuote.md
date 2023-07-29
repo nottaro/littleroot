@@ -3,7 +3,7 @@ title: Random Quotes from Edward
 enableToc: false
 ---
 
-[go back](Writings/Writings.md)
+[go back](WritingsDocs/Writings.md)
 
 "For man is not truly one but truly two" - writing his essay on Jekyll and Hyde
 

@@ -16,7 +16,7 @@ Just some thoughts and articles that I publish
 
 [07-05-2023 Ranting](NotTheTagArticles/07-05-2023-Ranting.md)
 
-[12-05-2023 A Dialogue of Epic Proportions](NotTheTagArticles/12-05-2023-a-dialogue-of-epic-proportions.md)
+[12-05-2023 A dialogue of epic proportions](NotTheTagArticles/12-05-2023-a-dialogue-of-epic-proportions.md)
 
 [12-05-2023 Spec problems that I could solve but Edward couldn't](NotTheTagArticles/12-05-2023-spec-problems-i-could-solve-that-edward-couldnt.md)
 
@@ -34,11 +34,16 @@ Just some thoughts and articles that I publish
 
 [26-05-2023 Nuke orphans](NotTheTagArticles/26-05-2023-nuke-orphans.md)
 
-[06-06-2023 Jacaranda Test](NotTheTagArticles/06-06-2023-jacaranda-test.md)
+[06-06-2023 Jacaranda test](NotTheTagArticles/06-06-2023-jacaranda-test.md)
 
 [28-06-2023 I'm free](NotTheTagArticles/28-06-2023-im-free.md)
 
 [24-07-2023 Taco Cat Goat Cheese Pizza](NotTheTagArticles/24-07-2023-taco-cat-goat-cheese-pizza.md)
+
+[29-07-2023 Another dialogue of epic proportions](NotTheTagArticles/29-07-2023-another-dialogue-of-epic-proportions.md)
+
+
+
 
 
 Sometimes this doesn't sync ;-; 
