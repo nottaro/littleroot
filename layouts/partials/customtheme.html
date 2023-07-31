@@ -74,8 +74,8 @@ p {
 {{ if eq .Params.css "bees" }}
 <style>
 :root {
-  --light: yellow;
-  --dark: black;
+  --light: rgb(255, 255, 136) !important;
+  --dark: rgba(111, 95, 56, 0.88)  !important;
   --secondary: #695816;
   --tertiary: #adb1c4;
   --visited: #afbfc9;
@@ -91,6 +91,38 @@ p {
   --light: rgba(111, 95, 56, 0.88)  !important;
   --dark: rgb(255, 255, 136) !important;
   --secondary: #e4bf2c !important;
+  --visited: #91d8f4 !important;
+  --tertiary: #6272a4 !important;
+  --primary: #f58382 !important;
+  --gray: #d4d4d4 !important;
+  --lightgray: #292633 !important;
+  --outlinegray: #343434 !important;
+  --highlighted: #574010;
+}
+</style>
+{{ end }}
+
+
+{{ if eq .Params.css "ocean" }}
+<style>
+:root {
+  --light: #2292A4 !important;
+  --dark: #0F0A0A  !important;
+  --secondary: #22a465;
+  --tertiary: #adb1c4;
+  --visited: #afbfc9;
+  --primary: #f28482;
+  --gray: #4e4e4e;
+  --lightgray: #f0f0f0;
+  --outlinegray: #dadada;
+  --million-progress-bar-color: var(--secondary);
+  --highlighted: #f5dfaf88;
+}
+
+[saved-theme="dark"] {
+  --light: #0F0A0A !important;
+  --dark: #2292A4 !important;
+  --secondary: #22a465 !important;
   --visited: #91d8f4 !important;
   --tertiary: #6272a4 !important;
   --primary: #f58382 !important;

@@ -1,7 +1,7 @@
 ---
 title: Articles
 enableToc: false
-css: everforest
+css: ocean
 ---
 
 Get it? It's art?
@@ -41,10 +41,6 @@ Just some thoughts and articles that I publish
 [24-07-2023 Taco Cat Goat Cheese Pizza](NotTheTagArticles/24-07-2023-taco-cat-goat-cheese-pizza.md)
 
 [29-07-2023 Another dialogue of epic proportions](NotTheTagArticles/29-07-2023-another-dialogue-of-epic-proportions.md)
-
-
-
-
 
 Sometimes this doesn't sync ;-; 
 
