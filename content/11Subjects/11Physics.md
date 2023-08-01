@@ -55,6 +55,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ### Electricity
 
-[Static Electricity](11Physics/StaticElectricity.md)
+[Electricity](11Physics/Electricity.md)
+
+[Electric Circuits](11Physics/Circuits.md)
 
 More to come!

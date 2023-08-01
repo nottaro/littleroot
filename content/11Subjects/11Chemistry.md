@@ -71,6 +71,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Alkenes](11Chemistry/Alkenes.md)
 
+[Alkynes](11Chemistry/Alkynes.md)
+
+[Biofuels](11Chemistry/Biofuels.md)
 
 ### Misc
 

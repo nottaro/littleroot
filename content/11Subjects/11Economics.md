@@ -9,6 +9,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 My year 11 economics teacher is really bad...
 
+probably discontinued, but who knows
+
 ## Unit 1: Microeconomics
 
 > [!summary] Year 11 Content
@@ -53,4 +55,6 @@ My year 11 economics teacher is really bad...
 - Not finished
 
 [Inflation](11Economics/Inflation.md)
+
+[Unemployment](11Economics/Unemployment.md)
 

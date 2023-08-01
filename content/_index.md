@@ -3,6 +3,7 @@ title: Littleroot
 css: everforest
 ---
 
+blaze 👍
 
 
 > [!important]- And Next Door Kyle bellows a response that would echo through time.

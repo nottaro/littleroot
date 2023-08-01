@@ -1,5 +1,5 @@
 ---
-title: Static Electricity
+title: Electricity
 css: littleroot
 ---
 
