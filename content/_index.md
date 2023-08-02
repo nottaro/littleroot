@@ -39,6 +39,8 @@ why is this not syncing
 > [Writings](WritingsDocs/Writings.md)
 > 
 >[The Bulbapedia](Bulbapedia.md)
+>
+>[Quotes](Quotes.md)
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
 - Update 5/4/2023: I've finished my Spec notes
