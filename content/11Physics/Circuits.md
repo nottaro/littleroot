@@ -24,3 +24,17 @@ title: Electric Circuits
 	 - e.m.f., electromotive force
 	 - Measured in volts (V)
 - Galvanometer: a very sensitive ammeter
+
+## Why do electrons move in a circuit?
+- ELectrical potential energy: results from a separation of charge, i.e. potential difference i.e. voltage i.e. e.m.f.
+- $$V=\frac{W}{q}$$
+- V = voltage/pd/emf measured in volts (V)
+- W = ($\Delta E$) = work done on charges (J)
+- q = charge (C)
+
+### Current
+- Current: rate of flow of charge
+$$I=\frac{q}{\Delta t}$$
+- I = current in amperes (A)
+- q = charge (C)
+- t = time elapsed (s)
