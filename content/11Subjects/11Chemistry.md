@@ -66,12 +66,15 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Stoichiometry](11Chemsitry/)
 
 ### Term 3: Organic Chemistry
+- there's also some stuff in year 10 notes
 
 [Alkanes](11Chemistry/Alkanes.md)
 
 [Alkenes](11Chemistry/Alkenes.md)
 
 [Alkynes](11Chemistry/Alkynes.md)
+
+[Isomerism](11Chemistry/Isomerism.md)
 
 [Biofuels](11Chemistry/Biofuels.md)
 

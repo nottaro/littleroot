@@ -42,5 +42,7 @@ Just some thoughts and articles that I publish
 
 [29-07-2023 Another dialogue of epic proportions](NotTheTagArticles/29-07-2023-another-dialogue-of-epic-proportions.md)
 
+[04-08-2023 The deepest darkest dungeon](NotTheTagArticles/04-08-2023-the-deepest-darkest-dungeon.md)
+
 Sometimes this doesn't sync ;-; 
 

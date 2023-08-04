@@ -17,7 +17,7 @@ The Town:
 11.  [Mace's Notes](https://macesnotes.netlify.app/) by Mace Chettiyaden
 12. [Loren's 2023 Notion](https://ionized-satellite-e99.notion.site/Loren-s-2023-Notion-cd03827de0a743468d9fb5a70413fc95) by Loren Wilde
 13. [Cringe Notes](https://grimreaper2654.github.io/Notes/) by Tom Qiu
-14. [Baju's](https://baju-s.toomwn.xyz/) by Ajay Bisnath
+
 
 
 

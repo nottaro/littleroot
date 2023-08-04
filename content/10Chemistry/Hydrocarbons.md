@@ -176,12 +176,12 @@ title: Hydrocarbons
 ### **Structural Isomerisms**
 -   Different structural formulae
 -   Chain isomerism
--   Carbon chain is arranged differently, e.g. different shape, L shape instead of chain, cross shape
+	-   Carbon chain is arranged differently, e.g. different shape, L shape instead of chain, cross shape
 -   Positional isomerism
--   Functional group is attached to a different carbon atom, e.g. 3-chloropentane, 2-chloropentane
--   Also exists in alkenes with 4 or more carbon atoms
+	-   Functional group is attached to a different carbon atom, e.g. 3-chloropentane, 2-chloropentane
+	-   Also exists in alkenes with 4 or more carbon atoms
 -   Functional group isomerism
--   Have different functional groups, so are members of different homologous series
+	-   Have different functional groups, so are members of different homologous series
 
 ### **Stereoisomerism**
 -   Have same structural formula
