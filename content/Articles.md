@@ -3,9 +3,6 @@ title: Articles
 enableToc: false
 css: ocean
 ---
-
-Get it? It's art?
-
 In a DD-MM-YYYY format.
 
 Just some thoughts and articles that I publish

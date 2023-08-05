@@ -31,6 +31,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Semester 2
 
-[Samuel Wagan Watsan](11Literature/SamWaganWatson.md)
+[Lit Conference Notes](11Literature/Conference.md)
 
 More to come!
