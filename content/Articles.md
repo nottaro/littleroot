@@ -41,5 +41,7 @@ Just some thoughts and articles that I publish
 
 [04-08-2023 The deepest darkest dungeon](NotTheTagArticles/04-08-2023-the-deepest-darkest-dungeon.md)
 
+[05-08-2023 Some movies I recommend watching](NotTheTagArticles/05-08-2023-some-movies-i-recommend-watching.md)
+
 Sometimes this doesn't sync ;-; 
 

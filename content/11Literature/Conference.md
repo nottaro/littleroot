@@ -7,6 +7,7 @@ title: Lit Conference Notes
 totally not stolen from dasindu
 (fr tho i added the adaptation/transformation bit)
 
+
 ## Brenda Matthews (The Last Daughter)
 
 - Regression? Loss, abandonment, rejection; love, search for identity
@@ -29,7 +30,8 @@ totally not stolen from dasindu
 ### Sense of identity
 
 - Duality (J and H noooooo) of Australia's identity
-- As a child, she was used to
+- As a child, she was used to not experiencing racism/discrimination
+	- She thought she and her sister were the same, e.g. skin colour
 - Sought to heal herself after
 
 ### Forgiveness
