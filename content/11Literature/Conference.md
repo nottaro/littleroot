@@ -62,7 +62,7 @@ totally not stolen from dasindu
     - Wonderful impact, understanding of truth
     - Collective story, we can all be healed
 
-##Claire Jones - Unpacking Australian Historical Fiction
+## Claire Jones - Unpacking Australian Historical Fiction
 
 - AIATSIS Map of Indigenous Australia - attempt to map cultural groupings of Indigenous Australia
     - Shows the general locations of larger groupings of people which include clans, dialects, or individual languages in a group
