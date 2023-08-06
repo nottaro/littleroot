@@ -2,11 +2,11 @@
 title: Lit Conference Notes
 ---
 
+
 [go back](11Subjects/11Literature.md)
 
 totally not stolen from dasindu
 (fr tho i added the adaptation/transformation bit)
-
 
 ## Brenda Matthews (The Last Daughter)
 
