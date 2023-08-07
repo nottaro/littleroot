@@ -1,0 +1,16 @@
+---
+title: Trigonometry
+css: jacaranda
+---
+
+[go back](11Subjects/11Specialist.md)
+
+### Content you are assumed to know
+- Angles in degrees in radians (and converting between units)
+- Defining sin  and cos using the unit circle
+- Graphs of y = sin x, y = cos x, and y = tan x
+- The Pythagorean Identity
+	- $sin^2 x + cos^2 x =1$
+- Symmetry properties of trig functions
+	- $sin \theta = sin (\pi - \theta)$
+- Exact values of trig functions for integer multiples of $\frac{\pi}{2}, \frac{\pi}{4}$ and $\frac{\pi}{6}$ radians
