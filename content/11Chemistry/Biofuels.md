@@ -42,3 +42,6 @@ $$C_6 H_{12}O_6 \rightarrow 2C_2H_6O + 2CO_2$$
 - Biofuels are not completely carbon neutral because energy is used in the production and transportation of the biofuel
 - This energy is often provided by fossil fuels
 - There are also concerns that the
+	- The what? 
+		- apples?
+		- bananas?

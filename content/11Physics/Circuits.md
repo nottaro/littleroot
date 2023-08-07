@@ -38,3 +38,9 @@ $$I=\frac{q}{\Delta t}$$
 - I = current in amperes (A)
 - q = charge (C)
 - t = time elapsed (s)
+
+## Series Circuits
+- When components in a circuit are connected in the same path, they are said t be in **series**
+- When components are connected in different branches of a circuit, they are said to be in **parallel**
+- Anneterss must be connected in series
+- Voltmeters must be connected in parallel

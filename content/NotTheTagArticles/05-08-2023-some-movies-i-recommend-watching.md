@@ -28,3 +28,7 @@ anyway, here we go
 - One of those timeless movies
 - Vikings!!!
 
+### The Batman (2022)
+- Very dark
+- Gives Gotham a Gothic feel
+- I like it a ton
