@@ -68,16 +68,16 @@ $$PV=nRT=k$$
 	- y axis is number of particles in a sample
 	- x axis is energy
 ![](Screenshot%202023-08-08%20at%2012.58.49%20pm.png)
-- At a given tempreature, particles of all gases have the same distribution of kinetic energies, no matter what size their particles are. 
+- At a given temperature, particles of all gases have the same distribution of kinetic energies, no matter what size their particles are. 
 - The relationship between kinetic energy, mass, and velocity is $e = \frac{1}{2}mv^2$
-- This means that particles with a greater mass with have a lower average velocitiy, and vice versa
+- This means that particles with a greater mass with have a lower average velocity, and vice versa
 
 ## Measuring Temperature
-- The **absolute** or **thermoidynamic scale of temperature** is a measure of the average kinetic energy of the particles. 
+- The **absolute** or **thermodynamic scale of temperature** is a measure of the average kinetic energy of the particles. 
 - Measured in degrees **Kelvin** (K)
-- When temperature is measured in Kelvin, the temperature of a substance is directly proportiona to the average kinetic energy of its particles
+- When temperature is measured in Kelvin, the temperature of a substance is directly proportional to the average kinetic energy of its particles
 - Absolute temperature starts at **absolute zero** - the theoretical lowest possible temperature, at which point the particles would have no kinetic energy
-- The absolut sacle jhas units of the same magnitude as the celsius scale
-- Converting to and from Kelivn and degrees Celsiuis
+- The absolute scale has units of the same magnitude as the celsius scale
+- Converting to and from Kelvin and degrees Celsius
 $$T(K)=T(˚C)+273.15$$
 $$T(˚C)=T(K)-273.15$$
