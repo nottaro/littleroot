@@ -70,7 +70,7 @@ Given a true conditional statement, If A then B:
 3. Show that this leads to an impossible conclusion  
 4. “The negation of this conjecture is incorrect as it contradicts…”  
 5. Then the conjecture must be true
-![](11SubjectImages/proof1.png)![](11SubjectImages/proof2.png)
+![](images/proof1.png)![](images/proof2.png)
 
 ## Recurring Decimals as Fractions
 - Sometimes, you'll be asked to represent recurring decimals as fractions

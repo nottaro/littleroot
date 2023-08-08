@@ -7,7 +7,7 @@ enableToc: true
 
 - Measures responsiveness of quantity supplied of a good to a change in its price, ceteris paribus
 
-![](11SubjectImages/pes.png)
+![](images/pes.png)
 
 
 -   When a price change results in a more than proportionate change in quantity supplied, SS is **************************price elastic**************************

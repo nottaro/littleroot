@@ -29,14 +29,14 @@ enableToc: true
 
 >[!example]- Cement factory
 >
->Consider a cement factory that emits smoke into the air and disposes its waste by dumping it into the ocean. There is a production externality, because over and above the firm’s private costs of production, there are additional costs that spill over onto society due to the polluted air and ocean, with negative consequences for the local inhabitants, swimmers, sea life, the fishing industry and the marine ecosystem. This is shown in the Figure, where the supply curve, S = MPC, reflects the firm’s private costs of production, and the marginal social cost curve given by MSC represents the full cost to society of producing cement.![](11SubjectImages/negativeproductionexternality.png)
+>Consider a cement factory that emits smoke into the air and disposes its waste by dumping it into the ocean. There is a production externality, because over and above the firm’s private costs of production, there are additional costs that spill over onto society due to the polluted air and ocean, with negative consequences for the local inhabitants, swimmers, sea life, the fishing industry and the marine ecosystem. This is shown in the Figure, where the supply curve, S = MPC, reflects the firm’s private costs of production, and the marginal social cost curve given by MSC represents the full cost to society of producing cement.![](images/negativeproductionexternality.png)
 >
 >For each level of output, Q, social costs of producing cement given by MSC are greater than the firm’s private costs. The vertical difference between MSC and MPC represents the external costs. Since the externality involves only production (the supply curve), the demand curve represents both marginal private benefits and marginal social benefits. The Figure illustrates a general point that you should keep in mind whenever you examine (or draw) an externality diagram: the free market outcome is determined by the intersection of MPB and MPC, resulting in quantity $Q_m$ and price $P_m$. The social optimum (or ‘best’) outcome is given by the intersection of MSB with MSC, which determines quantity $Q_{opt}$ and price $P_{opt}$.
 
 > [!info]- Welfare Loss
 > - Whenever there is an externality, there is a welfare (deadweight) loss, involving a reduction in social benefits, due to the misallocation of resources.
 > - In the Figure, the shaded area represents the welfare loss arising from the negative production externality.
-> - For all units of output greater than $Q_{opt}$, MSC > MSB, meaning that society would be better off if less were produced. ![](11SubjectImages/welfareloss.png)
+> - For all units of output greater than $Q_{opt}$, MSC > MSB, meaning that society would be better off if less were produced. ![](images/welfareloss.png)
 > - The welfare loss is equal to the difference between MSC and MSB for the amount of output that is overproduced ($Q_m - Q_{opt}$).
 > - It is a loss of social benefits due to overproduction of the good caused by the externality
 > - If the externality were corrected, so that the economy reaches the social optimum, the loss of benefits would disappear.
@@ -55,14 +55,14 @@ enableToc: true
 >- In the Figure, the buyers of cigarettes have a demand curve, MPB, but when smoking, create external costs for non- smokers
 >- These costs can be thought of as ‘negative benefits’, which therefore cause the MSB curve to lie below the MPB curve.
 >- The vertical difference between MPB and MSB represents the external costs.
->  ![](11SubjectImages/NCE.png)
+>  ![](images/NCE.png)
 >  -   Note that since the externality involves consumption (i.e. the demand curve), the supply curve represents both marginal private costs and marginal social costs.
 >  -  The market determines an equilibrium quantity, Qm, and price Pm, given by the intersection of the MPB and MPC curves, but the social optimum is Qopt and Popt, determined by the intersection of the MSB and MSC curves.
 
 > [!info]+ Welfare Loss
 > - The welfare (deadweight) loss resulting from negative consumption externalities is the shaded area in the Figure, and represents the reduction in benefits for society due to the overallocation of resources to the production of the good.
 > - For all units of output greater than Qopt, MSC > MSB, indicating that too much of the good is produced.
-> ![](11SubjectImages/Welfareloss2.png)
+> ![](images/Welfareloss2.png)
 > - The welfare loss is equal to the difference between the MSC and MSB curves for the amount of output that is overproduced relative to the social optimum (Qm – Qopt).
 > - It represents the loss of social benefits from overproduction due to the externality. If this externality were corrected, society would gain the benefits represented by the shaded area.
 
@@ -78,14 +78,14 @@ enableToc: true
 > [!example]+ Example
 > - In the Figure, the MSC curve lies below the MPC curve, and the difference between the two curves is the value of the external benefits (these can be thought of as ‘negative costs’).
 > - The demand curve represents both MPB and MSB since the externality involves only production.
-> - ![](11SubjectImages/PPE.png)
+> - ![](images/PPE.png)
 > - The market gives rise to equilibrium quantity Q m and price Pm, determined by the intersection of the MPB and MPC curves, while the social optimum is given by Qopt and Popt, determined by the intersection of the MSB with MSC curves.
 > - Since Qm < Qopt, the market underallocates resources to research and development activities that lead to new technologies, and not enough of them are undertaken.
 
 > [!info]+ Welfare Loss
 > - The underallocation of resources to the production of a good with a positive production externality leads to a welfare loss, shown in the Figure as the shaded area.
 > - This loss is equal to the difference between the MSB and MSC curves for the amount of output that is underproduced relative to the social optimum (Qopt – Qm).
-> ![](11SubjectImages/Welfareloss3.png)
+> ![](images/Welfareloss3.png)
 > - It involves external benefits for society that are lost because not enough of the good is produced. If the externality were corrected, society would gain the benefits represented by the shaded area.
 > -   Note that the point of the welfare loss triangle lies at the Qopt quantity of output.
 
@@ -100,11 +100,11 @@ enableToc: true
 > - In the Figure, we see that the marginal social benefit (MSB) curve lies above the marginal private benefit (MPB) curve, and the difference between the two consists of the external benefits to society.
 > - The socially optimum quantity, Qopt, is given by the point where MSB = MSC, and the quantity produced by the market is given by the point where MPB = MPC.
 > - Since Qopt > Qm, the market underallocates resources to education, and too little of it is produced.
-> ![](11SubjectImages/Example2.png)
+> ![](images/Example2.png)
 
 > [!info]+ Welfare Loss
 > - The welfare loss arising from a positive consumption externality is the shaded area in the Figure, and is the difference between the MSB and MSC curves for the amount of output that is underproduced relative to the social optimum (Qopt – Qm).
-> ![](11SubjectImages/Welfareloss3%201.png)
+> ![](images/Welfareloss3%201.png)
 > -   It represents the loss of social benefits due to underproduction of the good.
 > - If this externality were corrected, society would gain the benefits represented by the shaded area.
 > - Once again, we see that the point of the welfare loss triangle lies at the Qopt quantity of output.

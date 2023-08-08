@@ -69,7 +69,7 @@ title: Market Power
 >   The equilibrium price (Pe) and quantity (Qe) is efficient. 
 > - At the equilibrium, total surplus (the sum of consumers and producer surplus) is maximised.
 > - CS + PS = Total Surplus maximised
->   ![](marketpower.png)
+>   ![](images/marketpower.png)
 
 > [!note]+  Market Power -  Barriers to Entry 2
 > - The figure below shows the effect of market power. 
@@ -80,7 +80,7 @@ title: Market Power
 > - There is deadweight loss in economic welfare because the market has been restricted. 
 > - This is the classic case against monopoly and why monopolies and oligopolies are criticised for being inefficient. 
 > - Most countries now have government legislation which promotes a competitive business environment and tries to prevent firms with market power from exploiting the market.
->   ![](11SubjectImages/marketpower2.png)
+>   ![](images/marketpower2.png)
 
 ### Anti-competitive Behaviour
 - Competition provides the spur for businesses to improve their performance, develop new products and respond to changing circumstances. 
@@ -89,7 +89,7 @@ title: Market Power
 - The term anti-competitive behaviour refers to any agreements or arrangements between firms that seek to restrain competition and thereby remove the automatic regulation that competitive markets achieve. 
 - Any agreement between firms in an industry to fix prices to divide the market, or to prevent the entry of new. 
 - Business practices that try to reduce competition will result in market failure and will lead to a deadweight loss.
- ![](11SubjectImages/reducingcompetition.png)
+ ![](images/reducingcompetition.png)
 
 ## Government Policy
 - Market Power is prominent in imperfect markets such as monopoly and Oligopoly markets. 

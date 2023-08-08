@@ -11,7 +11,7 @@ enableToc: true
 - **Molecule**: group of atoms bonded together covalently
 
 
-![](11SubjectImages/classification-of-matter2-l-3855192718.jpg)
+![](images/classification-of-matter2-l-3855192718.jpg)
 
 
 

@@ -9,7 +9,8 @@ css: bees
 - People who are actually participating in it, by working or looking for work
 - Labour force: sum of employed and unemployed people
 - The labour force participation rate is the proportion of people eligible to participate in the labour force
-
+- The labour force is defined as the sum of the employed and unemployed
+- Labour force
 ## The Non-Accelerating Inflation Rate of Unemployment (NAIRU)
 
 ### NAIRU and Spare Capacity

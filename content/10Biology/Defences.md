@@ -90,7 +90,7 @@ title: The Body's Defences
 ⁃ Neutrophils (Neutrophilic \[stained only by neutral dyes] white blood cell)
 ⁃ Macrophages (develop from monocytes)
 
-![](11SubjectImages/Pasted%20Graphic.png)
+![](images/Pasted%20Graphic.png)
 
 ### Inflammatory Response (Inflammation)
 - Response to any tissue damage

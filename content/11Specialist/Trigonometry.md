@@ -21,3 +21,5 @@ $$cos (-\theta)=cos(\theta)$$
 $$tan(-\theta)=-tan(\theta)$$
 $$sin(\theta + \frac{\pi}{2})=cos(\theta)$$
 $$cos(\theta - \frac{\pi}{2})=sin(\theta)$$
+## Solving Trig Equations
+- Equation which involves a trig function

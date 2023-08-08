@@ -6,8 +6,8 @@ title: Crude Oil
 
 ## Coal and Crude Oil Formation
 
-![](11SubjectImages/Crude%20Oil%20Formation.png)
-![](11SubjectImages/Coal%20Formation.png)
+![](images/Crude%20Oil%20Formation.png)
+![](images/Coal%20Formation.png)
 
 ## Fractional Distillation
 - A method of separating fractions of crude oil

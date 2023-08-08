@@ -8,7 +8,7 @@ enableToc: true
 
 - Measures the responsiveness of quantity demanded of a good to a change in its price, ceteris paribus
 
-![](11SubjectImages/ped.png)
+![](images/ped.png)
 
 -   Depends on what %Δ you want, use price for price, and QD for QD
 -   Elasticity declines along demand curve as we move towards quantity axis

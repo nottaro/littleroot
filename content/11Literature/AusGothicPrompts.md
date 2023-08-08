@@ -26,7 +26,7 @@ enableToc: true
 
 > [!example]- Flood insurance
 >
- The sun is broiling the land dry. Half the country is on fire. You look up at the sky and worry about your flood insurance.![](11SubjectImages/FloodInsurance.png)
+ The sun is broiling the land dry. Half the country is on fire. You look up at the sky and worry about your flood insurance.![](images/FloodInsurance.png)
 
 > [!example]- Swooping season 
 > 

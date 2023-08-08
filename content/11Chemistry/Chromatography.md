@@ -94,6 +94,6 @@ $$Rf=\frac{Solute_{distance}}{Solvent_{distance}}$$
 ## Column Chromatography (Extension)
 - Mobile phase is passed through (under pressure) the stationary phase
 - Interaction between the MP and SP with the compounds in the mixture enable separation
-![](11SubjectImages/ColumnChromatography.png)
+![](images/ColumnChromatography.png)
 
 

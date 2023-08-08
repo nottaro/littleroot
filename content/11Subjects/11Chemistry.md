@@ -65,7 +65,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Stoichiometry](11Chemsitry/)
 
-### Term 3: Organic Chemistry
+### Term 3: Organic Chemistry/Kinetic Theory
 - there's also some stuff in year 10 notes
 
 [Alkanes](11Chemistry/Alkanes.md)
@@ -77,6 +77,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Isomerism](11Chemistry/Isomerism.md)
 
 [Biofuels](11Chemistry/Biofuels.md)
+
+[Kinetic Theory](11Chemistry/Kinetic-Theory.md)
 
 ### Misc
 

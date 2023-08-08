@@ -44,7 +44,7 @@ title: Nuclear Physics In Real Life
 	-   Ensures energy release is controlled and stable, due to them controlling the amount of neutrons for fission
 -   Coolant: liquid to absorb heat energy that has been produced by nuclear fission, goes to cooling tower to cool down
 	-   e.g. water
--   Radiation shield: thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor![](11SubjectImages/Screen%20Shot%202022-09-27%20at%208.00.46%20pm.png)
+-   Radiation shield: thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor![](images/Screen%20Shot%202022-09-27%20at%208.00.46%20pm.png)
 
 ## **Uses of Radiation**
 ### **Medical Tracers**
@@ -72,4 +72,4 @@ title: Nuclear Physics In Real Life
 -   Carbon has a half life of 5730 years
 -   Since it’s only good for 40-50000 years, it’s good for measuring the age of human artefacts and similar things, but useless for determining things in the millions, e.g. dinosaur fossils, ancient rock formations
 -   For this, we use the decay of uranium into lead, which takes around 4.5 billion years
--   By measuring how much lead is present, we can also determine the age of this specimen![](11SubjectImages/Contamination.png)
+-   By measuring how much lead is present, we can also determine the age of this specimen![](images/Contamination.png)

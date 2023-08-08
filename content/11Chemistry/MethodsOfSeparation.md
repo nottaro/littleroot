@@ -32,12 +32,12 @@ enableToc: true
 - Liquid passes through, leaving the solid in the filter paper
 - Filtration can be used to separate an insoluble substance from a soluble substance
   
-- ![](11SubjectImages/filtration-diagram-2714072149.jpg)
+- ![](images/filtration-diagram-2714072149.jpg)
 ### Separating Funnel
 - Used to separate substances of different densities, i.e. immiscible liquids/substances
 - Put into a separating funnel, which is then shook
 - The materials will separate due to their different densities, with the most dense at the bottom
- - ![](11SubjectImages/SeparatingFunnel.png)
+ - ![](images/SeparatingFunnel.png)
 
 ### Decantation
 - Done to separate particulates form a liquid by allowing the solids to settle to the bottom of the mixture and pouring off the particle free part of the liquid
@@ -46,7 +46,7 @@ enableToc: true
 ### Distillation
 - Used to separate homogenous mixtures
 - Based on difference in boiling points of substances involved 
-- ![](11SubjectImages/Distillation.png)
+- ![](images/Distillation.png)
 
 ### Evaporation
 - Solution is heated, and becomes more concentrated

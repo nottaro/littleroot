@@ -63,9 +63,9 @@ Taxes on a demand and supply curve **only affects the supply curve**
 6. Affects Consumption
 
 **When graphing Consumer/Producer Surplus: Always use original supply curve to calculate, not the new supply curve (with tax)**
-![](11SubjectImages/Screenshot%202023-05-21%20at%204.41.59%20pm.png)
+![](images/Screenshot%202023-05-21%20at%204.41.59%20pm.png)
 ## Incidence of Taxation
-![](11SubjectImages/Screenshot%202023-05-21%20at%204.41.11%20pm.png)
+![](images/Screenshot%202023-05-21%20at%204.41.11%20pm.png)
 
 ### Who bears a heavier tax burden
 
@@ -95,4 +95,4 @@ Taxes on a demand and supply curve **only affects the supply curve**
 -   Total subsidy: $P_1P_2\times0Q_1$
 -   Consumers get: $P_1P_0\times0Q_1$
 -   Producers get: $P_0P_2*0Q_1$
-![](11SubjectImages/Screenshot%202023-05-21%20at%204.50.08%20pm.png)![](11SubjectImages/Screenshot%202023-05-21%20at%205.11.30%20pm.png)
+![](images/Screenshot%202023-05-21%20at%204.50.08%20pm.png)![](images/Screenshot%202023-05-21%20at%205.11.30%20pm.png)

@@ -58,7 +58,7 @@ enableToc: true
 - A substance is described as slightly soluble if a saturated solution is 0.01 mol $L^{-1}$ to 0.1 mol $L^{-1}$. 
 - A substance is described as insoluble if a saturated solution is below 0.01 mol L-1.
 
-![](11SubjectImages/SolubilityDependency.png)
+![](images/SolubilityDependency.png)
 
 # Precipitation
 

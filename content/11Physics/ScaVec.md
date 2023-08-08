@@ -48,10 +48,10 @@ $$ Work=Fs $$
 
 ******************************************For 2 Vectors A and B******************************************
 
-![](11SubjectImages/vec.png)
+![](images/vec.png)
 
 We can use the triangle method:
-![](11SubjectImages/tri.png)
+![](images/tri.png)
 
 
 and use the Cosine Rule to find the magnitude of side c:
@@ -69,6 +69,6 @@ This also works for the reciprocals of this equation.
 
 We can also use the ******parallelogram method,****** and use the methods described above
 
-![](11SubjectImages/para.png)
+![](images/para.png)
 
 There’s also adding vector components, but that’s a bit complicated, and we don’t need to know that at this point in time.

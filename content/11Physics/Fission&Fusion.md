@@ -23,7 +23,7 @@ $$^1_0n+ ^{235}_{92}U->^{141}_{56}Ba+^{92}_{36}Kr+3 ^1_0 n$$
 -   Cold fusion is a concept that entails nuclear fusion happening at room temperature
 -   Hydrogen bomb is based on concept of nuclear fusion
 -   Usually releases neutrons or protons as well as new nucleus
-![](11SubjectImages/Screen%20Shot%202022-10-08%20at%203.46.43%20pm.png)![](11SubjectImages/Fission%20&%20Fusion.png)
+![](images/Screen%20Shot%202022-10-08%20at%203.46.43%20pm.png)![](images/Fission%20&%20Fusion.png)
 - Strong magnetic field is required for magnetic confinement
 - Ensures plasma doesn’t escape
 - Confinement ensures that fusion occurs, and makes it safe

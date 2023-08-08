@@ -145,7 +145,7 @@ A common example of a gamma ray emitter is iodine-131. Iodine-131 decays by beta
 -   Shorter the wavelength, higher the frequency
 -   This energy is mainly expressed as light, but can be expressed as heat or electricity
 -   Radiation can be emitted in the form of electromagnetic waves (gamma rays)
-![](11SubjectImages/Increasing%20Frequency%20(v).webp.png)
+![](images/Increasing%20Frequency%20(v).webp.png)
 
 
 ## **Half Life**

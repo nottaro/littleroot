@@ -17,7 +17,7 @@ title: Electric Circuits
 - Electron current refers to flow of electrons
 
 ## Circuit Diagrams
- ![](11SubjectImages/Pasted%20image%2020230801092559.png)
+ ![](images/Pasted%20image%2020230801092559.png)
  - Ammeter: measures current (I), unit ampere (A)
  - Voltmeter: measures potential difference (pd)
 	 - Voltage (V)

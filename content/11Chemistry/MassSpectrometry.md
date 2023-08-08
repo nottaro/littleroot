@@ -16,7 +16,7 @@ enableToc: true
 - Analytical technique used to determine the relative abundance of isotopes and the types of isotope present for a specific element
 
 ### Process
-![](11SubjectImages/MassSpectrometry.png)
+![](images/MassSpectrometry.png)
 1. **Vaporisation**: Sample containing atoms or molecules of interest is injected into the mass spectrometer. The sample, usually in a aqueous or organic solution, is vaporised by a heater
 2. **Ionisation**: Sample is bombarded by high-energy electrons that have enough energy to displace electrons off the atom, turning them into cations.
 3. **Acceleration**: The ions are accelerated through charged plates
@@ -28,4 +28,4 @@ enableToc: true
 	2. Frequency of each isotope is measured. The mass spectrum is produced based off of these 2. 
 
 
-![](11SubjectImages/MassSpectrumCarbonDioxide.png)
+![](images/MassSpectrumCarbonDioxide.png)

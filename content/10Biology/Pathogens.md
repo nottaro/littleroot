@@ -26,7 +26,7 @@ title: Pathogens
 		- Sugars and amino acids
 - Cell membrane
 	- Similar to that of other cells
-![](11SubjectImages/Bacteria%20Locations.pdf)
+![](images/Bacteria%20Locations.pdf)
   
 ### Types of Bacteria
 - Bacteria are classified into groups based on their basic shapes
@@ -71,7 +71,7 @@ title: Pathogens
 - Bacteria use pili to harness DNA from dead bacteria to incorporate into their own DNA
 	- Horizontal gene transfer
 - Evolutionary advantage such as obtaining antibiotic resistance
-![](11SubjectImages/Screenshot%202022-11-02%20at%205.22.41%20pm.png)
+![](images/Screenshot%202022-11-02%20at%205.22.41%20pm.png)
   
 
 ## Viruses
@@ -114,7 +114,7 @@ title: Pathogens
 - Reproduce by forming spores
 - Fungal disease: pneumocystis pneumonia caused by Pneumocystis jirovecii
 
-  ![](11SubjectImages/Screenshot%202022-11-02%20at%205.24.01%20pm.png)
+  ![](images/Screenshot%202022-11-02%20at%205.24.01%20pm.png)
 
 ## Protist
 - Large diverse group of microorganisms that aren’t plants, animals or fungi

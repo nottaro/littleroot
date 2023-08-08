@@ -58,7 +58,7 @@ title: Immunity
 2. T-cell goes into effectors cell stage that is able to kill infected cells
 	- Activation of phagocytes, t-lymphocytes and cytokines in response to an antigen
 	- Doesn’t involve antibodies
-![](11SubjectImages/Pasted%20Graphic%201.png)
+![](images/Pasted%20Graphic%201.png)
 
 
 #### **Humoral Immune Response**
@@ -69,4 +69,4 @@ title: Immunity
 3. Some B lymphocytes evolve into the resting state: memory cells
 	- Mediated by macromolecules, e.g. antibodies, located in extracellular fluids
 	- Uses antibodies
-![](Pasted%20Graphic%202.png)
+![](images/Pasted%20Graphic%202.png)

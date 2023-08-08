@@ -20,7 +20,7 @@ enableToc: true
 	2. Non-mechanical waves do not require a medium, e.g. EMR
 
 ## Anatomy of a Wave
-![](11SubjectImages/236375072-3709402252.png)
+![](images/236375072-3709402252.png)
 - Crest: Highest displacement of a particle in the positive direction
 	- Highest point in the graph
 - Trough: Lowest displacement of a particle in the negative direction
@@ -68,15 +68,15 @@ $$v=f{\lambda}=\frac{\lambda}{T}$$
 - **Diffraction around corners**
 	- When a wave moves past a corner, due to the wavefront being a source of secondary wavelets; the wave diffracts and spreads out. 
 	- The area where there is no diffraction is called the shadow region
-![](11SubjectImages/Diffraction1.png)
+![](images/Diffraction1.png)
 - **Wavelength Effect**
 	- Diffraction increases with increase in wavelength. 
 	- Thus long wavelength (low frequency) waves are diffracted more than short wavelength (high frequency) waves
 	- This is why ultrasound waves don’t diffract much and are used for locating purposes such as in sonar or ultrasound; they do not disperse/diffract much at all.
-![](11SubjectImages/Diffraction2.png)
+![](images/Diffraction2.png)
 - **Aperture Size Effect** 
 	- As the aperture size increases, the extent of diffraction decreases. 
 	- As the aperture Size decreases, the extent of diffraction increases 
 	- The diffraction is greater when wavelength size is roughly equal to the aperture size
 	- For apertures smaller than the wavelength size, there is no diffraction
-![](11SubjectImages/Diffraction3.png)
+![](images/Diffraction3.png)

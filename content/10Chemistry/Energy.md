@@ -32,9 +32,9 @@ Cause + Effect enhanced
 3.  Average global temperatures rise
 4.  Ice melting and sea level rises
 
-![](11SubjectImages/The%20Greenhouse%20Effect.png)
+![](images/The%20Greenhouse%20Effect.png)
 
-![](11SubjectImages/Earth's%20surface.png)
+![](images/Earth's%20surface.png)
 - Some sunlight is absorbed by greenhouse gases. However, the kinetic energy formed by the greenhouse gasses moving and the absorbed sunlight, heats up the earth
 
 
@@ -125,9 +125,9 @@ Endothermic reactions have a positive value for △H, meaning enthalpy has incre
 ## **Representing Energy Changes in Chemical Reactions**
 -   Enthalpy change can be shown graphically using an energy profile graph, or it can be written along with the equation 
 -   Sometimes the heat absorbed or released during the reaction is written into the equation, rather than giving the enthalpy change
-![](11SubjectImages/Exothermic.png)
-![](11SubjectImages/Activation%20energy.png)
-![](11SubjectImages/Exothermic%20reaction.png)
+![](images/Exothermic.png)
+![](images/Activation%20energy.png)
+![](images/Exothermic%20reaction.png)
 - When a catalyst is used, less energy is needed for a reaction to occur
 - Activation energy: amount of energy required to start/sustain reaction
 - catalyst: substance that lowers activation energy of the reaction, and is not consumed during the reaction
