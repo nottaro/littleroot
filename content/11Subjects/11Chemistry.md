@@ -63,7 +63,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [pH Calculations](11Chemistry/pHCalculations.md)
 
-[Stoichiometry](11Chemsitry/)
+[Stoichiometry](11Chemistry/Stoichiometry.md)
 
 ### Term 3: Organic Chemistry/Kinetic Theory
 - there's also some stuff in year 10 notes

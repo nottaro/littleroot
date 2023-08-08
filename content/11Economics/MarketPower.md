@@ -1,8 +1,7 @@
 ---
 title: Market Power
 ---
-
-#marketfailure
+#ongoing 
 
 [go back](11Subjects/11Economics.md)
 

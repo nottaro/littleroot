@@ -3,6 +3,8 @@ title: Market Failure - Externalities
 enableToc: true
 ---
 
+#ongoing
+
 [go back](11Subjects/11Economics.md)
 
 - Occurs when the actions of consumers or producers give rise to *negative* or *positive* side effects on others who are **not part of these actions**,  and whose interests are not taken into consideration

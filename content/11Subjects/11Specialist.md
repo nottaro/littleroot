@@ -24,7 +24,7 @@ Note: These are notes for a subject that requires you to do practice questions t
 
 [Matrices](11Specialist/Matrices.md)
 
-[Induction]
+[Induction](11Specialist/Induction.md)
 
 [Trigonometry](11Specialist/Trigonometry.md)
 
