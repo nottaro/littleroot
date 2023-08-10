@@ -24,5 +24,10 @@ title: Ideal Gases
 	4. Number of particles
 
 ## Ideal Gas Laws
-
+- Given that the gas is ✨ideal✨
 ### Boyle's Law
+- The pressure of a gas increases as its volume decreases, and vice versa
+- tldr: pressure is inversely proportional to volume
+- We are assuming:
+	1. Constant mass
+	2. Constant temperature
