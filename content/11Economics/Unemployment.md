@@ -3,6 +3,8 @@ title: Unemployment
 css: bees
 ---
 
+#ongoing
+
 [go back](11Subjects/11Economics.md)
 
 ## The Labour Force
@@ -10,7 +12,22 @@ css: bees
 - Labour force: sum of employed and unemployed people
 - The labour force participation rate is the proportion of people eligible to participate in the labour force
 - The labour force is defined as the sum of the employed and unemployed
-- Labour force
+- Labour force participation rate (LFPR) or participation rate = Labour force x 100%
+
+### Economically Inactive Population
+- The economically inactive population comprises all persons who are neither "employed" nor "unemployed" during the short reference period used to measure "current activity"
+	- Therefore, not working and neither looking for work
+- This population is split into four groups:  
+	1. Attendant at educational instns; (eg. full time students ) 
+	2. Retired
+	3. Engaged in family duties; (housewives)
+	4. Other economically inactive (eg. the ill, disabled, prisoners, etc.)
+
+![](images/Screenshot%202023-08-09%20at%205.26.14%20pm.png)
+
+## The Unemployed
+
+
 ## The Non-Accelerating Inflation Rate of Unemployment (NAIRU)
 
 ### NAIRU and Spare Capacity

@@ -67,7 +67,7 @@ $$PV=nRT=k$$
 - The **Maxwell-Boltzmann distribution** describes the distribution of kinetic energies of particles at a given temperature
 	- y axis is number of particles in a sample
 	- x axis is energy
-![](Screenshot%202023-08-08%20at%2012.58.49%20pm.png)
+![](images/Screenshot%202023-08-08%20at%2012.58.49%20pm.png)
 - At a given temperature, particles of all gases have the same distribution of kinetic energies, no matter what size their particles are. 
 - The relationship between kinetic energy, mass, and velocity is $e = \frac{1}{2}mv^2$
 - This means that particles with a greater mass with have a lower average velocity, and vice versa
@@ -81,3 +81,4 @@ $$PV=nRT=k$$
 - Converting to and from Kelvin and degrees Celsius
 $$T(K)=T(˚C)+273.15$$
 $$T(˚C)=T(K)-273.15$$
+

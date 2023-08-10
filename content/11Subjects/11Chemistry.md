@@ -80,6 +80,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Kinetic Theory](11Chemistry/Kinetic-Theory.md)
 
+[Ideal Gases](11Chemistry/IdealGases.md)
+
 ### Misc
 
 [Potable Water](11Chemistry/PotableWater.md)
