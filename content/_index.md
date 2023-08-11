@@ -22,25 +22,25 @@ blaze 👍
 
 Heya! I'm [Jonathan](WritingsDocs/AboutMe.md)! This is a website I made as a side project! Thanks to [nottacoz](https://github.com/nottacoz) and [EddieTheEd](https://github.com/eddietheed) for helping! 
 
-You're quite welcome, Ajay. 
+You're quite welcome, Ajay. 👍
 
-I'm a proud member of [the town](WritingsDocs/town.md). ~~I have broken away from the town, along with Edward.~~ I have come back to my senses. We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md). 
+I'm a proud member of ✨[the town](WritingsDocs/town.md)✨. ~~I have broken away from the town, along with Edward.~~ I have come back to my senses. We should have a town page coming.....Osacr is making it. These are my [sister sites](townsites.md). 
 
-why is this not syncing
+why is this not syncing 😭
 
 > [!info] This is what is important
 > 
-> [Subjects](Subjects.md)
+> [📚Subjects](Subjects.md)
 > 
-> [The tacoz treasure](tacoztreasure.md)
+> [🌮The tacoz treasure](tacoztreasure.md)
 > 
->[Articles](Articles.md)
+>[📝Articles](Articles.md)
 > 
-> [Writings](WritingsDocs/Writings.md)
+> [✍️Writings](WritingsDocs/Writings.md)
 > 
->[The Bulbapedia](Bulbapedia.md)
+>[🌳The Bulbapedia](Bulbapedia.md)
 >
->[Quotes](Quotes.md)
+>[🗣️Quotes](Quotes.md)
 
 Originally my notes were on paper, but I'm working on copying them over! This is why my Methods ~~and Specialist~~ notes aren't complete...
 - Update 5/4/2023: I've finished my Spec notes
@@ -56,7 +56,7 @@ These notes are on Obsidian, and run using [jzha0](https://github.com/jackyzha0)
 > 
 > Disclaimer: This is a technicality, so don't try this.
 
-I'm 6'10", in case you were wondering. Also I have a 530 000 IQ mental CPU.
+I'm ✨6'10"✨, in case you were wondering. Also I have a ✨530 000✨ IQ mental CPU.
 
 Inumaki just like me fr
 

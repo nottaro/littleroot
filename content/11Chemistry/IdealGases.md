@@ -31,3 +31,12 @@ title: Ideal Gases
 - We are assuming:
 	1. Constant mass
 	2. Constant temperature
+
+### Brownian Motion
+- Gas particles move in an irregular, seemingly random path
+- Example: smoke
+	- When an air particle bombardes a smoke particle, the smoke particle moves to the original direction of the air particle
+	- The air particle changes its direction to that of the smoke particle
+
+### Pressure and Temperature
+- Pressure

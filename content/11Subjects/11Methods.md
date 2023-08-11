@@ -20,4 +20,6 @@ Note: These are notes for a subject that requires you to do practice questions t
 
 [Trigonometry](11Methods/Trigonometry.md)
 
+[Indices](11Methods/Indices.md)
+
 More to come!

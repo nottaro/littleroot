@@ -9,7 +9,7 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
-### Linear Motion
+### 💨Linear Motion
 
 [Key Variables](11Physics/Variable.md)
 
@@ -27,7 +27,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Work, Force and Power](11Physics/WorkForcePower.md)
 
-### Waves
+### 🌊Waves
 
 [Waves](11Physics/Waves.md)
 
@@ -39,7 +39,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Closed and Open Pipes](11Physics/ClosedAndOpenPipes.md)
 
-### Nuclear Physics
+### ☢️Nuclear Physics
 
 [Nuclear Decay](11Physics/Nuclear%20Physics.md)
 
@@ -53,10 +53,12 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [All the "real life uses" stuff](11Physics/nuclearphysicsinreallife.md)
 
-### Electricity
+### ⚡️Electricity
 
 [Electricity](11Physics/Electricity.md)
 
 [Electric Circuits](11Physics/Circuits.md)
+
+[11 Physics Investigation](11Physics/CircuitInvestigation.md)
 
 More to come!

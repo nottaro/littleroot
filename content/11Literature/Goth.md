@@ -11,7 +11,7 @@ enableToc: true
 -   A time of “intellectual darkness”
 -   Feudal societies resign many citizens to the uneducated peasantry
 -   Artistic and cultural developments of Antiquity perceived to have halted
--   Emphasis on logic and reason gives way to increased reliance on ****************dogmatic**************** systems of belief
+-   Emphasis on logic and reason gives way to increased reliance on **dogmatic** systems of belief
     -   Church of England
     -   Superstitions or folk beliefs
 -   Also historically associated with violence, depravity

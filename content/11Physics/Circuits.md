@@ -6,7 +6,7 @@ title: Electric Circuits
 
 - Consists of converting electrical potential energy into other useful types of energy
 - 3 parts to a circuit (minimum)
-	1. Source of potential emergy
+	1. Source of potential energy
 		1. Battery
 		2. Electrical cells
 		3. Power points
