@@ -1,3 +1,4 @@
+
 ---
 title: Year 11 Chemistry Notes
 enableToc: false
@@ -12,7 +13,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Unit 1
 
-### Term 1: Atomic Structure, Periodic Table, Bonding, Polarity, Intermolecular Forces
+### ⚛️ Term 1: Atomic Structure, Periodic Table, Bonding, Polarity, Intermolecular Forces
 
 [Key Definitions](11Chemistry/Definitions.md)
 
@@ -41,7 +42,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Periodicity - REDUNDANT APART FROM ALLOTROPES](11Chemistry/Periodicity.md)
 
-### Term 2: Properties of Matter, Solubility, Concentration, Separation Techniques
+### ⚗️Term 2: Properties of Matter, Solubility, Concentration, Separation Techniques
 
 [Properties of Matter](11Chemistry/PropertiesofMatter.md)
 
@@ -81,6 +82,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 [Kinetic Theory](11Chemistry/Kinetic-Theory.md)
 
 [Ideal Gases](11Chemistry/IdealGases.md)
+
+[Thermodynamics](11Chemistry/thermodynamics.md)
 
 ### Misc
 

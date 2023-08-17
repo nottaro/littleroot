@@ -35,3 +35,50 @@ thank god cycle isn't spelt with an "s"
 - A trough represents the cycle's minimum level of GDP, or the end of the contraction
 - There may now be widespread unemployment
 - A trough is followed by a new period of expansion (also known as a recovery), marking the beginning of a new cycle
+
+## Indicators
+- An indicator is anything that can be used to predict future financial or economic trends
+- For example, the social and economic statistics published by accredited sources, such as the various departments in the government, are indicators
+- Some of the popular indicators they put out include unemployment rates, housing stats, inflationary index, and consumer confidence
+- Official indicators must meet certain set criteria; there are **three categories** of indicators, classified according to the types of predictions they make
+
+### Leading indicators
+- Signal future events
+1. Share prices
+	1. Share prices go up in response to an increase in demand
+	2. Indicates company performance
+2. Building approvals
+	1. More building approvals - more demand for building
+3. Levels of stock (inventory) held by firms
+	1. If inventory level rises, demand rises
+	2. If inventory level falls, demand is falling
+4. Manufacturers new orders
+5. Business and consumer confidence
+	1. Falling confidence means falling growth
+6. Consumer expectations
+7. New employment vacancies
+8. New business start-ups
+
+### Lagging Indicators
+- One that follows an event
+1. Interest rates
+2. Consumer debt
+3. Unemployment rate
+4. Bankruptcies
+5. Inflation rate
+
+### Coincident indicators
+- Occur at approximately the same time as the conditions they signify
+- Change at the same time as the economy/stock market
+1. GDP
+2. Manufacturing output
+3. Sales of consumer durables
+4. Production of building materials
+5. Retail sales
+6. Job advertisements
+7. Motor vehicle sales
+8. Money supply
+9. Capacity utilisation
+
+### Summary:
+- Leadding indicators move ahead of the

@@ -23,5 +23,12 @@ $$cos (-\theta)=cos(\theta)$$
 $$tan(-\theta)=-tan(\theta)$$
 $$sin(\theta + \frac{\pi}{2})=cos(\theta)$$
 $$cos(\theta - \frac{\pi}{2})=sin(\theta)$$
-## Solving Trig Equations
-- Equation which involves a trig function
+## General solutions to trig equations
+- Remember that a trig equation such as $cos(\theta) = 0.3$ has infinitely many solutions
+	- There are 2 solutions even in one revolution of the unit circle
+	- However, a scientific calculator, if asked to evaluate $cos^{-1}(0.3)$ will only give one value
+	- How does it decide which value to give?
+- Inverse trig functions
+	- By convention: $cos^{-1}$ has range $\{ \theta | 0 ≤ \theta ≤ \pi \}$
+	- By convention: $sin^{-1}$ has range $\{ \theta | -\frac{π}{2} ≤ \theta ≤ \frac{π}{2}  \}$
+	- By convention: $tan^{-1}$ has range $\{ \theta | -\frac{π}{2} < \theta < \frac{π}{2}  \}$

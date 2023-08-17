@@ -25,6 +25,8 @@ title: Comparative Analysis
 	- Values
 - Draft a thesis and topic sentences that outline those patterns
 - **ONE** pattern per paragraph: HOW + WHAT
+- Either choose 3 HOW(techniques/poetic devices) patterns and identify the ideas they construct
+- Or choose 3 WHAT(ideas) patterns and identify the techniques that construct them
 
 ### Tracing patterns across 2 poems
 - Cheap white goods
@@ -35,3 +37,15 @@ title: Comparative Analysis
 		- Tone
 			- Sardonic, bitter, critical
 	- WHAT - devaluing of indigenous culture, commodification of indigenous culture (Western Capitalist values - making money), death of indigenous culture, domination by mainstream Western culture (dismissive attitude towards indigenous culture)
+
+## Poems/Meanings
+- **jaded olympic moments**
+	- highlighting how much land is worth to indigenous australians
+	- potentially criticises colonial ideas by illustrating the negative effects of colonialism
+- **cheap white-goods at the dreamtime sale**
+	- highlights how little aboriginal culture is valued
+	- how their culture is like a theme park attraction, i.e. people are interested in it, but don't actually want to engage
+	- compares their culture to "cheap white-goods"
+		- perhaps implies that their culture is worth as much as a knock-off brand, or represents that their culture is a knock-off of others, e.g. other religion such as christianity
+	- sacred sites, e.g. uluru, are not treated with the same amount of respect as other monuments are 
+	- furthermore, sacred monuments are not viewed as such by european/american society

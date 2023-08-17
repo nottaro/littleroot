@@ -2,7 +2,6 @@
 title: Kinetic Theory
 ---
 
-#ongoing
 
 [go back](11Subjects/11Chemistry.md)
 
@@ -82,3 +81,20 @@ $$PV=nRT=k$$
 $$T(K)=T(˚C)+273.15$$
 $$T(˚C)=T(K)-273.15$$
 
+## Applying Kinetic Theory
+- Kinetic theory can be used to explain many important properties of gases
+1. Gases diffuse quickly because gas particles move rapidly and randomly through the large amount of empty space between particles to spread out
+2. Gases are easily compressed due to the large amount of empty space between particles
+3. Gases spread out to fill a container due to the negligible forces of attraction between particles
+4. Gases exert pressure because the particles move randomly/rapidly and collide with the interior surfaces of the container
+5. Gases have low densities due to the large amount of space between particles
+
+### Why increasing temperature increases the pressure of gas in a sealed vessel
+- Increased average kinetic energy of gas particles
+- Increases force of collisions on walls of the container
+- Increased velocity/speed of particles
+- Increases frequency of collisions will walls of container
+
+## Molar Volumes of Gases
+- If the temperature and pressure are fixed at convenient standard values, the molar volume of a gas can be determined
+- At standard temperature and pressure (273.15 K andd 100 kPa, 1 mole of any gas occupies a volume of 22.71 L. This is the molar volume)
