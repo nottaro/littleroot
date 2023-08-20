@@ -26,14 +26,14 @@ title: Electric Circuits
 - Galvanometer: a very sensitive ammeter
 
 ## Why do electrons move in a circuit?
-- ELectrical potential energy: results from a separation of charge, i.e. potential difference i.e. voltage i.e. e.m.f.
+- Electrical potential energy: results from a separation of charge, i.e. potential difference i.e. voltage i.e. e.m.f.
 - $$V=\frac{W}{q}$$
 - V = voltage/pd/emf measured in volts (V)
 - W = ($\Delta E$) = work done on charges (J)
 - q = charge (C)
 
 ### Current
-- Current: rate of flow of charge
+- Current: rate of flow of charge, a.k.a. flow of electrons
 $$I=\frac{q}{\Delta t}$$
 - I = current in amperes (A)
 - q = charge (C)

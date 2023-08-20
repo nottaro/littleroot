@@ -35,3 +35,10 @@ $$(\frac{1}{z})^x = z^{-x}$$
 ## Solving Exponential Equations and Inequalities
 - You literally just use mental math
 - Teacher really went "just get good"
+- ok uh
+- if $a^x = a^y$, it is assumed that $x=y$
+- One method for solving an exponential equation, without using a calculator, is first to express both sides of the equation as powers with the same base and then to equate the indices
+### The actual way
+- you use logarithmic functions
+- If $a^x = y$
+$$x=\frac{log(y)}{log(a)}$$
