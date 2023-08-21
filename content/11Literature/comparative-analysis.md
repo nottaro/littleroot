@@ -44,6 +44,9 @@ title: Comparative Analysis
 	- potentially criticises colonial ideas by illustrating the negative effects of colonialism
 	- highlights separation of race/colour
 		- "it’s still very much an US and THEM kind of deal in this modern dreaming"
+	- also highlights the different cultural values between colonists and aboriginals
+	- how disadvantaged aboriginals are
+		- "we're city people without a language and some of us have even less"
 - **cheap white-goods at the dreamtime sale**
 	- highlights how little aboriginal culture is valued
 	- how their culture is like a theme park attraction, i.e. people are interested in it, but don't actually want to engage
@@ -51,3 +54,33 @@ title: Comparative Analysis
 		- perhaps implies that their culture is worth as much as a knock-off brand, or represents that their culture is a knock-off of others, e.g. other religion such as christianity
 	- sacred sites, e.g. uluru, are not treated with the same amount of respect as other monuments are 
 	- furthermore, sacred monuments are not viewed as such by european/american society
+
+## raahim's memoir 21/8/23
+- ramadan
+- you can't eat food/drink water/swear during day
+- it's not that hard after the few couple of days
+- first month of the new lunar year
+- for the past couple of years ramadan has been happening in the winter time
+- in fact, the new year is already about a month in
+- it also depends on where you are
+- different places have different times
+- it is something you should do at least once in life
+- if you have the opportunity to do it, you must do it
+- hajj: pilgrimage where they go back to mecca(spiritual birthplace), spiritual center of islam
+	- used to be in jerusalem
+	- then the prophet got a message from God saying to change direction
+- have to pray every day, before the sun sets
+- raahim prays in the morning and twice after school
+- if he gets home on time, he prays at home
+- he also prays in AL1 at school if he has to
+- rules and regulations surrounding this
+	- is not easy
+	- tests faith
+- travelling has different rules
+	- if you know the direction to face and time, you're allowed to
+- does not matter if it's private or public (praying)
+- it's not compulsory when you are in the process of travelling
+	- you have to make up for it once you've landed
+	- as long as there's doubt, you don't have to
+	- when you're sure of your surroundings, you have to pray
+- Islam started 1400 years ago, around 600 AD
