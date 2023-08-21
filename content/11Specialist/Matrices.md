@@ -18,20 +18,7 @@ $$\begin{bmatrix} a & b \\ c & d \end{bmatrix} + \begin{bmatrix} w & x \\ y & z 
 ## Matrix Multiplication
 - 2 matrices can be multiplied if and only if the number of columns on the first matrix is equal to the number of rows on the second matrix
 
-$$\begin{bmatrix}  
-a & b \\  
-c & d   
-\end{bmatrix} \times
-
-\begin{bmatrix}  
-w & x \\  
-y & z  
-\end{bmatrix} = 
-
-\begin{bmatrix}  
-aw+by & ax+bz \\  
-cw+dy & cx+dz  
-\end{bmatrix}$$
+$$\begin{bmatrix}  a & b \\  c & d   \end{bmatrix} \times \begin{bmatrix}  w & x \\  y & z  \end{bmatrix} = \begin{bmatrix} aw+by & ax+bz \\  cw+dy & cx+dz  \end{bmatrix}$$
 
 ## The Identity Matrix
 - Basically the matrix equivalent of 1
