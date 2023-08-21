@@ -10,6 +10,10 @@ kanban-plugin: basic
 - [ ] Demon Slayer Season 3
 - [ ] mha season 5 and 6
 - [ ] Horimiya
+- [ ] jjk season 2
+- [ ] Tokyo ghoul
+- [ ] Tokyo ghoul:re
+- [ ] Suzume
 
 
 ## TV Shows to Watch
@@ -18,6 +22,21 @@ kanban-plugin: basic
 - [ ] Race to the Edge
 - [ ] Star Wars Visions
 - [ ] Obi Wan Kenobi
+- [ ] Doctor Who 11th and 12th doctor
+
+
+## Books to Read/Buy
+
+- [ ] Fractal Noise
+- [ ] One of Us is Back
+- [ ] Skulduggery Pleasant: Hell breaks loose
+
+
+## Movies
+
+- [ ] Pacific Rim + uprising
+- [ ] barbie
+- [ ] oppenheimer
 
 
 

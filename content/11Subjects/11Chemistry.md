@@ -85,6 +85,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Thermodynamics](11Chemistry/thermodynamics.md)
 
+[Rates of Reaction](11Chemistry/reaction-rates.md)
+
 ### Misc
 
 [Potable Water](11Chemistry/PotableWater.md)
