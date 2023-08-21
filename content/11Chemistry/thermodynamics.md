@@ -72,6 +72,8 @@ $$U = E_k + E_p$$
 - This results in energy being either given out or taken in during the reaction
 - This energy is the enthalpy change, $\Delta H$
 $$\Delta H =mc \Delta T$$
-- c = specific heat capacity (usually of water)
+- c = specific heat capacity (usually of water, unless told otherwise)
+	- Specific heat capacity: amount of energy to raise the temperature of 1 g of a substance by 1 ˚C
+	- Water: $4.18\  J g^{-1} C^{-1}$
 - m = mass (grams)
 - $\Delta T$ = change in temperature (kelvin)

@@ -42,6 +42,8 @@ title: Comparative Analysis
 - **jaded olympic moments**
 	- highlighting how much land is worth to indigenous australians
 	- potentially criticises colonial ideas by illustrating the negative effects of colonialism
+	- highlights separation of race/colour
+		- "it’s still very much an US and THEM kind of deal in this modern dreaming"
 - **cheap white-goods at the dreamtime sale**
 	- highlights how little aboriginal culture is valued
 	- how their culture is like a theme park attraction, i.e. people are interested in it, but don't actually want to engage

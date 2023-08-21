@@ -59,6 +59,10 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Electric Circuits](11Physics/Circuits.md)
 
-[11 Physics Investigation](11Physics/CircuitInvestigation.md)
+[Some equations](11Physics/SomeEquations.md)
+
+[Electrical Safety](11Physics/ElectricalSafety.md)
+
+
 
 More to come!

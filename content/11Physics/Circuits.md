@@ -71,6 +71,7 @@ $$I=\frac{q}{\Delta t}$$
 ### Resistance in a series component:
 - $V=IR_{total}=IR_1+IR_2+IR_3...$
 - $R_{total}=R_1+R_2+R_3...$
+- $V_k=IR_k$ 
 
 
 ### Resistance in a parallel component
