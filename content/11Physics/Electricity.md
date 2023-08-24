@@ -15,6 +15,7 @@ css: littleroot
 		- Neutron, anti-neutrino
 
 - An object of charge will produce an electric field around it
+- Charge: property that results in electrical phenomena
 - An electric field is the region around an object possessing the property of charge, which extends to infinity, and within which another object of charge (or not neutral object possessing charge) will experience an attractive or repulsive force, the strength of which decreases with distance, as per the inverse square law
 
 ## Electric Fields
@@ -40,6 +41,10 @@ css: littleroot
 ### Charging by conduction
 - Occurs when $e^-$ are unevenly distributed throughout the structure of an electrically neutral species
 - A charged object is brought into contact with another, and attracts, repulses electrons, making the other object gain a net charge
+#### Friction
+- When insulating materials rub against each other, they may become electrically charged
+- Electrons, which are negatively charged, may be ‘rubbed off’ one material and on to the other. The material that gains electrons becomes negatively charged. The material that loses electrons is left with a positive charge.
+- The electrons gain enough energy to leave/enter the materials
 ### Charging by Induction
 - Occurs when $e^-$ are unevenly distributed throughout the structure of an electrically neutral species
 - A charged object is brought *near* another

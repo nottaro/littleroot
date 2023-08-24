@@ -60,6 +60,5 @@ probably discontinued, but who knows
 
 [The Business Cycle](11Economics/TheBusinessCycle.md)
 
-[Year 11 Economics Investigation 2](11Economics/Investigation2.md)
 
 

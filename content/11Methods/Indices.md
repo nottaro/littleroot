@@ -42,3 +42,9 @@ $$(\frac{1}{z})^x = z^{-x}$$
 - you use logarithmic functions
 - If $a^x = y$
 $$x=\frac{log(y)}{log(a)}$$
+
+## Exponential Models and Applications
+- In the following, we consider a variable $A$ that is subjective to exponential change
+- Let $A$ be the quantity at time $t$
+- Thus, $A=A_0 b^t$, where $A_0$ is the initial quantity and $b$ is a positive constant
+	- If

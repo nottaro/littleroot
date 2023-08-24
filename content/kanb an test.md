@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] Tokyo ghoul
 - [ ] Tokyo ghoul:re
 - [ ] Suzume
+- [ ] Violet Evergarden
 
 
 ## TV Shows to Watch

@@ -9,11 +9,14 @@ enableToc: false
 
 THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP, AND FINAL CONTENT AT THE BOTTOM!
 
+
+### IMPORTANT 
+
+[Science Inquiry Skills](11Physics/SIS.md)
+
 ### 💨Linear Motion
 
 [Key Variables](11Physics/Variable.md)
-
-[Science Inquiry Skills](11Physics/SIS.md)
 
 [Scalars and Vectors](11Physics/ScaVec.md)
 
