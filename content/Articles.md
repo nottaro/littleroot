@@ -43,5 +43,7 @@ Just some thoughts and articles that I publish
 
 [05-08-2023 Some movies I recommend watching](NotTheTagArticles/05-08-2023-some-movies-i-recommend-watching.md)
 
+[25-08-2023 A list of emo things](NotTheTagArticles/25-08-2023-a-list-of-emo-things.md)
+
 Sometimes this doesn't sync ;-; 
 
