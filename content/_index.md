@@ -1,6 +1,7 @@
 ---
 title: Littleroot
 css: everforest
+enableToc: false
 ---
 
 blaze 👍
