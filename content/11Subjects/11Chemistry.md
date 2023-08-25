@@ -58,7 +58,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Unit 2
 
-### Term 2.5: Acids and Bases
+### 💦Term 2.5: Acids and Bases
 
 [Acids and Bases](11Chemistry/AcidsandBases.md)
 
@@ -66,7 +66,7 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Stoichiometry](11Chemistry/Stoichiometry.md)
 
-### Term 3: Organic Chemistry/Kinetic Theory
+### 🛢️Term 3: Organic Chemistry
 - there's also some stuff in year 10 notes
 
 [Alkanes](11Chemistry/Alkanes.md)
@@ -79,13 +79,16 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Biofuels](11Chemistry/Biofuels.md)
 
+
+### ⛽️Term 3.5: Kinetic Theory
+
 [Kinetic Theory](11Chemistry/Kinetic-Theory.md)
 
 [Ideal Gases](11Chemistry/IdealGases.md)
 
 [Thermodynamics](11Chemistry/thermodynamics.md)
 
-[Rates of Reaction](11Chemistry/reaction-rates.md)
+[Rates of Reaction and Collision Theory](11Chemistry/reaction-rates-and-collision-theory.md)
 
 ### Misc
 

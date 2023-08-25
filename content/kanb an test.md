@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] Demon Slayer Season 3
 - [ ] mha season 5 and 6
 - [ ] Horimiya
-- [ ] jjk season 2
+- [ ] hidden inventory arc
 - [ ] Tokyo ghoul
 - [ ] Tokyo ghoul:re
 - [ ] Suzume
@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] Star Wars Visions
 - [ ] Obi Wan Kenobi
 - [ ] Doctor Who 11th and 12th doctor
+- [ ] Ahsoka
 
 
 ## Books to Read/Buy
