@@ -31,8 +31,6 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 ## Semester 2
 
-
-
 [Lit Conference Notes](11Literature/Conference.md)
 
 [Comparative Analysis](11Literature/comparative-analysis.md)
