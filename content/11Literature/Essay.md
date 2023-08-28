@@ -1,7 +1,6 @@
 ---
 title: Essay Structure
 ---
-
 #ongoing
 
 [go back](11Subjects/11Literature)
