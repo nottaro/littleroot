@@ -10,11 +10,13 @@ kanban-plugin: basic
 - [ ] Demon Slayer Season 3
 - [ ] mha season 5 and 6
 - [ ] Horimiya
-- [ ] hidden inventory arc
 - [ ] Tokyo ghoul
 - [ ] Tokyo ghoul:re
 - [ ] Suzume
 - [ ] Violet Evergarden
+- [ ] hidden inventory arc
+- [ ] shibuya incident arc
+- [ ] zom 100: bucket list of the dead
 
 
 ## TV Shows to Watch

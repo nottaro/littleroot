@@ -37,4 +37,8 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Comparative Analysis](11Literature/comparative-analysis.md)
 
+[Essay Structure](11Literature/Essay.md)
+
+
+
 More to come!

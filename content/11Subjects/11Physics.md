@@ -66,6 +66,9 @@ THESE NOTES ARE IN ORDER OF THE CONTENT COVERED, WITH INITIAL CONTENT AT THE TOP
 
 [Electrical Safety](11Physics/ElectricalSafety.md)
 
+### 🔥Heat
+
+[Heat](11Physics/Heat.md)
 
 
 More to come!
