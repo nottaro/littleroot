@@ -2,8 +2,6 @@
 title: Proof by Induction
 ---
 
-#ongoing 
-
 [go back](11Subjects/11Specialist.md)
 
 ## "For all" statements

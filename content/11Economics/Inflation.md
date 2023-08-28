@@ -4,4 +4,5 @@ title: Inflation
 
 #ongoing 
 
-among us
+[go back](11Subjects/11Economics.md)
+
