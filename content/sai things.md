@@ -33,7 +33,7 @@
 - Process of changing conformation (shape) of a protein by placing the protein in a non optimum environment (temperature or pH)
 - Enzymes work best with specific pH and temperature ranges, i.e. optimum pH and optimum temperature
 - Non-optimum temperature
-	- When placed in a non-optimum temperature, the enzyme bonds (IMFS and weaker bonds like disulphide) are broekn if the temperature are high and this causes the enzyme to lose its unique 3D shape
+	- When placed in a non-optimum temperature, the enzyme bonds (IMFS and weaker bonds like disulphide) are broken if the temperature are high and this causes the enzyme to lose its unique 3D shape
 	- When placed in a very low temperature, the enzymes forms too manu bonds as distant groups are brought closer than usual and this results in a change in the functional group of the pH
 - Non-optimum pH
 	- When pH is increased, the solution is more basic, meaning the amine group will donate a proton (LCP)
@@ -133,3 +133,21 @@ $$C_{2}H_{4} + H_{2}O \to C_{2}H_{5}OH + \text{ 45 kj mol}^{-1} \text{ , catalys
 | e               | Fermentation                                                                                                                                                    | Hydration                |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | Type of process | Batch process: everything is put into a container and left until fermentation is complete then batch is cleared out and a new reaction is set up<br>Inefficient | Continuous flow process: |
+
+
+
+# Biodiesel
+- Short chain ester joined onto a fatty acid group
+	- Ethyl/methyl group onto free fatty acid via an ester
+- Reaction: triglyceride and an alcohol (methanol or ethanol), forming glycerol and 3 biodiesels
+- Lipase/base catalyst
+- We can also create from free fatty acids by adding an alcohol to it, via esterification
+
+### Base catalyse; non-specific reaction
+- side reaction (saponification) happening
+- Need to treat reactants.
+1. filter any foreign mass
+
+### Lipase 
+- Only catalyse specific reaction
+- No need to treat reactants
