@@ -146,12 +146,24 @@ $$C_{2}H_{4} + H_{2}O \to C_{2}H_{5}OH + \text{ 45 kj mol}^{-1} \text{ , catalys
 ### Base catalyse; non-specific reaction
 - side reaction (saponification) happening
 - Need to treat reactants.
+- Faster, cheaper, easier separated, available
+- Greater energy, have to treat products, sensitive to fatty acid cooncentration
 1. filter any foreign mass
 2. remoal of water, so ester does not enter hydrolysis (reverse of condensation)
 	1. This forms emulsion which is hard to separate
 3. free fatty acid concentration is decreased to below 4% to reduce saponification with NaOH
-4. The FFA is removed by addition of methanol/alchol and sulfiric acid then placing the vessel in heated conditions; producing alkyl acids, i.e. biodeisel
+4. The FFA is removed by addition of methanol/alchol and sulfiric acid then placing the vessel with triglyceride in heated conditions; producing alkyl acids, i.e. biodeisel
 
-### Lipase 
+### Lipase  (enzyme)
 - Only catalyse specific reaction
+- **free fatty acids and alcohol**
+- **triglyceride and alcohol**
 - No need to treat reactants
+- Lower temperature (mild)
+- milder pH and temperature (safer and cheaper)
+- cannot have a high alcohol concentration, leads to poisoning
+- can catalyse both triglycerides and fatty acids at the same time (they have similar structures)
+- Slow for catalyst
+- very expensive
+- lots of lipase needed
+- cannot easily be extracted
