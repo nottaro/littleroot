@@ -147,6 +147,10 @@ $$C_{2}H_{4} + H_{2}O \to C_{2}H_{5}OH + \text{ 45 kj mol}^{-1} \text{ , catalys
 - side reaction (saponification) happening
 - Need to treat reactants.
 1. filter any foreign mass
+2. remoal of water, so ester does not enter hydrolysis (reverse of condensation)
+	1. This forms emulsion which is hard to separate
+3. free fatty acid concentration is decreased to below 4% to reduce saponification with NaOH
+4. The FFA is removed by addition of methanol/alchol and sulfiric acid then placing the vessel in heated conditions; producing alkyl acids, i.e. biodeisel
 
 ### Lipase 
 - Only catalyse specific reaction
