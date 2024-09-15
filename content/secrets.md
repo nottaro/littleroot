@@ -1,4 +1,4 @@
-
+ 
 # Proteins
 
 ### Tertiary structure
@@ -139,7 +139,7 @@ $$C_{2}H_{4} + H_{2}O \to C_{2}H_{5}OH + \text{ 45 kj mol}^{-1} \text{ , catalys
 # Biodiesel
 - Short chain ester joined onto a fatty acid group
 	- Ethyl/methyl group onto free fatty acid via an ester
-- Reaction: triglyceride and an alcohol (methanol or ethanol), forming glycerol and 3 biodiesels
+- Reaction: triglyceride and an alcohol (methanol or ethanol), forming glycerol and 3 biodiesels (with sodium hydroxide catalyst)
 - Lipase/base catalyst
 - We can also create from free fatty acids by adding an alcohol to it, via esterification
 
