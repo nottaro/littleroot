@@ -18,6 +18,8 @@ enableToc: false
 > And Next Door Kyle bellows a response that would echo through time.
 
 test
+
+> [!warning] This is discontinued! I will not be updating these.
 ## Hello!
 
 Welcome to Littleroot v2!
@@ -111,3 +113,94 @@ Source: trust me bro
 	- as long as there's doubt, you don't have to
 	- when you're sure of your surroundings, you have to pray
 - Islam started 1400 years ago, around 600 AD
+
+
+### QUOTES FROM 2024!
+
+"i love to be solid" - ccc
+
+"i'm so hard hard" - ccc
+
+"i was so turned on" - hb
+
+"touch me" - dp
+
+"history is about forgetting the past" - pb
+
+"it's like dr robotnik without the moustache" - rb
+
+"i got atharva sathe my slut my whore" - eh
+
+"i'll suck it...anything for the book" - eh
+
+"i'll hook someone else up" - dr waters june 24 2024
+
+"go for the other ones, like children" - rz
+
+"and obviously he can't do anything because he's gay!" - rb
+
+"pecking opera" - eh
+
+"are we allowed to do advertising in public schools" - dr ormande waters
+
+"i’m a man who loved a woman created by a man" - rz
+
+"you have a nice weenie" - na
+
+"i'll give hatsune miku my VIP package" - th
+
+"definitely" - ccc, in response to "are you gay, christian"
+
+"there's nothing wrong with a child working overtime as a healer" - an
+
+"i thought that was primary school" - ed, in response to "a brothel is a place where people go to have sex"
+
+"hitler was right" - eh
+
+"if humans had wings, hitler would've won world war two" - eh
+
+"ryan reynolds, the hottest man to straight men" - rb
+
+
+"if you get a 10, you get to maintain the idea that song is female, and galliarmard gets his happy ending...life goals for some, not for me" - rb
+
+
+"real men suck it...i'm sucking it" - ccc
+
+"you know who didn't get an atar? jesus. people seem to like him" - rb
+
+"jesus literally went to tafe" - rb
+
+"hoenstly if someone sent me soemthing like "i would wreck you", i'd just send back miley cyrus. or wreck it ralph. or both." - rb
+
+"you guys haven't had the talk, have you" - vd
+
+"those goddamn russians, those goddamn communists" - ow
+
+"if you can find a novel way to kill people, that's always a good way to get funding" - ow
+
+"i don't care about the law" - ow
+
+"the good kind of grooming" - an
+
+"i'm gonna destroy your ass" - ccc
+
+"yes jonathan"
+"doesn't it need a-"
+"shut up" - ow
+
+"GYATT" - na
+
+"GYATT DAMN" - na
+
+"your ass is grass. that way, you can touch grass. maybe other people can touch grass." - ccc
+
+"if i didn't know murder wasn't ok, i would be punished for murdering you" - py
+
+"stay away from me with your plague" - an
+
+"pecking duck" - eh
+
+"in the first play of the scene" - eh
+
+"have i talked to you guys about arousal" - py

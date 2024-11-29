@@ -9,7 +9,7 @@ tags:
 
 [go back](12Subjects/12Chemistry.md)
 # Theory
-![[images/Screenshot 2024-02-14 at 10.00.30 am.png]]
+![[images/Screenshot 2024-02-14 at 10.00.30 am.png]]
 #### Primary cell
 - An electrochemical galvanic cell
 - In which a spontaneous redox reaction occurs to convert chemical potential energy into electrical energy

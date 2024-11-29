@@ -13,7 +13,7 @@ tags:
 
 ### Structuralism
 - Predominantly concerned with perceptions and description of structures
-- Claims nature of element in any given situation has no significiance by itself, and is in fact determined by all the other elemetns involved in the situation
+- Claims nature of element in any given situation has no significiance by itself, and is in fact determined by all the other elements involved in the situation
 - the full significance of any entity cannot be perceived unless and until it is integrated into the structure of which it forms a part (Hawkes, p. 11.)
 - Semiotics is the science of signs
 - Semiology proposes that a great diversity of our human action and productions all convey "shared" meanings to members of a particular culture, and so can be analysed as signs which function in diverse kinds of signifying systems
@@ -109,7 +109,7 @@ Rebels against patriarchal idea that a woman should be subservient to a man
 
 Churchill conveys the need to share and validate women's stories that is swept under the rug by the patriarchal society that is so frequent in postmodern literature.
 **Realistic conversational dialogue** (realism)
-- In Act One, a conversation is held in a restaurant between Marlene and various women who lived under the patriarchy in the past
+- In Act One, a conversation is held in a restaurant between Marlene and women affected by hegemony
 - Very frequently interrupt each other
 - Show this through "forward slashes"
 - This use of dramatic dialogue illustrates Churchill’s choice to imbue her characters with the desire to make themselves heard speaks to her thematic preoccupation with the necessity of sharing and validating women’s stories. 
@@ -129,9 +129,11 @@ Question: context: stuff abt loss of faith after ww1. 1st para: loss of faith 2n
 	- “Thine is the kingdom” references a Biblical Hymn, with the lyrics, “Thine is the kingdom, and the power, and the glory, amen.” To summarise, God is the ruler of everything in the universe. However, this line is italicised, implying that the line is given by an external voice. This external voice could potentially be related to God, as they know the Bible and can quote from it. Conversely, the speaker cannot; they try and fail, with “Thine is the…thine is the…”, representing their disconnection to God.
 - **Symbolism: Regaining faith**
 	- To further illustrate their lack of connection to God, the “hollow men” are described as blind, and “sightless”, with sight being a symbol of faith, and thus they are losing their faith. They can restore their “eyes”, i.e. faith, through a “multifoliate rose”. The rose is a symbol of the Virgin Mary in Catholicism, and thus the speaker is saying that to restore their faith, or “sight”, they need the Virgin Mary’s help.
+		- ALSO REFERS TO DANTE'S INFERNO!!!!
 	- Restoring their sight leads them to ”death’s twilight kingdom”, which symbolises heaven, and links to the common Catholic belief where rejection of God, leads to hell. This further supports the notion of having their “sight” restored, to save them from hell.
+		- Could also refer to Erebos, the Greek Underworld
 - **Metonym: Lack of salvation** (for darkness from lack of faith)
-	- The Shadow mentioned in the poem could also be interfering with the persona’s ability to relate to God. The Shadow interferes with notions such as "idea and reality", and "motion and act". In essence, it is dividing cause and effect, and seems to be tied to negative emotions, as increasingly nihilistic statements start to appear, as can be seen through the repetition of "this is the way the world ends".
+	- The  Shadow mentioned in the poem could also be interfering with the persona’s ability to relate to God. The Shadow interferes with notions such as "idea and reality", and "motion and act". In essence, it is dividing cause and effect, and seems to be tied to negative emotions, as increasingly nihilistic statements start to appear, as can be seen through the repetition of "this is the way the world ends".
 	- The persona views the Shadow as invincible; the poem ends with the world seemingly ending “not with a bang but a whimper”, suggesting an inevitability to this end, which, in a religious context, is not unlike Judgement Day.
 	- As the Shadow separates cause and effect, the world seemingly fades. However, the aforementioned allusions remind the reader that God can reset everything, i.e.  Make everything right, and perhaps provide the Hollow Men salvation, through a higher purpose. However, since the poem states that the world has already ended, the persona acknowledges their failure and has given up on trying to follow God, but still reminisces of their past religion.
 	- Reminiscent of judgement day, i.e. they know they can save themselves from judgement day, but refuse to, in order to atone for their sins
