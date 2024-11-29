@@ -19,7 +19,7 @@ enableToc: false
 
 test
 
-> [!warning] This is discontinued! I will not be updating these.
+> [!warning] This is discontinued! I will not be updating these. There are some final words somewhere, but you'll have to find them yourself :)
 ## Hello!
 
 Welcome to Littleroot v2!
