@@ -2,6 +2,8 @@
 title: Articles
 enableToc: false
 ---
+note: quite a lot of theses were written when I was in a very difficult situation, so it may appear....strange.
+
 Also known as Daily Notes
 
 In a DD-MM-YYYY format.
